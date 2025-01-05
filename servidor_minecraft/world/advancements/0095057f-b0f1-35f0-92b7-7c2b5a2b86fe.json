@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_plains": "2025-01-05 04:19:11 +0000",
       "minecraft:grove": "2025-01-05 03:17:01 +0000"
     },
     "done": false
