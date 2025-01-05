@@ -1,15 +1,33 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-01-05 03:17:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:grove": "2025-01-05 03:17:01 +0000"
     },
     "done": false
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-01-05 03:53:28 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-01-05 03:53:28 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-05 03:53:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-05 03:53:28 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
