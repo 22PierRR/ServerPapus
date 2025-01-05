@@ -2877,3 +2877,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'medieval_craft_weapons:centur
 [05Jan2025 03:55:12.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Timed out
 [05Jan2025 03:55:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
 [05Jan2025 03:55:13.044] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jan2025 04:12:44.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/[::1]:50220] logged in with entity id 409 at (26.584657370143983, 76.0, 9.136010051326204)
+[05Jan2025 04:12:44.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[05Jan2025 04:12:44.911] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[05Jan2025 04:14:30.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Timed out
+[05Jan2025 04:14:30.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[05Jan2025 04:15:33.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/[::1]:44000] logged in with entity id 643 at (5.369543763654971, 60.0, 3.6664375123869744)
+[05Jan2025 04:15:33.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[05Jan2025 04:15:33.808] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[05Jan2025 04:19:29.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was shot by Stray
