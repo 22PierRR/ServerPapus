@@ -4497,3 +4497,15 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [06Jan2025 02:02:46.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Ice and Fire]
 [06Jan2025 02:02:50.353] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
 [06Jan2025 02:03:58.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [First Village]
+[06Jan2025 02:05:09.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [No Step on Snake]
+[06Jan2025 02:06:37.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was pricked to death
+[06Jan2025 02:07:26.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [The Desert Pyramid]
+[06Jan2025 02:09:19.415] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:farmhouse], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house]] from pos BlockPos{x=-805, y=72, z=939}
+[06Jan2025 02:09:21.917] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2172ms or 43 ticks behind
+[06Jan2025 02:09:21.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -9.411032375375271,0.7521489003674589,3.4757181266622865
+[06Jan2025 02:10:27.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/3440, l='ServerLevel[world]', x=-900.34, y=67.31, z=792.75] died, message: 'Hunter was energized by Lightning Dragon'
+[06Jan2025 02:11:01.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was struck with lightning by a dragon
+[06Jan2025 02:11:29.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set 22PieroRR's game mode to Creative Mode
+[06Jan2025 02:12:17.123] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[06Jan2025 02:13:40.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Timed out
+[06Jan2025 02:13:40.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game

@@ -1,0 +1,88 @@
+{
+  "morevillagers:first_village": {
+    "criteria": {
+      "desert": "2025-01-06 02:03:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-01-06 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "desert": "2025-01-06 02:03:58 +0000"
+    },
+    "done": false
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-01-06 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-01-06 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-01-06 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "idas:desert_pyramid": {
+    "criteria": {
+      "in_desert_pyramid": "2025-01-06 02:07:26 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-06 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2025-01-06 02:05:07 +0000",
+      "minecraft:badlands": "2025-01-06 02:11:51 +0000",
+      "minecraft:river": "2025-01-06 02:04:07 +0000",
+      "minecraft:forest": "2025-01-06 02:12:04 +0000",
+      "minecraft:desert": "2025-01-06 02:02:47 +0000",
+      "minecraft:warm_ocean": "2025-01-06 02:06:33 +0000",
+      "minecraft:savanna": "2025-01-06 02:09:23 +0000",
+      "minecraft:plains": "2025-01-06 02:11:57 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-06 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-01-06 02:05:09 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-06 02:02:39 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-01-06 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
