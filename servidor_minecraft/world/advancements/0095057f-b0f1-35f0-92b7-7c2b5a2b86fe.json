@@ -1,7 +1,7 @@
 {
-  "morevillagers:first_village": {
+  "create:root": {
     "criteria": {
-      "desert": "2025-01-06 02:03:58 +0000"
+      "0": "2025-01-06 02:02:39 +0000"
     },
     "done": true
   },
@@ -10,12 +10,6 @@
       "tick": "2025-01-06 02:02:46 +0000"
     },
     "done": true
-  },
-  "morevillagers:all_villages": {
-    "criteria": {
-      "desert": "2025-01-06 02:03:58 +0000"
-    },
-    "done": false
   },
   "idas:idas_root": {
     "criteria": {
@@ -35,13 +29,19 @@
     },
     "done": true
   },
-  "idas:desert_pyramid": {
+  "betterdungeons:root": {
     "criteria": {
-      "in_desert_pyramid": "2025-01-06 02:07:26 +0000"
+      "always": "2025-01-06 02:02:46 +0000"
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-01-06 02:02:46 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-06 02:02:46 +0000"
     },
@@ -60,11 +60,17 @@
     },
     "done": false
   },
-  "dungeons_arise:wda_root": {
+  "morevillagers:first_village": {
     "criteria": {
-      "WDA": "2025-01-06 02:02:46 +0000"
+      "desert": "2025-01-06 02:03:58 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "desert": "2025-01-06 02:03:58 +0000"
+    },
+    "done": false
   },
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
@@ -72,15 +78,9 @@
     },
     "done": true
   },
-  "create:root": {
+  "idas:desert_pyramid": {
     "criteria": {
-      "0": "2025-01-06 02:02:39 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-01-06 02:02:46 +0000"
+      "in_desert_pyramid": "2025-01-06 02:07:26 +0000"
     },
     "done": true
   },

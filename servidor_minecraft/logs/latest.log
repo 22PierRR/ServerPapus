@@ -4509,3 +4509,13 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [06Jan2025 02:12:17.123] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
 [06Jan2025 02:13:40.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Timed out
 [06Jan2025 02:13:40.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[06Jan2025 02:17:45.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/[::1]:42680] logged in with entity id 6867 at (-494.9548221292315, 84.75252169851882, 1371.784805507591)
+[06Jan2025 02:17:45.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[06Jan2025 02:17:45.980] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[06Jan2025 02:19:46.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Timed out
+[06Jan2025 02:19:46.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[06Jan2025 02:20:29.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/[::1]:35558] logged in with entity id 7884 at (-478.3578177866748, 68.0, 1374.0558013176108)
+[06Jan2025 02:20:29.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[06Jan2025 02:20:29.686] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[06Jan2025 02:21:59.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Timed out
+[06Jan2025 02:21:59.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
