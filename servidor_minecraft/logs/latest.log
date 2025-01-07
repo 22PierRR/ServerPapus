@@ -1532,3 +1532,62 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [07Jan2025 23:43:30.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elrisas741[/127.131.184.95:33157] logged in with entity id 5121 at (34.18158611702745, 98.28549238931866, 11.583447992278833)
 [07Jan2025 23:43:30.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
 [07Jan2025 23:43:30.282] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
+[07Jan2025 23:44:54.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.65.5.114:46333] logged in with entity id 5894 at (-6.916766885658045, 89.0, 18.69999998807907)
+[07Jan2025 23:44:54.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[07Jan2025 23:44:54.272] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[07Jan2025 23:46:15.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Enchanting Tower]
+[07Jan2025 23:46:48.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Drunken Villager'/7155, l='ServerLevel[world]', x=37.94, y=72.00, z=9.28] died: Drunken Villager fell from a high place
+[07Jan2025 23:47:09.872] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Jan2025 23:47:09.889] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Jan2025 23:47:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Unlicensed Alchemist
+[07Jan2025 23:47:23.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [First Trade]
+[07Jan2025 23:47:23.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [What a Deal!]
+[07Jan2025 23:47:44.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 was kicked for floating too long!
+[07Jan2025 23:47:44.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Flying is not enabled on this server
+[07Jan2025 23:47:44.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[07Jan2025 23:47:55.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Suit Up]
+[07Jan2025 23:47:58.945] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elrisas741[/127.131.184.95:50507] logged in with entity id 7875 at (65.64925632782645, 95.31428201407068, 11.010082078097746)
+[07Jan2025 23:47:58.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
+[07Jan2025 23:47:59.039] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
+[07Jan2025 23:48:17.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Here They Come]
+[07Jan2025 23:48:37.970] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Jan2025 23:48:37.984] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Jan2025 23:48:43.766] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/1145, l='ServerLevel[world]', x=-14.12, y=103.00, z=49.70] died, message: 'Shepherd was slain by Zombie'
+[07Jan2025 23:48:43.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Unlicensed Alchemist
+[07Jan2025 23:49:12.125] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Jan2025 23:49:12.134] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Jan2025 23:49:20.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Knowledge of Death]
+[07Jan2025 23:49:20.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Chain Death]
+[07Jan2025 23:49:20.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Unlicensed Alchemist
+[07Jan2025 23:49:24.021] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[07Jan2025 23:49:24.029] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[07Jan2025 23:49:33.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was slain by Zombie
+[07Jan2025 23:49:33.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Your First Grave]
+[07Jan2025 23:49:48.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Suit Up]
+[07Jan2025 23:49:49.990] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Jan2025 23:49:50.031] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Jan2025 23:49:56.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Unlicensed Alchemist
+[07Jan2025 23:50:08.276] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Jan2025 23:50:08.284] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Jan2025 23:50:16.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Unlicensed Alchemist
+[07Jan2025 23:50:20.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR was kicked for floating too long!
+[07Jan2025 23:50:20.371] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Flying is not enabled on this server
+[07Jan2025 23:50:20.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[07Jan2025 23:50:36.216] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Jan2025 23:50:36.231] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Jan2025 23:50:43.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Unlicensed Alchemist
+[07Jan2025 23:51:12.526] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Jan2025 23:51:12.542] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Jan2025 23:51:18.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Zombie
+[07Jan2025 23:52:24.527] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Jan2025 23:52:24.534] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Jan2025 23:52:36.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Unlicensed Alchemist
+[07Jan2025 23:52:46.819] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Jan2025 23:52:46.831] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Jan2025 23:52:55.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Unlicensed Alchemist
+[07Jan2025 23:53:05.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.65.5.114:36849] logged in with entity id 12650 at (11.10245846694032, 116.39330225972094, 53.15876735062838)
+[07Jan2025 23:53:05.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[07Jan2025 23:53:05.613] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[07Jan2025 23:53:13.924] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[07Jan2025 23:53:13.934] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[07Jan2025 23:53:25.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Unlicensed Alchemist

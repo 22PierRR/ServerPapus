@@ -5,15 +5,33 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-01-07 23:49:50 +0000"
+    },
+    "done": true
+  },
   "idas:idas_root": {
     "criteria": {
       "always": "2025-01-07 23:36:26 +0000"
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-07 23:47:55 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-01-07 23:36:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-07 23:49:50 +0000"
     },
     "done": true
   },
@@ -31,6 +49,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-01-07 23:49:09 +0000",
       "minecraft:river": "2025-01-07 23:40:32 +0000",
       "minecraft:forest": "2025-01-07 23:36:27 +0000"
     },
@@ -60,6 +79,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-07 23:44:27 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-01-07 23:36:26 +0000"
@@ -72,6 +97,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-07 23:42:23 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2025-01-07 23:36:27 +0000"
@@ -81,6 +112,18 @@
   "dungeons_arise:find_greenwood_pub": {
     "criteria": {
       "location0": "2025-01-07 23:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-01-07 23:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-07 23:42:32 +0000"
     },
     "done": true
   },
