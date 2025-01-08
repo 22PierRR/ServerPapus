@@ -384,5 +384,11 @@
     },
     "done": false
   },
+  "savage_and_ravage:adventure/creeper_spores": {
+    "criteria": {
+      "creeper_spores": "2025-01-08 20:04:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
