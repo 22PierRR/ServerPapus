@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-01-08 00:40:17 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_villages": {
     "criteria": {
       "snowy": "2025-01-08 00:16:01 +0000"
@@ -49,6 +55,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-08 00:40:55 +0000",
       "minecraft:skeleton": "2025-01-08 00:28:42 +0000",
       "minecraft:stray": "2025-01-08 00:28:14 +0000",
       "minecraft:zombie": "2025-01-08 00:28:48 +0000"
@@ -96,6 +103,18 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-01-08 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-08 00:40:55 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_snowy": "2025-01-08 00:40:17 +0000"
     },
     "done": true
   },
@@ -156,6 +175,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-01-08 00:13:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-08 00:40:55 +0000"
     },
     "done": true
   },

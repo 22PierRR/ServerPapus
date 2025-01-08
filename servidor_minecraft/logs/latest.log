@@ -1566,3 +1566,23 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [08Jan2025 00:34:08.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Acquire Hardware]
 [08Jan2025 00:34:13.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Let's Get To Work]
 [08Jan2025 00:34:54.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Winter Wagon]
+[08Jan2025 00:40:04.031] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[08Jan2025 00:40:04.081] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[08Jan2025 00:40:17.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Safe Haven]
+[08Jan2025 00:40:55.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Knowledge of Death]
+[08Jan2025 00:40:55.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Ambush]
+[08Jan2025 00:41:04.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 was slain by elrisas741
+[08Jan2025 00:41:41.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 lost connection: Timed out
+[08Jan2025 00:41:41.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 left the game
+[08Jan2025 00:41:41.283] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jan2025 00:44:49.739] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[08Jan2025 00:44:49.750] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[08Jan2025 00:45:02.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was blown up by Creeper
+[08Jan2025 00:45:02.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Your First Grave]
+[08Jan2025 00:45:25.677] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.79.219.102:59193 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[08Jan2025 00:45:36.728] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.79.219.102:39579 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[08Jan2025 00:45:40.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.79.219.102:36003 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[08Jan2025 00:45:48.676] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.79.219.102:49679 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[08Jan2025 00:46:15.277] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.79.219.102:49673 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[08Jan2025 00:47:15.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[08Jan2025 00:47:15.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
