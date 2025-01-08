@@ -1227,3 +1227,10 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [08Jan2025 18:29:01.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Troll
 [08Jan2025 18:30:27.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Here They Come]
 [08Jan2025 18:33:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Not the Olympic Type]
+[08Jan2025 18:33:55.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Hot Stuff]
+[08Jan2025 18:35:11.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> zzzzzzzzzzzz
+[08Jan2025 18:35:37.787] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/17236, l='ServerLevel[world]', x=559.89, y=73.00, z=-522.55] died, message: 'Hunter hit the ground too hard'
+[08Jan2025 18:38:05.029] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[08Jan2025 18:38:05.042] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[08Jan2025 18:38:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Troll
+[08Jan2025 18:53:56.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [They Have a Cave Troll!]
