@@ -55,7 +55,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2025-01-07 23:36:44 +0000"
+      "minecraft:cherry_grove": "2025-01-07 23:53:41 +0000",
+      "minecraft:forest": "2025-01-07 23:36:44 +0000",
+      "minecraft:plains": "2025-01-07 23:53:43 +0000"
     },
     "done": false
   },
@@ -71,6 +73,12 @@
     },
     "done": true
   },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-01-07 23:46:15 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2025-01-07 23:47:23 +0000"
@@ -83,9 +91,9 @@
     },
     "done": false
   },
-  "tombstone:recipes/from_grave_key": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_ingredient": "2025-01-07 23:50:09 +0000"
+      "traded": "2025-01-07 23:47:23 +0000"
     },
     "done": true
   },
@@ -95,15 +103,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "tombstone:recipes/from_grave_key": {
     "criteria": {
-      "traded": "2025-01-07 23:47:23 +0000"
+      "has_ingredient": "2025-01-07 23:50:09 +0000"
     },
     "done": true
   },
-  "idas:enchantingtower": {
+  "simplefarming:root": {
     "criteria": {
-      "in_enchantingtower": "2025-01-07 23:46:15 +0000"
+      "pickup_seed": "2025-01-07 23:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-01-07 23:57:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-01-07 23:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-07 23:54:06 +0000"
     },
     "done": true
   },
