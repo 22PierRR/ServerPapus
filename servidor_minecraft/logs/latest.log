@@ -1586,3 +1586,5 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [08Jan2025 00:46:15.277] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: /127.79.219.102:49673 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
 [08Jan2025 00:47:15.933] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
 [08Jan2025 00:47:15.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[08Jan2025 00:54:27.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[08Jan2025 00:54:27.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
