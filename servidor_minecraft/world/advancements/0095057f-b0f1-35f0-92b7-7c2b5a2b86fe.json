@@ -226,7 +226,8 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "smoker": "2025-01-08 01:28:32 +0000",
-      "blastfurnace": "2025-01-08 21:41:41 +0000"
+      "blastfurnace": "2025-01-08 21:41:41 +0000",
+      "lectern": "2025-01-08 23:32:18 +0000"
     },
     "done": false
   },
