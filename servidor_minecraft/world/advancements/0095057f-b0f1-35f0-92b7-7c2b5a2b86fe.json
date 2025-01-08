@@ -389,6 +389,12 @@
     },
     "done": true
   },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-01-08 23:35:47 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-01-08 22:22:24 +0000"
@@ -406,6 +412,12 @@
       "kill_mimic": "2025-01-08 21:47:36 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "librarian": "2025-01-08 23:35:47 +0000"
+    },
+    "done": false
   },
   "idas:tinkers_citadel": {
     "criteria": {
@@ -442,6 +454,12 @@
       "blueberries": "2025-01-08 22:06:41 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-08 23:35:47 +0000"
+    },
+    "done": true
   },
   "betterdungeons:zombie_dungeon": {
     "criteria": {
