@@ -1151,3 +1151,23 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [08Jan2025 20:51:29.180] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.93.77.214:45751] logged in with entity id 2171 at (848.6999999880791, 39.0, 130.69999998807907)
 [08Jan2025 20:51:29.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
 [08Jan2025 20:51:29.203] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[08Jan2025 20:53:00.424] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 20:53:00.518] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 20:53:06.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was slain by Wither Skeleton
+[08Jan2025 20:53:16.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> ese mati xd
+[08Jan2025 20:54:33.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> w
+[08Jan2025 20:56:06.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> pq cada vez q entro al server me muero XD
+[08Jan2025 20:56:42.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> no se mano eso esta raro
+[08Jan2025 20:58:19.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Enchanting Tower]
+[08Jan2025 20:59:47.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[08Jan2025 20:59:47.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[08Jan2025 21:00:10.738] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.93.77.214:45115] logged in with entity id 7478 at (855.585055384859, 66.0, 108.30000001192093)
+[08Jan2025 21:00:10.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[08Jan2025 21:00:10.757] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[08Jan2025 21:00:50.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XD?
+[08Jan2025 21:00:58.564] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/7795, l='ServerLevel[world]', x=810.56, y=62.15, z=274.03] died, message: 'Weaponsmith was slain by Crocodile'
+[08Jan2025 21:01:02.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ahora somos suertudos
+[08Jan2025 21:01:24.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> que por que?
+[08Jan2025 21:01:30.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> por la luna
+[08Jan2025 21:01:34.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> esta azul
+[08Jan2025 21:01:53.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> aaa verdad
