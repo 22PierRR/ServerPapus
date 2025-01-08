@@ -1234,3 +1234,4 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [08Jan2025 18:38:05.042] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
 [08Jan2025 18:38:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Troll
 [08Jan2025 18:53:56.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [They Have a Cave Troll!]
+[08Jan2025 18:57:33.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Bone Crusher]
