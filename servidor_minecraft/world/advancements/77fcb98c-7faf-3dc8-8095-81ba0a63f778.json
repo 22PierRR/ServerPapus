@@ -271,6 +271,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-01-08 18:05:42 +0000"
+    },
+    "done": true
+  },
   "simplefarming:root": {
     "criteria": {
       "pickup_seed": "2025-01-08 17:49:32 +0000"
@@ -280,6 +286,12 @@
   "spartanweaponry:greatsword": {
     "criteria": {
       "has_greatsword": "2025-01-08 17:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-08 18:07:35 +0000"
     },
     "done": true
   },
@@ -294,6 +306,18 @@
       "wither_skeleton_skull": "2025-01-08 17:53:30 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-08 18:00:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-01-08 18:05:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

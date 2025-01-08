@@ -1201,3 +1201,18 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [08Jan2025 17:53:30.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Spooky Scary Skeleton]
 [08Jan2025 17:59:12.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has completed the challenge [Just a Flesh Wound]
 [08Jan2025 18:00:57.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Diamonds!]
+[08Jan2025 18:04:05.826] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[08Jan2025 18:04:05.911] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[08Jan2025 18:04:06.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> xaero-waypoint:Waypoint:X:592:71:-322:12:false:0:Internal-overworld-waypoints
+[08Jan2025 18:04:12.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Zombie
+[08Jan2025 18:05:42.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has completed the challenge [The Power of the Sun]
+[08Jan2025 18:07:35.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Best Friends Forever]
+[08Jan2025 18:08:30.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[08Jan2025 18:08:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[08Jan2025 18:10:10.955] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/9952, l='ServerLevel[world]', x=719.19, y=69.79, z=-704.34]
+[08Jan2025 18:10:10.956] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/9953, l='ServerLevel[world]', x=719.34, y=69.37, z=-705.44]
+[08Jan2025 18:10:10.956] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/9954, l='ServerLevel[world]', x=719.46, y=69.10, z=-706.40]
+[08Jan2025 18:10:10.956] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/9955, l='ServerLevel[world]', x=719.62, y=68.82, z=-707.64]
+[08Jan2025 18:11:02.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4088, l='ServerLevel[world]', x=643.50, y=64.56, z=-558.60] died, message: 'Unemployed suffocated in a wall'
+[08Jan2025 18:11:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Let's Get To Work]
+[08Jan2025 18:11:10.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/9294, l='ServerLevel[world]', x=774.23, y=65.00, z=-480.06] died, message: 'Shepherd hit the ground too hard whilst trying to escape Fire Dragon'

@@ -66,6 +66,7 @@
       "minecraft:windswept_forest": "2025-01-08 01:12:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-08 01:36:09 +0000",
       "minecraft:snowy_beach": "2025-01-08 02:54:58 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-01-08 18:02:48 +0000",
       "minecraft:plains": "2025-01-08 03:26:13 +0000"
     },
     "done": false
@@ -115,6 +116,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-08 01:55:37 +0000",
+      "minecraft:spider": "2025-01-08 18:05:31 +0000",
       "minecraft:wither_skeleton": "2025-01-08 02:21:27 +0000",
       "minecraft:cave_spider": "2025-01-08 02:28:09 +0000",
       "minecraft:silverfish": "2025-01-08 02:59:14 +0000",
@@ -175,6 +177,7 @@
   "morevillagers:all_villages": {
     "criteria": {
       "taiga": "2025-01-08 01:36:43 +0000",
+      "plains": "2025-01-08 18:02:41 +0000",
       "snowy": "2025-01-08 03:07:33 +0000"
     },
     "done": false
