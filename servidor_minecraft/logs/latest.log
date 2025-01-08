@@ -17891,3 +17891,115 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [08Jan2025 02:56:49.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has completed the challenge [Free Willy]
 [08Jan2025 02:56:58.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Old School Defense]
 [08Jan2025 02:57:03.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3964ms or 79 ticks behind
+[08Jan2025 02:57:25.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7092ms or 141 ticks behind
+[08Jan2025 02:57:32.879] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Jan2025 02:57:32.879] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Jan2025 02:57:32.879] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Jan2025 02:57:32.879] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Jan2025 02:57:32.879] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Jan2025 02:57:32.883] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[08Jan2025 02:57:43.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2340ms or 46 ticks behind
+[08Jan2025 02:58:09.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2025 02:58:27.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2693ms or 53 ticks behind
+[08Jan2025 02:58:41.308] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[08Jan2025 02:58:41.308] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[08Jan2025 02:58:49.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jan2025 02:59:00.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Mine? Mine? Mine?]
+[08Jan2025 02:59:08.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4039ms or 80 ticks behind
+[08Jan2025 02:59:10.011] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=872, y=66, z=14}
+[08Jan2025 02:59:30.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[08Jan2025 02:59:47.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2550ms or 51 ticks behind
+[08Jan2025 02:59:50.177] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[08Jan2025 02:59:58.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 moved too quickly! 2.2217461150724773,1.7049673010040038,-9.636814009876247
+[08Jan2025 03:00:12.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[08Jan2025 03:00:33.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jan2025 03:00:51.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3534ms or 70 ticks behind
+[08Jan2025 03:00:52.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Sweet Dreams]
+[08Jan2025 03:01:02.249] [pool-7-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:farmhouse]] from pos BlockPos{x=101, y=75, z=-1797}
+[08Jan2025 03:01:04.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[08Jan2025 03:01:04.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[08Jan2025 03:01:09.172] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=134, y=73, z=-1847}
+[08Jan2025 03:01:09.173] [Worker-Main-3/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=135, y=73, z=-1847}
+[08Jan2025 03:01:09.173] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Jan2025 03:01:09.174] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Jan2025 03:01:09.174] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Jan2025 03:01:09.174] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Jan2025 03:01:09.174] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Jan2025 03:01:09.175] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[08Jan2025 03:01:11.841] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:11.903] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:11.978] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.062] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.218] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.288] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.406] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.519] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.585] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.677] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.744] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.807] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.870] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:12.937] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:13.008] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:13.072] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:13.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:13.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:22.548] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:22.648] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:22.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:22.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:22.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:23.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:23.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:23.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:23.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:23.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:23.546] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:23.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:23.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:23.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:23.946] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:24.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:24.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:24.249] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:24.346] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:24.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:24.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Jan2025 03:01:30.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Bone Crusher]
+[08Jan2025 03:01:33.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Sweet Dreams]
+[08Jan2025 03:01:34.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ZZZZ
+[08Jan2025 03:01:39.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> zzzzzzz
+[08Jan2025 03:02:02.412] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.65.5.114:60095] logged in with entity id 35816 at (848.6999999880791, 41.04505423672141, 130.69999998807907)
+[08Jan2025 03:02:02.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[08Jan2025 03:02:02.428] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[08Jan2025 03:02:30.474] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 03:02:30.524] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 03:02:32.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jan2025 03:02:32.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[08Jan2025 03:02:33.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jan2025 03:02:33.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[08Jan2025 03:02:35.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR drowned
+[08Jan2025 03:02:35.831] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 03:03:11.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jan2025 03:03:11.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[08Jan2025 03:03:11.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jan2025 03:03:11.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[08Jan2025 03:03:12.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jan2025 03:03:12.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[08Jan2025 03:03:12.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jan2025 03:03:12.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[08Jan2025 03:03:17.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[08Jan2025 03:03:17.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[08Jan2025 03:03:24.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> xaero-waypoint:DRAGON WUUUAA:D:291:~:-1540:6:false:0:Internal-overworld-waypoints
+[08Jan2025 03:05:42.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 moved too quickly! 6.1911794059845136,-4.504799122994072,-6.65690197444647
+[08Jan2025 03:06:19.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> xaero-waypoint:aldea de matikol:A:32:84:387:1:false:0:Internal-overworld-waypoints
+[08Jan2025 03:08:08.428] [pool-7-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:treetop_tavern], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=363, y=71, z=-859}
+[08Jan2025 03:08:13.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> xaero-waypoint:aldea de rodricol:A:324:68:-410:6:false:0:Internal-overworld-waypoints
+[08Jan2025 03:09:51.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/41811, l='ServerLevel[world]', x=559.90, y=73.00, z=-522.54] died, message: 'Scribe hit the ground too hard'
+[08Jan2025 03:10:15.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Cover Me with Diamonds]
+[08Jan2025 03:10:33.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[08Jan2025 03:10:33.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[08Jan2025 03:12:05.750] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/41487, l='ServerLevel[world]', x=559.89, y=73.00, z=-522.55] died, message: 'Shepherd hit the ground too hard'
+[08Jan2025 03:16:23.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 lost connection: Timed out
+[08Jan2025 03:16:23.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 left the game
