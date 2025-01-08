@@ -390,5 +390,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-01-08 21:06:26 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-01-08 20:58:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
