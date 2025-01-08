@@ -116,6 +116,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-08 01:55:37 +0000",
+      "minecraft:zoglin": "2025-01-08 18:22:26 +0000",
       "minecraft:spider": "2025-01-08 18:05:31 +0000",
       "minecraft:wither_skeleton": "2025-01-08 02:21:27 +0000",
       "minecraft:cave_spider": "2025-01-08 02:28:09 +0000",
@@ -308,6 +309,12 @@
     },
     "done": true
   },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2025-01-08 18:20:55 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-01-08 17:59:12 +0000"
@@ -319,6 +326,18 @@
       "blueberries": "2025-01-08 17:55:32 +0000"
     },
     "done": false
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smithingtable": "2025-01-08 18:11:08 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smithingtable": "2025-01-08 18:11:08 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

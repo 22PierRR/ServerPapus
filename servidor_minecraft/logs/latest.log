@@ -1216,3 +1216,14 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [08Jan2025 18:11:02.984] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4088, l='ServerLevel[world]', x=643.50, y=64.56, z=-558.60] died, message: 'Unemployed suffocated in a wall'
 [08Jan2025 18:11:08.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Let's Get To Work]
 [08Jan2025 18:11:10.936] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/9294, l='ServerLevel[world]', x=774.23, y=65.00, z=-480.06] died, message: 'Shepherd hit the ground too hard whilst trying to escape Fire Dragon'
+[08Jan2025 18:15:01.529] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/2530, l='ServerLevel[world]', x=559.91, y=73.00, z=-522.54] died, message: 'Beekeeper hit the ground too hard'
+[08Jan2025 18:17:00.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/4056, l='ServerLevel[world]', x=560.20, y=73.00, z=-522.51] died, message: 'Shepherd hit the ground too hard'
+[08Jan2025 18:20:55.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Wizard Tower]
+[08Jan2025 18:22:26.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Dr. Mudi Schnoz'/9594, l='ServerLevel[world]', x=502.05, y=74.19, z=-659.48] died: Dr. Mudi Schnoz was slain by Maikol_4988
+[08Jan2025 18:26:40.626] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/2531, l='ServerLevel[world]', x=559.89, y=73.00, z=-522.55] died, message: 'Oceanographer hit the ground too hard'
+[08Jan2025 18:26:59.229] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/4087, l='ServerLevel[world]', x=559.91, y=73.00, z=-522.54] died, message: 'Scribe hit the ground too hard'
+[08Jan2025 18:28:31.780] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[08Jan2025 18:28:31.791] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[08Jan2025 18:29:01.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Troll
+[08Jan2025 18:30:27.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Here They Come]
+[08Jan2025 18:33:31.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Not the Olympic Type]
