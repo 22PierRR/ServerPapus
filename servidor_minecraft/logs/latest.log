@@ -1316,3 +1316,102 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [08Jan2025 21:55:11.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ta lloviendo?xd
 [08Jan2025 21:55:23.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> ni idea mano estoy en mina ahora
 [08Jan2025 21:55:35.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> yo tambien pero escuche un trueno
+[08Jan2025 22:03:52.429] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 22:03:52.438] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:04:08.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR burned to death
+[08Jan2025 22:07:31.128] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 22:07:31.135] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:07:36.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was shot by Skeleton
+[08Jan2025 22:11:48.083] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 lost connection: Disconnected
+[08Jan2025 22:11:48.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 left the game
+[08Jan2025 22:11:48.136] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jan2025 22:13:00.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 8.94956899495969,0.0,-4.797818920171494
+[08Jan2025 22:13:11.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.79.219.102:60641] logged in with entity id 44578 at (544.5100792630446, 24.0, -299.00623515299014)
+[08Jan2025 22:13:11.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
+[08Jan2025 22:13:11.298] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
+[08Jan2025 22:13:12.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 9.345832109850221,-2.0784000015258783,-3.014230219945375
+[08Jan2025 22:13:20.558] [Worker-Main-11/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[08Jan2025 22:18:04.620] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 22:18:04.636] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:18:09.471] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Jan2025 22:18:11.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was incinerated by a dragon
+[08Jan2025 22:18:19.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> encontre tu dragon rojo
+[08Jan2025 22:18:35.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> creo que es el maldito que se me fue
+[08Jan2025 22:18:45.067] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 22:18:45.080] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:18:51.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was slain by Fire Dragon
+[08Jan2025 22:19:24.767] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 22:19:24.780] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:19:30.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was incinerated by a dragon
+[08Jan2025 22:20:01.626] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 22:20:01.634] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:20:07.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR burned to death
+[08Jan2025 22:20:44.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> murio
+[08Jan2025 22:20:50.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> bien mano
+[08Jan2025 22:20:54.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> te doy
+[08Jan2025 22:20:55.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> las escamas
+[08Jan2025 22:20:57.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> para tu armadura
+[08Jan2025 22:21:02.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> con las otras verdes que te di
+[08Jan2025 22:21:08.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ya te alcanza para armadura completa
+[08Jan2025 22:21:12.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> gracias mano
+[08Jan2025 22:22:24.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [When in Rome]
+[08Jan2025 22:34:05.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has reached the goal [Fortuitous Militia]
+[08Jan2025 22:37:43.027] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1143, y=-30, z=-574} BlockPos{x=1142, y=-31, z=-574}
+[08Jan2025 22:38:08.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jan2025 22:40:47.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Chest Slayer]
+[08Jan2025 22:43:38.485] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:43:49.369] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 22:43:49.397] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:44:02.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was slain by Fire Dragon
+[08Jan2025 22:44:31.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> mano ya mas tarde jugamos me tengo que ir
+[08Jan2025 22:44:43.577] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 22:44:43.585] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:44:48.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 lost connection: Disconnected
+[08Jan2025 22:44:48.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 left the game
+[08Jan2025 22:44:49.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR walked into fire whilst fighting Fire Dragon
+[08Jan2025 22:45:49.454] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 22:45:49.471] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:45:55.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was slain by Fire Dragon
+[08Jan2025 22:46:33.672] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[08Jan2025 22:46:33.680] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:46:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR suffocated in a wall
+[08Jan2025 22:46:39.182] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[08Jan2025 22:47:22.103] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/62928, l='ServerLevel[world]', x=1159.70, y=84.00, z=-465.30] died, message: 'Oceanographer was turned into KFC by Fire Dragon'
+[08Jan2025 22:49:26.553] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62947, l='ServerLevel[world]', x=1182.79, y=97.63, z=-466.62] died, message: 'Unemployed burned to death'
+[08Jan2025 22:51:49.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/62917, l='ServerLevel[world]', x=1159.51, y=70.00, z=-470.24] died, message: 'Florist was turned into KFC by Fire Dragon'
+[08Jan2025 22:51:56.960] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62946, l='ServerLevel[world]', x=1182.41, y=95.25, z=-463.95] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[08Jan2025 22:52:10.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/62966, l='ServerLevel[world]', x=1199.39, y=92.00, z=-488.30] died, message: 'Forester burned to death'
+[08Jan2025 22:53:04.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/63126, l='ServerLevel[world]', x=1240.49, y=107.94, z=-448.70] died, message: 'Farmer was incinerated by Fire Dragon'
+[08Jan2025 22:53:08.555] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/63125, l='ServerLevel[world]', x=1231.31, y=109.06, z=-438.46] died, message: 'Beekeeper was turned into KFC by Fire Dragon'
+[08Jan2025 22:53:08.556] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/63103, l='ServerLevel[world]', x=1231.37, y=109.00, z=-440.13] died, message: 'Beekeeper was turned into KFC by Fire Dragon'
+[08Jan2025 22:53:38.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Will it Come Back?]
+[08Jan2025 22:55:20.320] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/63156, l='ServerLevel[world]', x=1262.46, y=126.80, z=-466.99] died, message: 'Engineer was slain by Fire Dragon'
+[08Jan2025 22:55:20.322] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/63187, l='ServerLevel[world]', x=1262.46, y=126.80, z=-466.99] died, message: 'Unemployed was slain by Fire Dragon'
+[08Jan2025 22:55:36.703] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/63092, l='ServerLevel[world]', x=1255.96, y=115.50, z=-478.53] died, message: 'Cleric burned to death'
+[08Jan2025 22:57:34.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [A Flaming Sword]
+[08Jan2025 22:59:14.806] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68686, l='ServerLevel[world]', x=1264.69, y=109.69, z=-470.70] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[08Jan2025 23:00:05.672] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Jan2025 23:03:57.782] [pool-7-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:bazaar], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / idas:castle], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / idas:farmhouse]] from pos BlockPos{x=1221, y=91, z=-165}
+[08Jan2025 23:04:37.456] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/71069, l='ServerLevel[world]', x=1237.30, y=106.94, z=-440.36] died, message: 'Florist was turned into KFC by Fire Dragon'
+[08Jan2025 23:04:37.911] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/71068, l='ServerLevel[world]', x=1242.39, y=107.00, z=-442.18] died, message: 'Hunter was slain by Fire Dragon'
+[08Jan2025 23:04:40.460] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/71067, l='ServerLevel[world]', x=1236.30, y=108.37, z=-440.05] died, message: 'Beekeeper was turned into KFC by Fire Dragon'
+[08Jan2025 23:04:40.461] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/71070, l='ServerLevel[world]', x=1236.30, y=108.25, z=-440.05] died, message: 'Fisherman was incinerated by Fire Dragon'
+[08Jan2025 23:10:45.237] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[08Jan2025 23:10:54.910] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[08Jan2025 23:11:05.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 8.6892889621015,0.0,5.326637832451503
+[08Jan2025 23:11:05.422] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2729ms or 54 ticks behind
+[08Jan2025 23:11:46.396] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Jan2025 23:11:46.396] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Jan2025 23:11:46.396] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Jan2025 23:11:46.396] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Jan2025 23:11:46.397] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[08Jan2025 23:12:16.949] [Worker-Main-28/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[08Jan2025 23:12:16.950] [Worker-Main-28/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[08Jan2025 23:12:16.950] [Worker-Main-28/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[08Jan2025 23:12:16.950] [Worker-Main-28/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:lightning_magic_resist'
+[08Jan2025 23:12:25.516] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[08Jan2025 23:12:56.546] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[08Jan2025 23:13:05.832] [pool-7-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:bazaar]] from pos BlockPos{x=1611, y=96, z=69}
+[08Jan2025 23:15:47.466] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[08Jan2025 23:17:30.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77915, l='ServerLevel[world]', x=1768.29, y=62.15, z=402.72] died, message: 'Unemployed was slain by Crocodile'
+[08Jan2025 23:17:46.100] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77825, l='ServerLevel[world]', x=1744.87, y=65.00, z=388.47] died, message: 'Unemployed suffocated in a wall'
