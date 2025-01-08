@@ -184,7 +184,8 @@
     "criteria": {
       "apple": "2025-01-08 01:24:34 +0000",
       "bread": "2025-01-08 01:24:29 +0000",
-      "golden_apple": "2025-01-08 02:09:34 +0000"
+      "golden_apple": "2025-01-08 02:09:34 +0000",
+      "golden_carrot": "2025-01-08 21:42:12 +0000"
     },
     "done": false
   },
@@ -220,7 +221,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "smoker": "2025-01-08 01:28:32 +0000"
+      "smoker": "2025-01-08 01:28:32 +0000",
+      "blastfurnace": "2025-01-08 21:41:41 +0000"
     },
     "done": false
   },
@@ -382,15 +384,51 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-01-08 21:47:36 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-01-08 21:32:08 +0000"
+    },
+    "done": true
+  },
   "idas:witches_treestump": {
     "criteria": {
       "in_witches_treestump": "2025-01-08 21:02:46 +0000"
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-08 21:47:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-08 21:27:36 +0000"
+    },
+    "done": true
+  },
   "idas:enchantingtower": {
     "criteria": {
       "in_enchantingtower": "2025-01-08 21:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-08 21:22:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-08 21:23:00 +0000"
     },
     "done": true
   },

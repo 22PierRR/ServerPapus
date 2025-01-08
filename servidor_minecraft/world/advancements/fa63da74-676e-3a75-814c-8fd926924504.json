@@ -58,6 +58,7 @@
       "minecraft:taiga": "2025-01-08 01:35:01 +0000",
       "minecraft:frozen_river": "2025-01-08 02:28:22 +0000",
       "minecraft:windswept_hills": "2025-01-08 20:02:14 +0000",
+      "minecraft:river": "2025-01-08 21:38:12 +0000",
       "minecraft:snowy_plains": "2025-01-08 01:19:02 +0000",
       "minecraft:snowy_taiga": "2025-01-08 01:19:12 +0000",
       "minecraft:swamp": "2025-01-08 01:35:19 +0000",
@@ -120,6 +121,7 @@
       "minecraft:zoglin": "2025-01-08 18:22:26 +0000",
       "minecraft:spider": "2025-01-08 18:05:31 +0000",
       "minecraft:wither_skeleton": "2025-01-08 02:21:27 +0000",
+      "minecraft:husk": "2025-01-08 21:19:33 +0000",
       "minecraft:cave_spider": "2025-01-08 02:28:09 +0000",
       "minecraft:silverfish": "2025-01-08 02:59:14 +0000",
       "minecraft:stray": "2025-01-08 18:40:52 +0000",
@@ -387,6 +389,12 @@
   "savage_and_ravage:adventure/creeper_spores": {
     "criteria": {
       "creeper_spores": "2025-01-08 20:04:42 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-01-08 21:32:51 +0000"
     },
     "done": true
   },
