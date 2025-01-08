@@ -1197,3 +1197,7 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [08Jan2025 17:49:38.300] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
 [08Jan2025 17:49:46.548] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/2455, l='ServerLevel[world]', x=702.90, y=63.00, z=-400.58]
 [08Jan2025 17:50:12.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> o mikol call
+[08Jan2025 17:53:19.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [A Cut Above the Rest]
+[08Jan2025 17:53:30.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Spooky Scary Skeleton]
+[08Jan2025 17:59:12.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has completed the challenge [Just a Flesh Wound]
+[08Jan2025 18:00:57.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Diamonds!]

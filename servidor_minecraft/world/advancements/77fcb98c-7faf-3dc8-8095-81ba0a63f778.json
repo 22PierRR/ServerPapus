@@ -193,6 +193,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-01-08 17:57:36 +0000",
       "minecraft:stray": "2025-01-08 02:34:41 +0000",
       "minecraft:zombie": "2025-01-08 03:01:11 +0000"
     },
@@ -269,6 +270,30 @@
       "diamond_leggings": "2025-01-08 03:10:15 +0000"
     },
     "done": true
+  },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2025-01-08 17:49:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-01-08 17:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-08 17:53:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-01-08 17:53:30 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

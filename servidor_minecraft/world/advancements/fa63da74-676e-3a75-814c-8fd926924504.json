@@ -281,15 +281,15 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-01-08 03:18:48 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:greatsword": {
     "criteria": {
       "has_greatsword": "2025-01-08 03:18:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-01-08 03:18:48 +0000"
     },
     "done": true
   },
@@ -304,6 +304,18 @@
       "has_battle_hammer": "2025-01-08 03:24:05 +0000"
     },
     "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-01-08 17:59:12 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "blueberries": "2025-01-08 17:55:32 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
