@@ -56,13 +56,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-08 01:35:01 +0000",
+      "minecraft:frozen_river": "2025-01-08 02:28:22 +0000",
       "minecraft:snowy_plains": "2025-01-08 01:19:02 +0000",
       "minecraft:snowy_taiga": "2025-01-08 01:19:12 +0000",
       "minecraft:swamp": "2025-01-08 01:35:19 +0000",
       "minecraft:lush_caves": "2025-01-08 01:57:01 +0000",
       "minecraft:frozen_ocean": "2025-01-08 01:22:09 +0000",
       "minecraft:windswept_forest": "2025-01-08 01:12:12 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-01-08 01:36:09 +0000"
+      "minecraft:old_growth_spruce_taiga": "2025-01-08 01:36:09 +0000",
+      "minecraft:snowy_beach": "2025-01-08 02:54:58 +0000"
     },
     "done": false
   },
@@ -112,6 +114,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-08 01:55:37 +0000",
       "minecraft:wither_skeleton": "2025-01-08 02:21:27 +0000",
+      "minecraft:cave_spider": "2025-01-08 02:28:09 +0000",
       "minecraft:zombie": "2025-01-08 01:24:57 +0000"
     },
     "done": false
@@ -205,6 +208,66 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-08 02:05:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-01-08 02:25:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-01-08 02:25:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-08 02:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-08 02:29:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-01-08 02:29:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-08 02:30:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-01-08 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-08 02:43:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-01-08 02:43:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-08 02:56:49 +0000"
     },
     "done": true
   },
