@@ -1172,3 +1172,4 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Jan2025 22:51:30.407] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/10632, l='ServerLevel[world]', x=1283.94, y=63.66, z=96.70] died, message: 'Nitwit was incinerated by Fire Dragon'
 [09Jan2025 22:51:33.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10701, l='ServerLevel[world]', x=1296.24, y=63.00, z=81.64] died, message: 'Unemployed was turned into KFC by Fire Dragon'
 [09Jan2025 22:52:32.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/11015, l='ServerLevel[world]', x=1349.35, y=63.57, z=102.62] died, message: 'Oceanographer burned to death'
+[09Jan2025 23:03:06.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Book of Monsters]
