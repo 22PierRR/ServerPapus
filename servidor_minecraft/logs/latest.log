@@ -1291,3 +1291,9 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Jan2025 01:41:49.821] [Worker-Main-1/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=936, y=71, z=-1493}
 [09Jan2025 01:51:09.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Bewitched]
 [09Jan2025 02:00:03.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/73700, l='ServerLevel[world]', x=1225.51, y=107.00, z=-439.51] died, message: 'Unemployed burned to death'
+[09Jan2025 02:07:02.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has completed the challenge [Just a Flesh Wound]
+[09Jan2025 02:10:48.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.79.219.102:40741] logged in with entity id 78188 at (532.2993348081048, 6.0, -281.30765042822446)
+[09Jan2025 02:10:48.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
+[09Jan2025 02:10:49.003] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
+[09Jan2025 02:11:00.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> o mikol call
+[09Jan2025 02:13:28.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
