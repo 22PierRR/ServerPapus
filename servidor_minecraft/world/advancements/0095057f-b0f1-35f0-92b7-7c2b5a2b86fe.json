@@ -525,5 +525,11 @@
     },
     "done": true
   },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-01-09 22:36:22 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
