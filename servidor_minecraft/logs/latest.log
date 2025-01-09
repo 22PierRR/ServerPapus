@@ -1173,3 +1173,7 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Jan2025 22:51:33.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10701, l='ServerLevel[world]', x=1296.24, y=63.00, z=81.64] died, message: 'Unemployed was turned into KFC by Fire Dragon'
 [09Jan2025 22:52:32.498] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/11015, l='ServerLevel[world]', x=1349.35, y=63.57, z=102.62] died, message: 'Oceanographer burned to death'
 [09Jan2025 23:03:06.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Book of Monsters]
+[09Jan2025 23:17:30.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/13174, l='ServerLevel[world]', x=1661.70, y=64.00, z=402.50] died, message: 'Florist was slain by Zombie'
+[09Jan2025 23:17:31.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[09Jan2025 23:17:31.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[09Jan2025 23:17:31.342] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
