@@ -227,6 +227,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "fletchingtable": "2025-01-09 01:11:52 +0000",
       "smoker": "2025-01-08 01:28:32 +0000",
       "blastfurnace": "2025-01-08 21:41:41 +0000",
       "lectern": "2025-01-08 23:32:18 +0000"
@@ -483,6 +484,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "fletcher": "2025-01-09 01:13:00 +0000",
       "librarian": "2025-01-08 23:35:47 +0000"
     },
     "done": false

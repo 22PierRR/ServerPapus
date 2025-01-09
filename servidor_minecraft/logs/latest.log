@@ -1277,3 +1277,7 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Jan2025 01:10:00.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZ
 [09Jan2025 01:10:07.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> nada toy matando dragon
 [09Jan2025 01:10:13.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZ!
+[09Jan2025 01:15:41.578] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/51390, l='ServerLevel[world]', x=1585.69, y=72.00, z=409.43] died, message: 'Beekeeper hit the ground too hard'
+[09Jan2025 01:15:50.191] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/51334, l='ServerLevel[world]', x=1549.03, y=82.00, z=400.61] died, message: 'Scribe was slain by Mutant Zombie'
+[09Jan2025 01:18:05.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[09Jan2025 01:18:05.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
