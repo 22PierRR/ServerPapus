@@ -1250,3 +1250,30 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Jan2025 00:35:00.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Dragonslayer]
 [09Jan2025 00:45:33.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ZZZZ
 [09Jan2025 00:46:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZ
+[09Jan2025 00:57:56.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZZZ
+[09Jan2025 00:57:57.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> zzz
+[09Jan2025 00:58:18.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ZZZZZZZZZZZZZZZZZZZZZ
+[09Jan2025 00:58:20.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> Z
+[09Jan2025 00:58:20.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> Z
+[09Jan2025 00:58:20.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> Z
+[09Jan2025 00:58:21.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> Z
+[09Jan2025 00:58:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> Z
+[09Jan2025 00:58:29.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> este nuc mucho ronca
+[09Jan2025 00:58:36.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/19196, l='ServerLevel[world]', x=1641.70, y=66.00, z=377.74] died, message: 'Scribe was slain by Zombie'
+[09Jan2025 00:58:50.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> no ya
+[09Jan2025 01:00:44.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Neighborhood Brawl]
+[09Jan2025 01:00:53.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> oe
+[09Jan2025 01:00:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> q
+[09Jan2025 01:01:03.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> mataste a aldeano?
+[09Jan2025 01:01:09.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> aldeano peruano
+[09Jan2025 01:01:20.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> taba q estorbaba en mi caceria de dragon de cueva
+[09Jan2025 01:01:33.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> 😠
+[09Jan2025 01:09:27.186] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets] rejected their client side version number
+[09Jan2025 01:09:27.187] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Jan2025 01:09:27.202] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ceb3d79[id=<null>,name=Maikol_4988,properties={},legacy=false] (/127.79.219.102:57411) lost connection: Connection closed - mismatched mod channel list
+[09Jan2025 01:09:34.021] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets] rejected their client side version number
+[09Jan2025 01:09:34.022] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Jan2025 01:09:34.048] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@49739e7b[id=<null>,name=Maikol_4988,properties={},legacy=false] (/127.79.219.102:45839) lost connection: Connection closed - mismatched mod channel list
+[09Jan2025 01:10:00.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZ
+[09Jan2025 01:10:07.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> nada toy matando dragon
+[09Jan2025 01:10:13.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZ!
