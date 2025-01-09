@@ -1158,3 +1158,5 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Jan2025 13:38:11.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5927ms or 118 ticks behind
 [09Jan2025 13:42:00.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2379, l='ServerLevel[world]', x=1364.61, y=61.00, z=214.28] died, message: 'Unemployed hit the ground too hard'
 [09Jan2025 13:56:59.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/3555, l='ServerLevel[world]', x=1124.32, y=69.00, z=110.51] died, message: 'Butcher was slain by Zombie'
+[09Jan2025 14:03:49.051] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[09Jan2025 14:03:49.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
