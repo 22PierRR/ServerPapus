@@ -1156,3 +1156,4 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Jan2025 13:38:05.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
 [09Jan2025 13:38:05.590] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
 [09Jan2025 13:38:11.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5927ms or 118 ticks behind
+[09Jan2025 13:42:00.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2379, l='ServerLevel[world]', x=1364.61, y=61.00, z=214.28] died, message: 'Unemployed hit the ground too hard'
