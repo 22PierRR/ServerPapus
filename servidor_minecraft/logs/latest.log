@@ -1974,3 +1974,50 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [09Jan2025 02:41:22.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was blown up by Mutant Creeper
 [09Jan2025 02:41:49.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> xaero-waypoint:SPAWn:S:50:74:-11:12:false:0:Internal-overworld-waypoints
 [09Jan2025 02:43:03.827] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/80512, l='ServerLevel[world]', x=1592.30, y=73.00, z=420.70] died, message: 'Beekeeper was slain by Zombie'
+[09Jan2025 02:45:36.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[09Jan2025 02:47:15.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09Jan2025 02:47:32.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[09Jan2025 02:54:23.035] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[09Jan2025 02:54:23.043] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[09Jan2025 02:54:28.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Strong or Careful]
+[09Jan2025 02:54:28.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 burned to death
+[09Jan2025 02:56:45.109] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[09Jan2025 02:56:45.152] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[09Jan2025 02:56:45.300] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[09Jan2025 02:56:45.308] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[09Jan2025 02:56:52.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR burned to death
+[09Jan2025 02:56:58.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was doomed to fall
+[09Jan2025 02:57:09.322] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103717, l='ServerLevel[world]', x=1657.01, y=-6.98, z=191.87]
+[09Jan2025 02:57:09.323] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103718, l='ServerLevel[world]', x=1657.17, y=-7.56, z=189.27]
+[09Jan2025 02:57:09.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103717, l='ServerLevel[world]', x=1657.01, y=-6.98, z=191.87]
+[09Jan2025 02:57:09.383] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103718, l='ServerLevel[world]', x=1657.17, y=-7.56, z=189.27]
+[09Jan2025 02:57:09.424] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103717, l='ServerLevel[world]', x=1657.01, y=-6.98, z=191.87]
+[09Jan2025 02:57:09.425] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103718, l='ServerLevel[world]', x=1657.17, y=-7.56, z=189.27]
+[09Jan2025 02:57:09.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103717, l='ServerLevel[world]', x=1657.01, y=-6.98, z=191.87]
+[09Jan2025 02:57:09.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103718, l='ServerLevel[world]', x=1657.17, y=-7.56, z=189.27]
+[09Jan2025 02:57:09.526] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103717, l='ServerLevel[world]', x=1657.01, y=-6.98, z=191.87]
+[09Jan2025 02:57:09.526] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103718, l='ServerLevel[world]', x=1657.17, y=-7.56, z=189.27]
+[09Jan2025 02:57:09.586] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103717, l='ServerLevel[world]', x=1657.01, y=-6.98, z=191.87]
+[09Jan2025 02:57:09.586] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103718, l='ServerLevel[world]', x=1657.17, y=-7.56, z=189.27]
+[09Jan2025 02:57:09.630] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103717, l='ServerLevel[world]', x=1657.01, y=-6.98, z=191.87]
+[09Jan2025 02:57:09.630] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103718, l='ServerLevel[world]', x=1657.17, y=-7.56, z=189.27]
+[09Jan2025 02:57:09.689] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103717, l='ServerLevel[world]', x=1657.01, y=-6.98, z=191.87]
+[09Jan2025 02:57:09.689] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103718, l='ServerLevel[world]', x=1657.17, y=-7.56, z=189.27]
+[09Jan2025 02:57:09.737] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103717, l='ServerLevel[world]', x=1657.01, y=-6.98, z=191.87]
+[09Jan2025 02:57:09.737] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/103718, l='ServerLevel[world]', x=1657.17, y=-7.56, z=189.27]
+[09Jan2025 02:58:25.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 moved too quickly! 0.691209925545536,-10.296926240113066,8.3755586412218
+[09Jan2025 02:58:27.884] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[09Jan2025 02:58:27.892] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[09Jan2025 02:58:36.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was doomed to fall by Fire Dragon
+[09Jan2025 02:58:43.975] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103658, l='ServerLevel[world]', x=1274.70, y=81.00, z=410.30] died, message: 'Unemployed was incinerated by Fire Dragon'
+[09Jan2025 02:58:44.025] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103654, l='ServerLevel[world]', x=1273.30, y=81.00, z=410.70] died, message: 'Unemployed was turned into KFC by Fire Dragon'
+[09Jan2025 02:58:44.623] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/103655, l='ServerLevel[world]', x=1274.17, y=81.00, z=408.50] died, message: 'Fisherman was incinerated by Fire Dragon'
+[09Jan2025 02:58:45.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103656, l='ServerLevel[world]', x=1268.41, y=81.00, z=404.70] died, message: 'Unemployed was incinerated by Fire Dragon'
+[09Jan2025 03:00:25.395] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Jan2025 03:02:07.421] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[09Jan2025 03:02:07.436] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[09Jan2025 03:02:15.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was slain by Fire Dragon
+[09Jan2025 03:03:46.822] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[09Jan2025 03:03:46.839] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[09Jan2025 03:04:01.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Fire Dragon
+[09Jan2025 03:04:40.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Mother of Dragons]
