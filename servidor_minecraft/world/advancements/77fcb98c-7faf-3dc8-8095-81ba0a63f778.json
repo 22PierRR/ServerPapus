@@ -64,6 +64,7 @@
       "minecraft:forest": "2025-01-08 02:33:19 +0000",
       "minecraft:frozen_ocean": "2025-01-08 01:18:41 +0000",
       "minecraft:windswept_forest": "2025-01-08 01:12:23 +0000",
+      "minecraft:meadow": "2025-01-09 00:27:20 +0000",
       "minecraft:windswept_gravelly_hills": "2025-01-08 02:31:02 +0000",
       "minecraft:plains": "2025-01-08 02:30:45 +0000"
     },
@@ -119,8 +120,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-01-09 00:36:27 +0000",
       "porkchop": "2025-01-08 02:24:42 +0000",
-      "bread": "2025-01-08 02:30:20 +0000"
+      "bread": "2025-01-08 02:30:20 +0000",
+      "golden_apple": "2025-01-09 00:33:58 +0000",
+      "golden_carrot": "2025-01-09 00:24:31 +0000"
     },
     "done": false
   },
@@ -329,6 +333,12 @@
   "idas:tinkers_citadel": {
     "criteria": {
       "in_tinkers_citadel": "2025-01-09 00:10:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-09 00:35:00 +0000"
     },
     "done": true
   },

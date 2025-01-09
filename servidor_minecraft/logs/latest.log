@@ -1237,3 +1237,14 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Jan2025 00:17:29.388] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/13837, l='ServerLevel[world]', x=1263.53, y=77.50, z=163.30]
 [09Jan2025 00:18:37.641] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14891, l='ServerLevel[world]', x=1335.51, y=96.00, z=527.30] died, message: 'Unemployed was slain by Vindicator'
 [09Jan2025 00:20:30.124] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Jan2025 00:22:47.048] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/14896, l='ServerLevel[world]', x=1382.60, y=87.00, z=496.75] died, message: 'Beekeeper was slain by Vindicator'
+[09Jan2025 00:22:49.918] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[09Jan2025 00:22:49.918] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[09Jan2025 00:22:49.919] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[09Jan2025 00:22:49.919] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[09Jan2025 00:22:49.919] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[09Jan2025 00:24:24.005] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets] rejected their client side version number
+[09Jan2025 00:24:24.006] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[09Jan2025 00:24:24.010] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19fd92c1[id=<null>,name=Maikol_4988,properties={},legacy=false] (/127.79.219.102:55583) lost connection: Connection closed - mismatched mod channel list
+[09Jan2025 00:34:43.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZZZZ
+[09Jan2025 00:35:00.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Dragonslayer]
