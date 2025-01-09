@@ -58,9 +58,11 @@
       "minecraft:taiga": "2025-01-08 03:00:43 +0000",
       "minecraft:frozen_river": "2025-01-08 02:27:03 +0000",
       "minecraft:windswept_hills": "2025-01-08 01:14:04 +0000",
+      "minecraft:beach": "2025-01-09 01:48:41 +0000",
       "minecraft:river": "2025-01-08 03:05:51 +0000",
       "minecraft:snowy_plains": "2025-01-08 01:14:05 +0000",
       "minecraft:snowy_taiga": "2025-01-08 01:14:15 +0000",
+      "minecraft:swamp": "2025-01-09 01:51:13 +0000",
       "minecraft:forest": "2025-01-08 02:33:19 +0000",
       "minecraft:lush_caves": "2025-01-09 01:10:57 +0000",
       "minecraft:frozen_ocean": "2025-01-08 01:18:41 +0000",
@@ -200,6 +202,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-09 00:15:51 +0000",
       "minecraft:spider": "2025-01-08 17:57:36 +0000",
+      "minecraft:creeper": "2025-01-09 01:42:13 +0000",
+      "minecraft:witch": "2025-01-09 01:51:45 +0000",
       "minecraft:stray": "2025-01-08 02:34:41 +0000",
       "minecraft:zombie": "2025-01-08 03:01:11 +0000",
       "minecraft:zombie_villager": "2025-01-09 01:19:48 +0000"
@@ -344,6 +348,12 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "swamp_village": "2025-01-09 01:51:09 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_fire_dragon": "2025-01-09 00:35:00 +0000"
@@ -361,6 +371,12 @@
       "blueberries": "2025-01-09 00:58:48 +0000"
     },
     "done": false
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-01-09 01:51:09 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
