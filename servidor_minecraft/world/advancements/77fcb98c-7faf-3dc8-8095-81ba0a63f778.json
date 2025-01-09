@@ -374,7 +374,8 @@
   },
   "simplefarming:berries": {
     "criteria": {
-      "blueberries": "2025-01-09 00:58:48 +0000"
+      "blueberries": "2025-01-09 00:58:48 +0000",
+      "strawberries": "2025-01-09 02:22:58 +0000"
     },
     "done": false
   },

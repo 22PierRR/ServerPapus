@@ -1297,3 +1297,27 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Jan2025 02:10:49.003] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
 [09Jan2025 02:11:00.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> o mikol call
 [09Jan2025 02:13:28.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[09Jan2025 02:15:42.749] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.93.77.214:59559] logged in with entity id 80437 at (1588.3466028722708, 59.0, 408.82062334606655)
+[09Jan2025 02:15:42.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[09Jan2025 02:15:42.771] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[09Jan2025 02:16:05.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> nucs
+[09Jan2025 02:16:10.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> calla nuc
+[09Jan2025 02:16:17.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Jan2025 02:16:19.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> q dejas un dragon de fuego suelto en la aldea
+[09Jan2025 02:16:28.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> murio
+[09Jan2025 02:16:31.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> nada
+[09Jan2025 02:16:33.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> habia otor
+[09Jan2025 02:16:34.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2232ms or 44 ticks behind
+[09Jan2025 02:16:37.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> otro*
+[09Jan2025 02:16:52.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3637ms or 72 ticks behind
+[09Jan2025 02:17:07.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Jan2025 02:17:07.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: l<--[HERE]
+[09Jan2025 02:17:10.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[09Jan2025 02:17:42.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[09Jan2025 02:17:42.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[09Jan2025 02:17:43.053] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Jan2025 02:20:41.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> xaero-waypoint:aldea:A:1648:66:397:15:false:0:Internal-overworld-waypoints
+[09Jan2025 02:23:13.820] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.93.77.214:44281] logged in with entity id 84890 at (1590.300000011921, 62.0, 401.3622946159586)
+[09Jan2025 02:23:13.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[09Jan2025 02:23:13.881] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[09Jan2025 02:23:53.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> xaero-waypoint:acaaaa on:A:618:34:-326:14:false:0:Internal-overworld-waypoints
