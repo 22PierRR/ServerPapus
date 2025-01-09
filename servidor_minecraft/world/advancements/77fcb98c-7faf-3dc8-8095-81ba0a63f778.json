@@ -193,6 +193,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-09 00:15:51 +0000",
       "minecraft:spider": "2025-01-08 17:57:36 +0000",
       "minecraft:stray": "2025-01-08 02:34:41 +0000",
       "minecraft:zombie": "2025-01-08 03:01:11 +0000"
@@ -322,6 +323,18 @@
   "spartanweaponry:heavy_crossbow": {
     "criteria": {
       "has_heavy_crossbow": "2025-01-08 23:25:24 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-01-09 00:10:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-01-09 00:14:31 +0000"
     },
     "done": true
   },

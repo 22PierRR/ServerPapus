@@ -1208,3 +1208,32 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [09Jan2025 00:11:41.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> hay*
 [09Jan2025 00:11:44.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ya tas como derick
 [09Jan2025 00:11:47.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> tmr
+[09Jan2025 00:12:26.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> xaero-waypoint:aldea:A:1648:66:397:15:false:0:Internal-overworld-waypoints
+[09Jan2025 00:12:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> NO JODAS
+[09Jan2025 00:12:59.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> NO YA
+[09Jan2025 00:13:27.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Jan2025 00:13:30.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> mongol XD
+[09Jan2025 00:13:36.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> q fue
+[09Jan2025 00:13:41.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> no cpuede dormir
+[09Jan2025 00:13:44.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ya c
+[09Jan2025 00:13:50.095] [pool-7-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / idas:fishermans_lodge], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / idas:bearclaw_inn], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_orange], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / idas:desert_market/desert_market_red]] from pos BlockPos{x=1339, y=84, z=437}
+[09Jan2025 00:13:53.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/9147, l='ServerLevel[world]', x=1389.69, y=84.20, z=415.59] died, message: 'Shepherd was slain by Cyclops'
+[09Jan2025 00:13:58.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> no vayas a la aldea
+[09Jan2025 00:14:02.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> voy p
+[09Jan2025 00:14:08.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> esta el aldeano
+[09Jan2025 00:14:09.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> de prote 4
+[09Jan2025 00:14:11.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ahi mongol
+[09Jan2025 00:14:12.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> no lo muevo
+[09Jan2025 00:14:14.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> todavia
+[09Jan2025 00:14:17.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> XDDD
+[09Jan2025 00:14:19.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> yaya
+[09Jan2025 00:14:31.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Suit Up]
+[09Jan2025 00:17:20.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> dragon hdp
+[09Jan2025 00:17:29.386] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/13832, l='ServerLevel[world]', x=1263.66, y=77.64, z=157.73]
+[09Jan2025 00:17:29.386] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/13833, l='ServerLevel[world]', x=1263.72, y=76.13, z=158.51]
+[09Jan2025 00:17:29.386] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/13834, l='ServerLevel[world]', x=1263.97, y=80.02, z=160.18]
+[09Jan2025 00:17:29.387] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/13835, l='ServerLevel[world]', x=1263.91, y=78.54, z=161.28]
+[09Jan2025 00:17:29.387] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/13836, l='ServerLevel[world]', x=1263.47, y=78.28, z=162.09]
+[09Jan2025 00:17:29.388] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/13837, l='ServerLevel[world]', x=1263.53, y=77.50, z=163.30]
+[09Jan2025 00:18:37.641] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14891, l='ServerLevel[world]', x=1335.51, y=96.00, z=527.30] died, message: 'Unemployed was slain by Vindicator'
+[09Jan2025 00:20:30.124] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
