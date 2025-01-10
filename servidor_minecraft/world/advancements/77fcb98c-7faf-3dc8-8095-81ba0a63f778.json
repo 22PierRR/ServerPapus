@@ -209,6 +209,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-09 00:15:51 +0000",
       "minecraft:ghast": "2025-01-10 18:59:20 +0000",
+      "minecraft:magma_cube": "2025-01-10 21:21:07 +0000",
       "minecraft:spider": "2025-01-08 17:57:36 +0000",
       "minecraft:piglin_brute": "2025-01-10 18:46:35 +0000",
       "minecraft:creeper": "2025-01-09 01:42:13 +0000",
@@ -526,6 +527,18 @@
       "nova_structures:piglin_camp": "2025-01-10 21:06:58 +0000"
     },
     "done": false
+  },
+  "spartanweaponry:quarterstaff": {
+    "criteria": {
+      "has_quarterstaff": "2025-01-10 21:24:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-10 21:32:42 +0000"
+    },
+    "done": true
   },
   "morevillagers:first_workstation_get": {
     "criteria": {
