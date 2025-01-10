@@ -508,5 +508,23 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-10 20:57:51 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smoker": "2025-01-10 20:53:32 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smoker": "2025-01-10 20:53:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

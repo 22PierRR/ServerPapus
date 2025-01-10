@@ -12882,3 +12882,386 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [10Jan2025 20:52:06.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jan2025 20:52:06.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Jan2025 20:53:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Let's Get To Work]
+[10Jan2025 20:57:06.841] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[10Jan2025 20:57:06.841] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[10Jan2025 20:57:06.841] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[10Jan2025 20:57:06.841] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[10Jan2025 20:57:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[10Jan2025 20:57:06.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 20:57:06.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 20:57:51.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 20:57:51.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Nightmare Fuel]
+[10Jan2025 20:57:52.916] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 20:57:54.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 20:59:20.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 20:59:20.744] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 20:59:20.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 20:59:20.896] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:00:05.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:00:08.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:00:20.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:00:20.914] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:00:21.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:00:21.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:00:23.712] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:00:56.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:07.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:08.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:09.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:10.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:12.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:13.216] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:25.880] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:26.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:26.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:26.378] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:26.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:26.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:01:32.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[10Jan2025 21:02:06.842] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[10Jan2025 21:02:06.843] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[10Jan2025 21:02:06.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 21:02:06.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 21:02:22.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:22.613] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:22.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:02:22.650] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:22.700] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:22.756] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:22.797] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:22.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:22.897] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:22.945] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:22.998] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.046] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.096] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.199] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.243] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.749] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:02:23.794] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.843] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.899] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:23.995] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.045] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.095] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.143] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.192] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.245] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.347] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.398] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.446] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.549] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.597] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.643] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.748] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.799] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.847] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:24.998] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.042] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.097] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.146] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.197] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.245] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.293] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.393] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.496] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.597] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.646] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.743] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.792] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.844] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.896] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.947] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:25.997] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.098] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.148] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.196] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.247] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.296] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.392] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.496] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.595] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.745] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.897] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:26.995] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.045] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.099] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.147] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.200] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.250] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.344] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.445] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.594] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.647] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.746] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.798] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.845] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:27.997] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.044] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.096] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.144] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.195] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.244] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.293] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.396] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.495] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.546] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.597] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.651] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.696] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.742] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.843] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.897] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.944] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:02:28.998] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:03:07.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:03:10.364] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:03:11.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:03:12.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:03:13.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:03:14.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:03:15.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:03:43.812] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:26.510] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:28.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:29.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:49.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:50.420] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:52.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:53.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:53.162] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:53.269] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:53.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:53.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:53.562] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:53.596] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:53.716] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:53.857] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:53.958] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:54.796] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:54.842] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:54.895] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:54.946] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.000] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.049] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.098] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.147] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.199] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.245] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.443] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.508] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.595] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.647] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.703] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.750] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.799] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:55.847] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:56.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:04:56.249] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:56.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:56.347] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:56.396] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:56.443] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:56.493] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:04:59.864] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:05:00.146] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.194] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.247] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.296] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.400] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.495] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.547] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.596] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.644] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.695] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.745] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.796] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:00.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 21:05:01.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:05:20.413] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:05:21.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:05:27.216] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 21:05:37.370] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
