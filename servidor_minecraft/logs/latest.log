@@ -1199,3 +1199,8 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [10Jan2025 23:28:25.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
 [10Jan2025 23:28:25.774] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
 [10Jan2025 23:28:31.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5989ms or 119 ticks behind
+[10Jan2025 23:45:06.494] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[10Jan2025 23:45:06.528] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[10Jan2025 23:45:16.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was doomed to fall by Hoglin
+[10Jan2025 23:46:17.340] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[10Jan2025 23:46:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
