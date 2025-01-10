@@ -208,6 +208,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-09 00:15:51 +0000",
+      "minecraft:ghast": "2025-01-10 18:59:20 +0000",
       "minecraft:spider": "2025-01-08 17:57:36 +0000",
       "minecraft:piglin_brute": "2025-01-10 18:46:35 +0000",
       "minecraft:creeper": "2025-01-09 01:42:13 +0000",
@@ -449,9 +450,15 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "minecraft:nether/root": {
     "criteria": {
-      "bastion": "2025-01-10 18:45:25 +0000"
+      "entered_nether": "2025-01-10 18:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-10 18:41:43 +0000"
     },
     "done": true
   },
@@ -463,9 +470,9 @@
     },
     "done": false
   },
-  "minecraft:nether/root": {
+  "alexsmobs:alexsmobs/straddler": {
     "criteria": {
-      "entered_nether": "2025-01-10 18:41:43 +0000"
+      "killed_by": "2025-01-10 18:42:02 +0000"
     },
     "done": true
   },
@@ -475,27 +482,21 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "entered_nether": "2025-01-10 18:41:43 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-01-10 18:42:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-10 18:46:55 +0000"
+      "bastion": "2025-01-10 18:45:25 +0000"
     },
     "done": true
   },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-01-10 18:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-10 18:46:55 +0000"
     },
     "done": true
   },
