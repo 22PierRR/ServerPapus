@@ -167,6 +167,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-08 21:08:40 +0000",
       "minecraft:skeleton": "2025-01-08 01:29:24 +0000",
+      "minecraft:vindicator": "2025-01-10 18:33:29 +0000",
       "minecraft:spider": "2025-01-08 01:29:32 +0000",
       "minecraft:creeper": "2025-01-08 02:07:22 +0000",
       "minecraft:witch": "2025-01-08 01:55:25 +0000",
@@ -221,6 +222,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "pillager_outpost": "2025-01-10 18:32:34 +0000",
       "illager_camp": "2025-01-08 01:25:44 +0000"
     },
     "done": false
@@ -494,7 +496,8 @@
   "morevillagers:all_professions_traded": {
     "criteria": {
       "fletcher": "2025-01-09 01:13:00 +0000",
-      "librarian": "2025-01-08 23:35:47 +0000"
+      "librarian": "2025-01-08 23:35:47 +0000",
+      "butcher": "2025-01-10 18:26:38 +0000"
     },
     "done": false
   },
@@ -537,6 +540,12 @@
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-01-09 23:03:06 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-01-10 18:32:34 +0000"
     },
     "done": true
   },
