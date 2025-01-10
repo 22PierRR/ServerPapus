@@ -1484,3 +1484,4 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [10Jan2025 22:50:48.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
 [10Jan2025 22:54:28.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Best Friends Forever]
 [10Jan2025 22:56:27.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZZZZZZZZZZZ
+[10Jan2025 23:02:07.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/76133, l='ServerLevel[world]', x=55.31, y=86.00, z=439.09] died, message: 'Florist was slain by Zombie'
