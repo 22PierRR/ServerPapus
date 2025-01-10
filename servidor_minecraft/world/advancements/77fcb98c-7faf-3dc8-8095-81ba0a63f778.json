@@ -213,6 +213,7 @@
       "minecraft:piglin_brute": "2025-01-10 18:46:35 +0000",
       "minecraft:creeper": "2025-01-09 01:42:13 +0000",
       "minecraft:witch": "2025-01-09 01:51:45 +0000",
+      "minecraft:wither_skeleton": "2025-01-10 21:07:32 +0000",
       "minecraft:piglin": "2025-01-10 18:45:49 +0000",
       "minecraft:stray": "2025-01-08 02:34:41 +0000",
       "minecraft:zombie": "2025-01-08 03:01:11 +0000",
@@ -517,6 +518,12 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "smoker": "2025-01-10 20:53:32 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-01-10 21:06:58 +0000"
     },
     "done": false
   },
