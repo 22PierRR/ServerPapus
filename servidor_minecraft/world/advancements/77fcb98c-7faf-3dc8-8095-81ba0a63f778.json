@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-01-10 17:17:52 +0000",
       "minecraft:taiga": "2025-01-08 03:00:43 +0000",
       "minecraft:frozen_river": "2025-01-08 02:27:03 +0000",
       "minecraft:windswept_hills": "2025-01-08 01:14:04 +0000",
@@ -63,10 +64,12 @@
       "minecraft:snowy_plains": "2025-01-08 01:14:05 +0000",
       "minecraft:snowy_taiga": "2025-01-08 01:14:15 +0000",
       "minecraft:swamp": "2025-01-09 01:51:13 +0000",
+      "minecraft:cold_ocean": "2025-01-10 17:08:33 +0000",
       "minecraft:forest": "2025-01-08 02:33:19 +0000",
       "minecraft:lush_caves": "2025-01-09 01:10:57 +0000",
       "minecraft:frozen_ocean": "2025-01-08 01:18:41 +0000",
       "minecraft:windswept_forest": "2025-01-08 01:12:23 +0000",
+      "minecraft:ocean": "2025-01-10 17:10:22 +0000",
       "minecraft:meadow": "2025-01-09 00:27:20 +0000",
       "minecraft:windswept_gravelly_hills": "2025-01-08 02:31:02 +0000",
       "minecraft:plains": "2025-01-08 02:30:45 +0000"
@@ -127,7 +130,8 @@
       "porkchop": "2025-01-08 02:24:42 +0000",
       "bread": "2025-01-08 02:30:20 +0000",
       "golden_apple": "2025-01-09 00:33:58 +0000",
-      "golden_carrot": "2025-01-09 00:24:31 +0000"
+      "golden_carrot": "2025-01-09 00:24:31 +0000",
+      "cooked_chicken": "2025-01-10 17:24:20 +0000"
     },
     "done": false
   },
@@ -336,33 +340,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-01-09 01:00:44 +0000"
-    },
-    "done": true
-  },
   "idas:tinkers_citadel": {
     "criteria": {
       "in_tinkers_citadel": "2025-01-09 00:10:47 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "swamp_village": "2025-01-09 01:51:09 +0000"
-    },
-    "done": false
-  },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
-    "criteria": {
-      "ferrous_wroughtnaut": "2025-01-09 02:07:02 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-09 00:35:00 +0000"
     },
     "done": true
   },
@@ -372,9 +352,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "coded_trigger": "2025-01-09 02:54:28 +0000"
+      "killed_fire_dragon": "2025-01-09 00:35:00 +0000"
     },
     "done": true
   },
@@ -385,9 +365,51 @@
     },
     "done": false
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 01:00:44 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "swamp_village": "2025-01-09 01:51:09 +0000"
+    },
+    "done": false
+  },
   "nova_structures:adventure/find_swamp_village": {
     "criteria": {
       "minecraft:village_swamp": "2025-01-09 01:51:09 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-01-09 02:07:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-01-09 02:54:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-10 17:08:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-10 17:12:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-10 17:08:25 +0000"
     },
     "done": true
   },
