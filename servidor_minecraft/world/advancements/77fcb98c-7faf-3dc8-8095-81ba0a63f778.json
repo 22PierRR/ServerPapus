@@ -126,6 +126,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-01-10 18:20:51 +0000",
       "cooked_mutton": "2025-01-09 00:36:27 +0000",
       "porkchop": "2025-01-08 02:24:42 +0000",
       "bread": "2025-01-08 02:30:20 +0000",
@@ -167,6 +168,7 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_illusioner": "2025-01-10 18:21:56 +0000",
       "killed_iceologer": "2025-01-08 02:25:57 +0000"
     },
     "done": false
@@ -191,6 +193,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "taiga": "2025-01-10 18:24:37 +0000",
       "plains": "2025-01-08 02:31:00 +0000",
       "snowy": "2025-01-08 02:28:28 +0000"
     },
@@ -401,21 +404,39 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-01-10 17:12:38 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-01-10 17:08:25 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-10 17:12:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-01-10 17:48:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-01-10 18:01:40 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-01-10 18:21:56 +0000"
+    },
+    "done": true
+  },
+  "idas:redhorn_guild": {
+    "criteria": {
+      "in_redhorn_guild": "2025-01-10 18:23:58 +0000"
     },
     "done": true
   },
