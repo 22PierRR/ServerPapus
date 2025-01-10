@@ -13582,3 +13582,853 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [10Jan2025 17:37:32.173] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [10Jan2025 17:39:19.468] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
 [10Jan2025 17:39:19.468] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 11.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 5.75 Damage not ignoring armor: 5.75 Reduced Damage: 3.19125 Result Damage: 8.94125
+[10Jan2025 17:39:36.521] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:39:36.522] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 4.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 2.25 Damage not ignoring armor: 2.25 Reduced Damage: 1.0912501 Result Damage: 3.34125
+[10Jan2025 17:40:20.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:40:21.446] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:40:27.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:40:29.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[10Jan2025 17:40:47.960] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[10Jan2025 17:40:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[10Jan2025 17:40:47.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 17:40:47.977] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 17:41:11.869] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:41:11.869] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 4.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 2.25 Damage not ignoring armor: 2.25 Reduced Damage: 1.0912501 Result Damage: 3.34125
+[10Jan2025 17:41:14.920] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:41:14.920] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 5.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 2.75 Damage not ignoring armor: 2.75 Reduced Damage: 1.36125 Result Damage: 4.11125
+[10Jan2025 17:41:40.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:41:41.665] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:41.717] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:41.770] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:41.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:41:41.816] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:41.869] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:41.919] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:41.968] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.017] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.067] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.169] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.217] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.269] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.325] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.370] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.419] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.467] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.520] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.568] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.619] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.668] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.718] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.817] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.918] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:42.969] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.019] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.069] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.123] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.167] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.236] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.271] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.317] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.371] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.417] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.466] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.518] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.570] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.619] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.665] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.715] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.766] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.818] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.874] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.920] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:43.973] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.014] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.066] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.117] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.168] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.216] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.268] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.317] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.368] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.418] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.418] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.469] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.517] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.517] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.566] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.566] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:41:44.623] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.623] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.666] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.666] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.730] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.730] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.821] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.822] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.868] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.868] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.919] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.919] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.966] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:44.967] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.017] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.017] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.067] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.067] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.168] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.216] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.264] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.318] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.369] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.369] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.418] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.418] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.468] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:41:45.468] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:43:57.169] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:43:57.216] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:43:57.266] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:01.520] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:01.569] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:01.619] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:01.669] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:01.718] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:05.570] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:05.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:05.819] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:05.874] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:05.918] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:05.967] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.018] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.076] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.116] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.169] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.218] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.268] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.317] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.370] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.423] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.471] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.518] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.568] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:06.615] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.270] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.317] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.368] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.423] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.473] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.518] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.571] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.619] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.667] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.715] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.769] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.820] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.870] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.922] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:07.967] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:08.018] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:08.071] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:08.117] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:08.170] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:08.218] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:08.268] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:44:29.768] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:44:29.768] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 13.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 6.75 Damage not ignoring armor: 6.75 Reduced Damage: 3.88125 Result Damage: 10.63125
+[10Jan2025 17:44:32.066] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:44:32.066] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 14.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 7.25 Damage not ignoring armor: 7.25 Reduced Damage: 4.24125 Result Damage: 11.49125
+[10Jan2025 17:44:50.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:45:06.068] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:45:06.068] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 11.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 5.75 Damage not ignoring armor: 5.75 Reduced Damage: 3.19125 Result Damage: 8.94125
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[10Jan2025 17:45:47.961] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[10Jan2025 17:45:47.962] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[10Jan2025 17:45:47.963] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 17:45:47.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 17:46:16.869] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:46:38.619] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:46:38.619] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 3.75 Damage not ignoring armor: 3.75 Reduced Damage: 1.93125 Result Damage: 5.68125
+[10Jan2025 17:46:40.968] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:46:40.968] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 3.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 1.75 Damage not ignoring armor: 1.75 Reduced Damage: 0.8312501 Result Damage: 2.5812502
+[10Jan2025 17:47:02.219] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:47:02.219] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 3.75 Damage not ignoring armor: 3.75 Reduced Damage: 1.93125 Result Damage: 5.68125
+[10Jan2025 17:47:14.617] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:47:45.273] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:47:45.274] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 0.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 0.25 Damage not ignoring armor: 0.25 Reduced Damage: 0.11125 Result Damage: 0.36124998
+[10Jan2025 17:47:47.569] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:47:47.569] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 13.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 6.75 Damage not ignoring armor: 6.75 Reduced Damage: 3.88125 Result Damage: 10.63125
+[10Jan2025 17:47:58.870] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:47:58.870] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 8.5 Armor value: 14.0 Damage ignoring armor (50.0% damage): 4.25 Damage not ignoring armor: 4.25 Reduced Damage: 2.2312498 Result Damage: 6.48125
+[10Jan2025 17:48:09.668] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jan2025 17:48:19.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Mother of Dragons]
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[10Jan2025 17:50:47.957] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[10Jan2025 17:50:47.958] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[10Jan2025 17:50:47.959] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[10Jan2025 17:50:47.959] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[10Jan2025 17:50:47.959] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[10Jan2025 17:50:47.959] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[10Jan2025 17:50:47.959] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[10Jan2025 17:50:47.959] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[10Jan2025 17:50:47.959] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[10Jan2025 17:50:47.959] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[10Jan2025 17:50:47.959] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[10Jan2025 17:50:47.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 17:50:47.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 17:52:08.084] [Server thread/DEBUG] [mixin/]: Mixing DoubleInventoryAccessor from fabric-transfer-api-v1.mixins.json into net.minecraft.world.CompoundContainer
+[10Jan2025 17:52:08.085] [Server thread/DEBUG] [mixin/]: fabric-transfer-api-v1.mixins.json:DoubleInventoryAccessor: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[10Jan2025 17:52:17.696] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[10Jan2025 17:52:17.719] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[10Jan2025 17:52:17.771] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[10Jan2025 17:52:17.820] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[10Jan2025 17:52:17.876] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[10Jan2025 17:52:17.921] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[10Jan2025 17:52:17.941] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 1
+[10Jan2025 17:52:17.941] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[10Jan2025 17:52:17.941] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[10Jan2025 17:52:17.941] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, kuma_api, fabric_renderer_api_v1, betterwitchhuts, fabric_item_api_v1, fabric_rendering_fluids_v1, fabric_models_v0, fabric_convention_tags_v1, xaeroworldmap, citadel, alexsmobs, fabric_command_api_v1, fabric_block_view_api_v2, fabric_command_api_v2, yungsapi, fabric_data_attachment_api_v1, bagus_lib, mixinextras, guardvillagers, uteamcore, mcwdoors, balm, fabric_screen_api_v1, fpsreducer, carryon, melody, betterfortresses, cloth_config, fabric_api, fabric_content_registries_v0, structure_gel, usefulbackpacks, morevillagers, fabric_game_rule_api_v1, fabric_api_lookup_api_v1, dungeons_plus, chunky, mcwtrpdoors, yungsbridges, simplefarming, philipsruins, spartantoolkit, curios, collective, yungsextras, mr_dungeons_andtaverns, villagertools, spartanfire, bettervillage, betterstrongholds, tombstone, fabric_entity_events_v1, spartanweaponry, architectury, mr_limesplatus_ending, fabric_loot_api_v2, mcwfurnitures, flib, fabric_rendering_data_attachment_v1, fabric_networking_api_v1, framework, bettermineshafts, playerrevive, fabric_lifecycle_events_v1, fabric_key_binding_api_v1, betterjungletemples, fabric_client_tags_api_v1, fabric_transfer_api_v1, fabric_dimensions_v1, mowziesmobs, geckolib, mutantmonsters, amendments, customskinloader, easymagic, fabric_model_loading_api_v1, jei, configlibtxf, fabric_screen_handler_api_v1, fabric_resource_loader_v0, libraryferret, goblintraders, structorytowers, reap, fabric_rendering_v1, waystones, fabric_renderer_indigo, clumps, integrated_api, fabric_mining_level_api_v1, artifacts, configured, dungeoncrawl, betterdeserttemples, iceandfire, walljump, blueprint, savage_and_ravage, fabric_particles_v1, puzzlesaccessapi, dungeons_arise_seven_seas, forge, midashunger, fabric_transitive_access_wideners_v1, friendsandfoes, idas, dungeons_arise, minecraft, trade_cycling, loot_and_danger_dungeons, moonlight, fabric_api_base, fabric_blockrenderlayer_v1, mixinsquared, jade, another_furniture, hoporp, creativecore, fabric_block_api_v1, fabric_resource_conditions_api_v1, personality, flywheel, create, spartanshields, xaerominimap, fabric_item_group_api_v1, storagedrawers, earthmobsmod, zeta, quark, supplementaries, fabric_biome_api_v1, fabric_registry_sync_v0, mvs, appleskin, fabric_recipe_api_v1, fabric_object_builder_api_v1, puzzleslib, enhancedcelestials, corgilib, fabric_sound_api_v1, fabric_message_api_v1, cosmeticarmorreworked, expandability, fabric_data_generation_api_v1, fabric_events_interaction_v0]
+[10Jan2025 17:52:17.941] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supplementaries:channel' : Version test of '0' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bagus_lib:channel' : Version test of '2' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corgilib:network' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'earthmobsmod:channel' : Version test of '2' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'usefulbackpacks:slot_mod' : Version test of '0' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enhancedcelestials:network' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[10Jan2025 17:52:17.942] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blueprint:net' : Version test of 'BP1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mutantmonsters:1' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'configured:play' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'flib:main_channel' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'walljump:network' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'storagedrawers:main_channel' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'personality:net' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'friendsandfoes:networking' : Version test of '3.0.6' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trade_cycling:cycle_trades' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of '1.20.1-1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'amendments:channel' : Version test of '0' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.943] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'quark:main' : Version test of '4' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tombstone:tombstone_channel' : Version test of 'tombstone-8.8.6' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of '1.20.1-1' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'loot_and_danger_dungeons:loot_and_danger_dungeons' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of '1' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[10Jan2025 17:52:17.944] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[10Jan2025 17:52:17.969] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 2
+[10Jan2025 17:52:17.969] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[10Jan2025 17:52:17.969] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:17.969] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:17.977] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[10Jan2025 17:52:18.021] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[10Jan2025 17:52:18.032] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 3
+[10Jan2025 17:52:18.032] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[10Jan2025 17:52:18.032] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.032] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.071] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[10Jan2025 17:52:18.120] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[10Jan2025 17:52:18.176] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[10Jan2025 17:52:18.191] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 4
+[10Jan2025 17:52:18.191] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[10Jan2025 17:52:18.191] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.191] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.222] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[10Jan2025 17:52:18.223] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 5
+[10Jan2025 17:52:18.223] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[10Jan2025 17:52:18.223] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.223] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.223] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 6
+[10Jan2025 17:52:18.223] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[10Jan2025 17:52:18.223] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.223] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.278] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[10Jan2025 17:52:18.320] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[10Jan2025 17:52:18.372] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[10Jan2025 17:52:18.425] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 14
+[10Jan2025 17:52:18.473] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[10Jan2025 17:52:18.521] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 16
+[10Jan2025 17:52:18.530] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 7
+[10Jan2025 17:52:18.530] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[10Jan2025 17:52:18.530] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.530] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.531] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 8
+[10Jan2025 17:52:18.531] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[10Jan2025 17:52:18.531] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.531] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.532] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 9
+[10Jan2025 17:52:18.532] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[10Jan2025 17:52:18.532] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.532] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.533] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 10
+[10Jan2025 17:52:18.533] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[10Jan2025 17:52:18.533] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.533] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.534] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 11
+[10Jan2025 17:52:18.534] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[10Jan2025 17:52:18.534] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.534] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.535] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 12
+[10Jan2025 17:52:18.535] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[10Jan2025 17:52:18.535] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.535] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.573] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[10Jan2025 17:52:18.620] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[10Jan2025 17:52:18.625] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 13
+[10Jan2025 17:52:18.625] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[10Jan2025 17:52:18.625] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.625] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.666] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 14
+[10Jan2025 17:52:18.666] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[10Jan2025 17:52:18.666] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.666] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.666] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 15
+[10Jan2025 17:52:18.666] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[10Jan2025 17:52:18.666] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.666] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.671] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 19
+[10Jan2025 17:52:18.683] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 16
+[10Jan2025 17:52:18.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[10Jan2025 17:52:18.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.720] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 20
+[10Jan2025 17:52:18.741] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 17
+[10Jan2025 17:52:18.741] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[10Jan2025 17:52:18.741] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.741] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.768] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 21
+[10Jan2025 17:52:18.768] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 18
+[10Jan2025 17:52:18.768] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[10Jan2025 17:52:18.768] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.768] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.818] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 22
+[10Jan2025 17:52:18.829] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 19
+[10Jan2025 17:52:18.829] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[10Jan2025 17:52:18.829] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.829] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.847] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 20
+[10Jan2025 17:52:18.847] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[10Jan2025 17:52:18.847] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.847] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.871] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[10Jan2025 17:52:18.920] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 24
+[10Jan2025 17:52:18.958] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 21
+[10Jan2025 17:52:18.958] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[10Jan2025 17:52:18.959] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.959] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:18.972] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 25
+[10Jan2025 17:52:18.972] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 22
+[10Jan2025 17:52:18.972] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[10Jan2025 17:52:18.972] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:18.972] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:19.020] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 26
+[10Jan2025 17:52:19.068] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config reap-server.toml' to 'fml:handshake' sequence 27
+[10Jan2025 17:52:19.126] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mutantmonsters-server.toml' to 'fml:handshake' sequence 28
+[10Jan2025 17:52:19.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 29
+[10Jan2025 17:52:19.228] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 30
+[10Jan2025 17:52:19.268] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[10Jan2025 17:52:19.332] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 32
+[10Jan2025 17:52:35.804] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 23
+[10Jan2025 17:52:35.804] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[10Jan2025 17:52:35.804] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:35.804] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:36.126] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 24
+[10Jan2025 17:52:36.126] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[10Jan2025 17:52:36.126] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:36.126] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:36.139] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 25
+[10Jan2025 17:52:36.139] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[10Jan2025 17:52:36.139] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:36.139] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:36.143] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 26
+[10Jan2025 17:52:36.143] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[10Jan2025 17:52:36.143] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:36.143] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:36.153] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 27
+[10Jan2025 17:52:36.153] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[10Jan2025 17:52:36.153] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:36.153] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:36.208] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 28
+[10Jan2025 17:52:36.208] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[10Jan2025 17:52:36.208] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:36.208] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:36.217] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 29
+[10Jan2025 17:52:36.217] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[10Jan2025 17:52:36.217] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:36.217] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:36.217] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 30
+[10Jan2025 17:52:36.217] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[10Jan2025 17:52:36.217] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:36.217] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:36.223] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 31
+[10Jan2025 17:52:36.223] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[10Jan2025 17:52:36.223] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jan2025 17:52:36.223] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jan2025 17:52:36.232] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 32
+[10Jan2025 17:52:36.232] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 32
+[10Jan2025 17:52:36.232] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[10Jan2025 17:52:36.280] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[10Jan2025 17:52:36.340] [Server thread/DEBUG] [fabric_networking_api_v1/]: Sent accepted channels to the client for "com.mojang.authlib.GameProfile@18faab55[id=<null>,name=22PieroRR,properties={},legacy=false] (/127.249.203.197:43719)"
+[10Jan2025 17:52:36.611] [Netty Epoll Server IO #2/DEBUG] [ServerLoginNetworkAddon for /127.249.203.197:43719/]: Handling inbound login query with id 999
+[10Jan2025 17:52:36.611] [Netty Epoll Server IO #2/DEBUG] [fabric_networking_api_v1/]: Received accepted channels from the client for "com.mojang.authlib.GameProfile@18faab55[id=<null>,name=22PieroRR,properties={},legacy=false] (/127.249.203.197:43719)"
+[10Jan2025 17:52:36.643] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.249.203.197:43719] logged in with entity id 21092 at (1722.7801095877794, 69.0, 391.04136753400536)
+[10Jan2025 17:52:36.643] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@7fcc4a8c into net.minecraft.network.Connection@3a2d437e
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:command_argument_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:item
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_entity_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:custom_stat
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: spartanweaponry:weapon_traits
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/foliage_placer_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:stat_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_rule
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:attribute
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:position_source_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:height_provider_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: corgilib:condition
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_block_entity_modifier
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/density_function_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:fluid
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:global_loot_modifier_serializers
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_condition_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_pool_element
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:activity
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_serializer
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:frog_variant
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:banner_pattern
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:instrument
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:decorated_pot_patterns
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature_size_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:point_of_interest_type
+[10Jan2025 17:52:36.644] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:mob_effect
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_pool_entry_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/block_state_provider_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/chunk_generator
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: corgilib:blending_function
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:float_provider_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:chunk_status
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:enchantment
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_function_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_processor
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_score_provider_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/tree_decorator_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:schedule
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/material_condition
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:entity_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_profession
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:potion
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:recipe_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:int_provider_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/feature
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:cat_variant
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: corgilib:villager_trades_item_listing
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:pos_rule_test
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_placement
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_nbt_provider_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:menu
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/trunk_placer_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:creative_mode_tab
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/placement_modifier_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/carver
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:loot_number_provider_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/structure_piece
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sound_event
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:particle_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:game_event
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/biome_source
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:worldgen/root_placer_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:villager_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:painting_variant
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:fluid_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block_predicate_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:block
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: forge:entity_data_serializers
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:sensor_type
+[10Jan2025 17:52:36.645] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:rule_test
+[10Jan2025 17:52:36.646] [Server thread/DEBUG] [FabricRegistrySync/]: Not syncing registry: minecraft:memory_module_type
+[10Jan2025 17:52:36.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[10Jan2025 17:52:36.698] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[10Jan2025 17:52:40.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> o nuc
+[10Jan2025 17:52:47.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> los dragones dan 2 huevos
+[10Jan2025 17:53:13.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> tienes ambos?
+[10Jan2025 17:53:24.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> 2?
+[10Jan2025 17:53:28.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ci
+[10Jan2025 17:53:32.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:53:32.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 17:53:33.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> de q
+[10Jan2025 17:53:35.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> pa tradear
+[10Jan2025 17:53:38.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> hielo
+[10Jan2025 17:53:42.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> quieres
+[10Jan2025 17:53:43.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> fuego
+[10Jan2025 17:53:44.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> plomito
+[10Jan2025 17:54:03.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ya p
+[10Jan2025 17:54:10.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> no les dije
+[10Jan2025 17:54:14.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> pero me dio 2 tambien XD
+[10Jan2025 17:54:15.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> rojo
+[10Jan2025 17:54:17.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> god
+[10Jan2025 17:54:50.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> o y el carnicero
+[10Jan2025 17:54:56.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> no hay
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Starting registry save
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:command_argument_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:item
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_entity_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:custom_stat
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: spartanweaponry:weapon_traits
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/foliage_placer_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:stat_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_rule
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:attribute
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:position_source_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:height_provider_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:condition
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_block_entity_modifier
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/density_function_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:fluid
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:global_loot_modifier_serializers
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_condition_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_pool_element
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:activity
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_serializer
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:frog_variant
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:banner_pattern
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:instrument
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:decorated_pot_patterns
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature_size_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:point_of_interest_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:mob_effect
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_pool_entry_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/block_state_provider_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/chunk_generator
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:blending_function
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:float_provider_type
+[10Jan2025 17:55:48.000] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:chunk_status
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:enchantment
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_function_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_processor
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_score_provider_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/tree_decorator_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:schedule
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/material_condition
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:entity_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_profession
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:potion
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:recipe_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:int_provider_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/feature
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:cat_variant
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: corgilib:villager_trades_item_listing
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:pos_rule_test
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_placement
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_nbt_provider_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:menu
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/trunk_placer_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:creative_mode_tab
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/placement_modifier_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/carver
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:loot_number_provider_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/structure_piece
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sound_event
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:particle_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:game_event
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/biome_source
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:worldgen/root_placer_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:villager_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:painting_variant
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:fluid_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block_predicate_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:block
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: forge:entity_data_serializers
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:sensor_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:rule_test
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving registry: minecraft:memory_module_type
+[10Jan2025 17:55:48.001] [Server thread/DEBUG] [FabricRegistrySync/]: Not saving empty registry data
+[10Jan2025 17:55:48.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jan2025 17:55:48.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jan2025 17:57:01.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:02.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:04.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:05.591] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:06.726] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:12.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> o q dejas abierto
+[10Jan2025 17:57:14.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:16.131] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:23.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:24.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:26.084] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> no ya
+[10Jan2025 17:57:37.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:39.683] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:57:51.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> aver
+[10Jan2025 17:57:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Mutual Aid]
+[10Jan2025 17:58:01.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:58:02.531] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:58:03.536] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:58:04.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:58:04.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 17:58:05.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:58:05.777] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 17:58:09.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> q te hace
+[10Jan2025 17:58:09.270] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:58:09.270] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.5 Armor value: 26.0 Damage ignoring armor (50.0% damage): 10.25 Damage not ignoring armor: 10.25 Reduced Damage: 2.05 Result Damage: 12.3
+[10Jan2025 17:58:10.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jan2025 17:58:10.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jan2025 17:58:15.120] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:58:15.120] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 22.0 Armor value: 26.0 Damage ignoring armor (50.0% damage): 11.0 Damage not ignoring armor: 11.0 Reduced Damage: 2.1999998 Result Damage: 13.2
+[10Jan2025 17:58:19.574] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:58:19.574] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 28.0 Armor value: 2.0 Damage ignoring armor (50.0% damage): 14.0 Damage not ignoring armor: 14.0 Reduced Damage: 13.776 Result Damage: 27.776001
+[10Jan2025 17:58:29.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XD
+[10Jan2025 17:58:32.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZZZZZ
+[10Jan2025 17:58:33.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZZZZZ
+[10Jan2025 17:58:35.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZZZZZZZZZZZZZ
+[10Jan2025 17:58:58.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> ZZZZZZZZZZZ
+[10Jan2025 17:59:12.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZZZZ
+[10Jan2025 17:59:27.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elrisas741> zzzzzzzzzzzzzz
+[10Jan2025 17:59:34.724] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[10Jan2025 17:59:34.724] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 28.0 Armor value: 26.0 Damage ignoring armor (50.0% damage): 14.0 Damage not ignoring armor: 14.0 Reduced Damage: 2.7999997 Result Damage: 16.8
+[10Jan2025 17:59:39.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZZZZZZZZ
