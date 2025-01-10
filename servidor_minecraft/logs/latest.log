@@ -1152,3 +1152,5 @@ java.lang.Exception: Error: ars_nouveau:wilden_hunter is not a valid entity ID!
 [10Jan2025 20:37:15.676] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
 [10Jan2025 20:37:21.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6525ms or 130 ticks behind
 [10Jan2025 20:43:00.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Who is Cutting Onions?]
+[10Jan2025 20:50:19.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has completed the challenge [Hot Tourist Destinations]
+[10Jan2025 20:53:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Let's Get To Work]

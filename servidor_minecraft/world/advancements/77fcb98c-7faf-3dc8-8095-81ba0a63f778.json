@@ -464,11 +464,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-01-10 20:46:17 +0000",
       "minecraft:nether_wastes": "2025-01-10 18:44:07 +0000",
       "minecraft:soul_sand_valley": "2025-01-10 18:41:45 +0000",
-      "minecraft:basalt_deltas": "2025-01-10 18:42:29 +0000"
+      "minecraft:basalt_deltas": "2025-01-10 18:42:29 +0000",
+      "minecraft:warped_forest": "2025-01-10 20:50:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
@@ -497,6 +499,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-01-10 18:46:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-01-10 20:43:00 +0000"
     },
     "done": true
   },
