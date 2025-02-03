@@ -4279,3 +4279,121 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Feb2025 19:42:21.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aldhair_16[/127.1.134.220:43023] logged in with entity id 29447 at (66.20484575309324, 71.4262686318729, -835.0265928749202)
 [03Feb2025 19:42:21.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 joined the game
 [03Feb2025 19:42:21.754] [Server thread/INFO] [Jade/]: Syncing config to Aldhair_16 (83c9b1f0-07a3-3d7e-a940-d26aac0e9996)
+[03Feb2025 19:45:05.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has reached the goal [Worthy Equipment]
+[03Feb2025 19:45:28.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [First Trade]
+[03Feb2025 19:45:28.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [What a Deal!]
+[03Feb2025 19:45:35.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Jaws]
+[03Feb2025 19:46:03.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Jaws]
+[03Feb2025 19:46:58.997] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Feb2025 19:47:35.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has completed the challenge [Free Willy]
+[03Feb2025 19:47:39.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has completed the challenge [Free Willy]
+[03Feb2025 19:50:23.793] [pool-11-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_iberian], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp]] from pos BlockPos{x=-2085, y=74, z=-475}
+[03Feb2025 19:50:26.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2338ms or 46 ticks behind
+[03Feb2025 19:50:26.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! -10.307953888036309,1.0232327640796228,1.9446965837050811
+[03Feb2025 19:50:26.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 7.972768908869057,1.26671506936178,-6.520934293860705
+[03Feb2025 19:50:26.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2085, y=74, z=-475} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] at location
+[03Feb2025 19:50:26.507] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=true,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-2085, y=74, z=-475}
+[03Feb2025 19:50:43.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Penteconter]
+[03Feb2025 19:51:42.794] [pool-11-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_mushroom_fields], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_savanna_plateau], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach]] from pos BlockPos{x=-165, y=67, z=-1093}
+[03Feb2025 19:51:53.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Isn't It Iron Pick]
+[03Feb2025 19:53:23.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Flawless Crystals]
+[03Feb2025 19:53:40.245] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 5 in "main" inventory handler
+[03Feb2025 19:53:54.542] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:54.542] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:54.542] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:54.564] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:54.565] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:54.654] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:54.976] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:55.024] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:55.069] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:55.330] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:55.455] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:55.456] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:55.718] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:55.718] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:55.737] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:53:55.737] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:village/common/villagers
+[03Feb2025 19:54:02.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Creepie Crawly]
+[03Feb2025 19:54:14.824] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Feb2025 19:54:16.067] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Feb2025 19:55:04.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [...And My Axe!]
+[03Feb2025 19:55:27.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Mister Rhonda the Godly'/43560, l='ServerLevel[world]', x=-403.24, y=35.00, z=-1025.70] died: Mister Rhonda the Godly was slain by 22PieroRR
+[03Feb2025 19:55:28.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [He Wasn't So Strong]
+[03Feb2025 19:55:31.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Simple Farming]
+[03Feb2025 19:55:32.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Penteconter]
+[03Feb2025 19:55:36.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Ice Bucket Challenge]
+[03Feb2025 19:55:38.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Penteconter]
+[03Feb2025 19:55:41.859] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Feb2025 19:55:41.861] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Feb2025 19:55:41.865] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Feb2025 19:55:41.865] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Feb2025 19:55:41.868] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Feb2025 19:55:41.870] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Feb2025 19:55:41.879] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Feb2025 19:55:41.881] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[03Feb2025 19:55:43.831] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:44.473] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:44.475] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:44.479] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:44.595] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:44.655] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:44.666] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:44.686] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:44.797] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:44.935] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:44.977] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:45.186] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:45.191] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:45.335] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:45.488] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:45.543] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:45.630] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:45.644] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:45.904] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:46.262] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:46.265] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:46.303] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:46.410] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:46.416] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:46.430] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:46.433] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:46.441] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:mechanical_nest/mechanical_nest_decoration
+[03Feb2025 19:55:47.243] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7434ms or 148 ticks behind
+[03Feb2025 19:56:10.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Close Quarters]
+[03Feb2025 19:56:38.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Isn't It Iron Pick]
+[03Feb2025 19:56:57.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has completed the challenge [Rude Awakening]
+[03Feb2025 19:57:27.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Far From Perfect]
+[03Feb2025 19:57:58.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [A Strange Grave Dust]
+[03Feb2025 19:58:47.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Ashes 'n Bones]
+[03Feb2025 19:59:00.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Snowed In]
+[03Feb2025 19:59:02.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Snowed In]
+[03Feb2025 20:03:12.431] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 20:03:12.433] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 20:08:04.291] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Feb2025 20:08:04.292] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Feb2025 20:08:04.292] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[03Feb2025 20:08:07.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Incendium]
+[03Feb2025 20:08:07.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [We Need to Go Deeper]
+[03Feb2025 20:08:11.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! 5.9505450263345665,1.62461101423645,8.161576076850906
+[03Feb2025 20:08:11.807] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9549ms or 190 ticks behind
+[03Feb2025 20:08:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Incendium]
+[03Feb2025 20:08:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [We Need to Go Deeper]
+[03Feb2025 20:08:30.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Nightmare Fuel]
+[03Feb2025 20:08:33.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [How'd You Get This?]
+[03Feb2025 20:08:33.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Suit Up]
+[03Feb2025 20:08:37.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Nightmare Fuel]
+[03Feb2025 20:09:33.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/51028, l='ServerLevel[world]', x=-300.61, y=94.45, z=-38.30] died: Desert Blaze was scorched to death
+[03Feb2025 20:09:57.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Darude - Firestorm]
+[03Feb2025 20:09:57.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Strange Biomes]
+[03Feb2025 20:10:17.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [A Terrible Fortress]
+[03Feb2025 20:10:35.596] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.1231055f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[03Feb2025 20:10:47.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Darude - Firestorm]
+[03Feb2025 20:10:47.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Strange Biomes]
+[03Feb2025 20:10:51.174] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[03Feb2025 20:11:20.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Into Fire]
+[03Feb2025 20:11:42.819] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[03Feb2025 20:11:43.541] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[03Feb2025 20:12:03.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Those Were the Days]
+[03Feb2025 20:12:26.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/54905, l='ServerLevel[world]', x=-417.60, y=73.18, z=25.57] died: Desert Blaze was slain by elrisas741
+[03Feb2025 20:12:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [How'd You Get This?]
