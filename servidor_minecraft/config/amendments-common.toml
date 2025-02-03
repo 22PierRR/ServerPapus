@@ -31,15 +31,15 @@
 
 	#Map of potion ids to their inverse ids. Used for potion mixing
 	[cauldron.inverse_potions]
-		"minecraft:mining_fatigue" = "minecraft:haste"
-		"minecraft:instant_health" = "minecraft:instant_damage"
-		"minecraft:unluck" = "minecraft:luck"
 		"minecraft:instant_damage" = "minecraft:instant_health"
-		"minecraft:weakness" = "minecraft:strength"
-		"minecraft:slowness" = "minecraft:speed"
+		"minecraft:unluck" = "minecraft:luck"
 		"minecraft:haste" = "minecraft:mining_fatigue"
+		"minecraft:mining_fatigue" = "minecraft:haste"
 		"minecraft:strength" = "minecraft:weakness"
+		"minecraft:weakness" = "minecraft:strength"
 		"minecraft:speed" = "minecraft:slowness"
+		"minecraft:slowness" = "minecraft:speed"
+		"minecraft:instant_health" = "minecraft:instant_damage"
 		"minecraft:luck" = "minecraft:unluck"
 
 [tripwire_hook]

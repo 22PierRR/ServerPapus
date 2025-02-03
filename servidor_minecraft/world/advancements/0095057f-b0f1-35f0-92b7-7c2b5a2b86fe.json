@@ -1,604 +1,2378 @@
 {
-  "iceandfire:iceandfire/root": {
+  "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
     "criteria": {
-      "tick": "2025-01-08 01:12:34 +0000"
+      "has_logs": "2025-02-03 17:21:38 +0000"
     },
     "done": true
   },
-  "idas:idas_root": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "always": "2025-01-08 01:12:34 +0000"
+      "has_leather": "2025-02-03 17:25:55 +0000"
     },
     "done": true
   },
-  "morevillagers:root": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "always": "2025-01-08 01:12:34 +0000"
+      "has_stick": "2025-02-03 17:23:16 +0000"
     },
     "done": true
   },
-  "mowziesmobs:root": {
+  "pfm:recipes/furniture/dark_oak_white_simple_bed": {
     "criteria": {
-      "custom_test_name": "2025-01-08 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-01-08 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2025-01-08 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "friendsandfoes:misc/yellow_dye_from_buttercup": {
-    "criteria": {
-      "has_the_recipe": "2025-01-08 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-01-08 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-01-08 01:12:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:old_growth_pine_taiga": "2025-01-08 02:53:02 +0000",
-      "minecraft:taiga": "2025-01-08 01:50:55 +0000",
-      "minecraft:frozen_river": "2025-01-08 02:26:44 +0000",
-      "quark:glimmering_weald": "2025-01-08 22:34:45 +0000",
-      "minecraft:windswept_hills": "2025-01-08 21:17:09 +0000",
-      "minecraft:beach": "2025-01-08 02:55:27 +0000",
-      "minecraft:river": "2025-01-08 02:52:42 +0000",
-      "minecraft:snowy_plains": "2025-01-08 01:18:54 +0000",
-      "minecraft:snowy_taiga": "2025-01-08 01:17:24 +0000",
-      "minecraft:dripstone_caves": "2025-01-08 22:24:14 +0000",
-      "minecraft:swamp": "2025-01-08 01:35:26 +0000",
-      "minecraft:cold_ocean": "2025-01-08 02:52:25 +0000",
-      "minecraft:forest": "2025-01-08 21:02:20 +0000",
-      "minecraft:lush_caves": "2025-01-08 01:56:58 +0000",
-      "minecraft:frozen_ocean": "2025-01-08 01:21:01 +0000",
-      "minecraft:windswept_forest": "2025-01-08 01:12:35 +0000",
-      "minecraft:old_growth_spruce_taiga": "2025-01-08 01:51:37 +0000",
-      "minecraft:snowy_beach": "2025-01-08 01:25:10 +0000",
-      "minecraft:meadow": "2025-01-08 22:34:43 +0000",
-      "minecraft:windswept_gravelly_hills": "2025-01-08 21:17:22 +0000",
-      "minecraft:plains": "2025-01-08 21:17:46 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2025-01-08 01:12:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-01-08 01:16:25 +0000"
+      "has_bed": "2025-02-03 17:29:51 +0000"
     },
     "done": true
   },
   "mutantmonsters:root": {
     "criteria": {
-      "killed_something": "2025-01-08 01:17:10 +0000"
+      "killed_something": "2025-02-03 17:25:41 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "pfm:recipes/furniture/bamboo_white_simple_bed": {
     "criteria": {
-      "killed_something": "2025-01-08 01:17:10 +0000"
+      "has_bed": "2025-02-03 17:29:51 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
+  "spartanweaponry:recipes/stone_glaive": {
     "criteria": {
-      "coded_trigger": "2025-01-08 01:17:34 +0000"
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_key": {
+  "supplementaries:recipes/decorations/sign_post_acacia": {
     "criteria": {
-      "has_ingredient": "2025-01-08 01:17:37 +0000"
+      "has_planks": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/cancel_ghostly_shape": {
+  "spartanweaponry:recipes/cestus": {
     "criteria": {
-      "coded_trigger": "2025-01-08 01:17:51 +0000"
+      "has_wool": "2025-02-03 17:25:41 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "crafting_table": "2025-01-08 01:18:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-01-08 01:18:22 +0000"
-    },
-    "done": true
-  },
-  "simplefarming:root": {
-    "criteria": {
-      "pickup_seed": "2025-01-08 01:19:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2025-01-08 01:19:16 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-01-08 01:20:37 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_grave_dust": {
-    "criteria": {
-      "has_ingredient": "2025-01-08 01:21:59 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-01-08 01:24:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:pillager": "2025-01-08 21:08:40 +0000",
-      "minecraft:skeleton": "2025-01-08 01:29:24 +0000",
-      "minecraft:hoglin": "2025-01-10 23:29:18 +0000",
-      "minecraft:vindicator": "2025-01-10 18:33:29 +0000",
-      "minecraft:spider": "2025-01-08 01:29:32 +0000",
-      "minecraft:creeper": "2025-01-08 02:07:22 +0000",
-      "minecraft:slime": "2025-01-10 23:33:55 +0000",
-      "minecraft:witch": "2025-01-08 01:55:25 +0000",
-      "minecraft:wither_skeleton": "2025-01-08 02:32:03 +0000",
-      "minecraft:cave_spider": "2025-01-08 22:33:56 +0000",
-      "minecraft:stray": "2025-01-08 02:58:31 +0000",
-      "minecraft:enderman": "2025-01-09 02:45:48 +0000",
-      "minecraft:zombie": "2025-01-08 01:24:25 +0000",
-      "minecraft:drowned": "2025-01-09 00:58:48 +0000",
-      "minecraft:zombie_villager": "2025-01-09 00:18:53 +0000",
-      "savage_and_ravage:skeleton_villager": "2025-01-08 21:02:15 +0000"
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
     },
     "done": false
   },
-  "minecraft:adventure/kill_a_mob": {
+  "spartanweaponry:recipes/stone_longsword": {
     "criteria": {
-      "minecraft:zombie": "2025-01-08 01:24:25 +0000"
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "pfm:recipes/furniture/mangrove_white_simple_bed": {
     "criteria": {
-      "cooked_porkchop": "2025-01-09 13:45:51 +0000",
-      "cooked_mutton": "2025-01-10 23:29:04 +0000",
-      "sweet_berries": "2025-01-09 02:44:24 +0000",
-      "cooked_beef": "2025-01-09 13:59:52 +0000",
-      "apple": "2025-01-08 01:24:34 +0000",
-      "pumpkin_pie": "2025-01-09 02:48:57 +0000",
-      "bread": "2025-01-08 01:24:29 +0000",
-      "golden_apple": "2025-01-08 02:09:34 +0000",
-      "golden_carrot": "2025-01-08 21:42:12 +0000",
-      "cooked_rabbit": "2025-01-09 13:54:55 +0000",
-      "cooked_chicken": "2025-01-10 22:48:52 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-01-08 01:24:29 +0000"
+      "has_bed": "2025-02-03 17:29:51 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
+  "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
     "criteria": {
-      "from_undead": "2025-01-08 01:24:41 +0000"
+      "has_template": "2025-02-03 17:20:13 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_knowledge": {
+  "another_furniture:recipes/acacia_shelf": {
     "criteria": {
-      "coded_trigger": "2025-01-08 01:24:41 +0000"
+      "has_planks": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
+  "pfm:recipes/furniture/acacia_kitchen_wall_counter": {
     "criteria": {
-      "pillager_outpost": "2025-01-10 18:32:34 +0000",
-      "illager_camp": "2025-01-08 01:25:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-01-08 01:25:57 +0000"
+      "has_planks": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "morevillagers:all_workstations_get": {
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
     "criteria": {
-      "huntingpost": "2025-01-09 23:03:36 +0000",
-      "fletchingtable": "2025-01-09 01:11:52 +0000",
-      "brewingstand": "2025-01-10 23:39:12 +0000",
-      "smoker": "2025-01-08 01:28:32 +0000",
-      "blastfurnace": "2025-01-08 21:41:41 +0000",
-      "lectern": "2025-01-08 23:32:18 +0000",
-      "woodworkingtable": "2025-01-09 23:03:47 +0000",
-      "stonecutter": "2025-01-09 23:12:40 +0000"
-    },
-    "done": false
-  },
-  "morevillagers:first_workstation_get": {
-    "criteria": {
-      "smoker": "2025-01-08 01:28:32 +0000"
+      "has_acacia_plank": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "supplementaries:recipes/flags/flag_magenta": {
     "criteria": {
-      "coded_trigger": "2025-01-08 01:29:24 +0000"
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battle_hammer": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-03 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-02-03 17:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "slept_in_bed": "2025-01-08 01:30:26 +0000"
+      "slept_in_bed": "2025-02-03 17:30:19 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
+  "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "coded_trigger": "2025-01-08 01:31:34 +0000"
+      "in_water": "2025-02-03 17:25:59 +0000"
     },
     "done": true
   },
-  "friendsandfoes:adventure/the_magicians": {
+  "storagedrawers:recipes/storagedrawers/illumination_upgrade": {
     "criteria": {
-      "killed_iceologer": "2025-01-08 01:31:34 +0000"
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_raw_table_log": {
+    "criteria": {
+      "has_log": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/root": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_saber": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_trim": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_boomerang": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
     },
     "done": false
   },
-  "friendsandfoes:adventure/kill_iceologer": {
+  "spartanweaponry:recipes/wooden_club": {
     "criteria": {
-      "killed_iceologer": "2025-01-08 01:31:34 +0000"
+      "has_wood_log": "2025-02-03 17:21:38 +0000"
     },
     "done": true
   },
-  "nova_structures:root": {
+  "storagedrawers:recipes/storagedrawers/priority_key": {
     "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-01-08 01:36:53 +0000"
+      "has_template": "2025-02-03 17:20:13 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/find_tavern": {
+  "pfm:recipes/furniture/warped_white_classic_bed": {
     "criteria": {
-      "nova_structures:tavern_snowy": "2025-01-08 01:36:53 +0000"
+      "has_bed": "2025-02-03 17:29:51 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/tavern_quest": {
+  "create:recipes/building_blocks/acacia_window": {
     "criteria": {
-      "open_tavern_chest": "2025-01-08 01:38:05 +0000"
+      "has_ingredient": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "morevillagers:first_village": {
+  "pfm:recipes/furniture/stone_kitchen_wall_drawer": {
     "criteria": {
-      "taiga": "2025-01-08 01:51:39 +0000"
+      "has_planks": "2025-02-03 17:23:30 +0000"
     },
     "done": true
   },
-  "morevillagers:all_villages": {
+  "pfm:recipes/furniture/chorus_cataclysm_white_simple_bed": {
     "criteria": {
-      "taiga": "2025-01-08 01:51:39 +0000",
-      "plains": "2025-01-08 21:18:04 +0000",
-      "snowy": "2025-01-08 21:15:12 +0000"
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/warped_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
     },
     "done": false
   },
-  "minecraft:story/form_obsidian": {
+  "supplementaries:recipes/timber_brace": {
     "criteria": {
-      "obsidian": "2025-01-08 01:56:38 +0000"
+      "forge:rods/wooden": "2025-02-03 17:23:16 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "spartanweaponry:recipes/stone_battleaxe": {
     "criteria": {
-      "deflected_projectile": "2025-01-08 02:02:12 +0000"
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "pfm:recipes/furniture/acacia_coffee_table_basic": {
     "criteria": {
-      "diamond_helmet": "2025-01-08 02:04:44 +0000"
+      "has_planks": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "pfm:recipes/furniture/oak_chair_classic_brown": {
     "criteria": {
-      "iron_pickaxe": "2025-01-08 02:06:31 +0000"
+      "oak_chair_classic_brown": "2025-02-03 17:28:14 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "supplementaries:recipes/turn_table": {
     "criteria": {
-      "diamond": "2025-01-08 02:06:51 +0000"
+      "minecraft:planks": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/easy_opening": {
+  "mcwtrpdoors:recipes/acacia/acacia_paper_trapdoor": {
     "criteria": {
-      "coded_trigger": "2025-01-08 02:30:22 +0000"
+      "has_logs": "2025-02-03 17:21:38 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
+  "spartanweaponry:recipes/wooden_throwing_knife": {
     "criteria": {
-      "coded_trigger": "2025-01-08 02:32:15 +0000"
+      "has_wood": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "minecraft:nether/get_wither_skull": {
+  "another_furniture:recipes/cherry_drawer": {
     "criteria": {
-      "wither_skull": "2025-01-08 02:38:13 +0000"
+      "has_planks": "2025-02-03 17:23:16 +0000"
     },
     "done": true
   },
-  "spartanweaponry:collect_heads": {
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "wither_skeleton_skull": "2025-01-08 02:38:13 +0000"
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_trim": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-03 17:25:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-03 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
     },
     "done": false
   },
-  "iceandfire:iceandfire/dragonbone_tool": {
+  "minecraft:recipes/combat/leather_boots": {
     "criteria": {
-      "tool": "2025-01-08 02:49:56 +0000"
+      "has_leather": "2025-02-03 17:25:55 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/orcas_might": {
+  "supplementaries:recipes/flags/flag_green": {
     "criteria": {
-      "all_effects": "2025-01-08 02:51:17 +0000"
+      "has_stick": "2025-02-03 17:23:16 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_abandoned_temple": {
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
-      "location0": "2025-01-08 02:52:42 +0000"
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/bone_crusher": {
+  "pfm:recipes/furniture/oak_white_simple_bed": {
     "criteria": {
-      "coded_trigger": "2025-01-08 02:56:20 +0000"
+      "has_bed": "2025-02-03 17:29:51 +0000"
     },
     "done": true
   },
-  "spartanweaponry:parrying_dagger": {
+  "mcwtrpdoors:recipes/acacia/acacia_swamp_trapdoor": {
     "criteria": {
-      "has_parrying_dagger": "2025-01-08 02:56:58 +0000"
+      "has_logs": "2025-02-03 17:21:38 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
+  "incendium:technical/on_block": {
     "criteria": {
-      "ex": "2025-01-08 02:59:00 +0000"
-    },
-    "done": true
-  },
-  "idas:witches_treestump": {
-    "criteria": {
-      "in_witches_treestump": "2025-01-08 21:02:46 +0000"
-    },
-    "done": true
-  },
-  "idas:enchantingtower": {
-    "criteria": {
-      "in_enchantingtower": "2025-01-08 21:13:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/ol_betsy": {
-    "criteria": {
-      "shot_crossbow": "2025-01-08 21:22:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-01-08 21:23:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_if_dragon": {
-    "criteria": {
-      "killed_fire_dragon": "2025-01-08 21:27:36 +0000"
-    },
-    "done": true
-  },
-  "idas:tinkers_citadel": {
-    "criteria": {
-      "in_tinkers_citadel": "2025-01-08 21:32:08 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-01-08 21:47:36 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-01-08 21:47:37 +0000"
-    },
-    "done": true
-  },
-  "simplefarming:berries": {
-    "criteria": {
-      "blueberries": "2025-01-08 22:06:41 +0000"
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
     },
     "done": false
   },
-  "betterdungeons:all_dungeons": {
+  "pfm:recipes/furniture/acacia_coffee_table_classic": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-01-08 22:22:24 +0000"
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_rapier": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-03 17:25:59 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_saber": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_scythe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_lance": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "forge:rods/wooden": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smoker": "2025-02-03 17:30:13 +0000"
     },
     "done": false
   },
-  "betterdungeons:zombie_dungeon": {
+  "incendium:technical/feed_ghastling": {
     "criteria": {
-      "in_better_zombie_dungeon": "2025-01-08 22:22:24 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2025-01-08 22:34:05 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:boomerang": {
-    "criteria": {
-      "has_boomerang": "2025-01-08 22:53:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-01-08 22:57:34 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_trade": {
-    "criteria": {
-      "villagertrade": "2025-01-08 23:35:47 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:all_professions_traded": {
-    "criteria": {
-      "fletcher": "2025-01-09 01:13:00 +0000",
-      "librarian": "2025-01-08 23:35:47 +0000",
-      "butcher": "2025-01-10 18:26:38 +0000"
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
     },
     "done": false
   },
-  "minecraft:adventure/trade": {
+  "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "traded": "2025-01-08 23:35:47 +0000"
+      "useitem": "2025-02-03 17:22:16 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crocodile": {
+  "spartanweaponry:recipes/wooden_longsword": {
     "criteria": {
-      "killed_by": "2025-01-08 23:46:10 +0000"
+      "has_wood": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "create:copper": {
+  "pfm:recipes/furniture/brown_shower_towel": {
     "criteria": {
-      "0": "2025-01-09 00:58:48 +0000"
+      "has_brown_wool": "2025-02-03 17:28:14 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "mcwtrpdoors:recipes/acacia/acacia_classic_trapdoor": {
     "criteria": {
-      "coded_trigger": "2025-01-09 02:41:22 +0000"
+      "has_logs": "2025-02-03 17:21:38 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_egg": {
+  "spartanshields:recipes/wooden_tower_shield": {
     "criteria": {
-      "egg": "2025-01-09 03:04:40 +0000"
+      "has_planks": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "spartanweaponry:heavy_crossbow": {
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
     "criteria": {
-      "has_heavy_crossbow": "2025-01-09 22:36:22 +0000"
+      "has_wool": "2025-02-03 17:25:41 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
     "criteria": {
-      "bestiary": "2025-01-09 23:03:06 +0000"
+      "has_wool": "2025-02-03 17:25:41 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/mutual_aid": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "coded_trigger": "2025-01-10 17:57:58 +0000"
+      "has_furnace": "2025-02-03 17:30:10 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
+  "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
-      "coded_trigger": "2025-01-10 18:09:47 +0000"
+      "minecraft:planks": "2025-02-03 17:21:50 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/find_pillager_outpost": {
+  "supplementaries:recipes/checker": {
     "criteria": {
-      "minecraft:pillager_outpost": "2025-01-10 18:32:34 +0000"
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_meal": {
+  "spartanshields:recipes/stone_basic_shield": {
     "criteria": {
-      "bestiary": "2025-01-10 22:47:55 +0000"
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
+  "storagedrawers:recipes/storagedrawers/birch_trim": {
     "criteria": {
-      "bestiary": "2025-01-10 22:49:15 +0000"
+      "has_planks": "2025-02-03 17:20:13 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
+  "storagedrawers:recipes/storagedrawers/void_upgrade": {
     "criteria": {
-      "bestiary": "2025-01-10 22:49:32 +0000"
+      "has_template": "2025-02-03 17:20:13 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "pfm:recipes/furniture/oak_white_classic_bed": {
     "criteria": {
-      "bestiary": "2025-01-10 22:49:46 +0000"
+      "has_bed": "2025-02-03 17:29:51 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "spartanweaponry:recipes/combat/pole_from_wool": {
     "criteria": {
-      "tamed_animal": "2025-01-10 22:54:28 +0000"
+      "has_stick": "2025-02-03 17:23:16 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_challenger": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "location0": "2025-01-10 23:16:59 +0000"
+      "has_dandelion": "2025-02-03 17:23:23 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/fill_level_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-03 17:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
+    },
+    "done": false
+  },
+  "another_furniture:recipes/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_katana": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-02-03 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-03 17:27:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/chorus_cataclysm_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_black": {
+    "criteria": {
+      "oak_chair_classic_black": "2025-02-03 17:28:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-03 17:25:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stone_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/mangrove_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/jungle_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:20:18 +0000"
+    },
+    "done": false
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-03 17:27:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-03 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:28:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-02-03 17:21:39 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_trim": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/obsidian_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:28:17 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/mangrove_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/cherry_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/iron_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_stool": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-02-03 17:30:42 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/oak_chair_classic_white": {
+    "criteria": {
+      "oak_chair_classic_white": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/furniture_hammer": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-03 17:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-02-03 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_scythe": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_acacia_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-02-03 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-02-03 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "forge:rods/wooden": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:28:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_katana": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_spear": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_throwing_knife": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-03 17:28:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2025-02-03 17:23:14 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/remote_group_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_table": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/jungle_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-03 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_puller": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-02-03 17:25:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/spruce_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_trim": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-02-03 17:21:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-02-03 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-03 17:28:17 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/shroud_key": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2025-02-03 17:22:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_tomahawk": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-02-03 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/portability_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/white_shower_towel": {
+    "criteria": {
+      "has_white_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "forge:rods/wooden": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_log": {
+    "criteria": {
+      "has_log": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/drawer_key": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/bamboo_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/min_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_acacia_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:20:18 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/cherry_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/keyring": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-02-03 17:20:18 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smoker": "2025-02-03 17:30:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_greatsword": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-02-03 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flower_box": {
+    "criteria": {
+      "has_dirt": "2025-02-03 17:23:22 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_acacia_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/personal_key": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_parrying_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:28:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/birch_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_pike": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_trim": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_trim": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/max_redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-03 17:28:17 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-02-03 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:32:14 +0000"
+    },
+    "done": false
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_trim": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/crimson_white_simple_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-03 17:22:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-03 17:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-03 17:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-03 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-03 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_trim": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_log_stool": {
+    "criteria": {
+      "has_log": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-02-03 17:23:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_tropical": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:20:18 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/black_shower_towel": {
+    "criteria": {
+      "has_black_wool": "2025-02-03 17:28:17 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/redstone_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_trim": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_quarterstaff": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 17:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/quantify_key": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_flanged_mace": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_trim": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:28:17 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_javelin": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 17:20:18 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/stone_pike": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_warhammer": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna": "2025-02-03 17:20:18 +0000",
+      "minecraft:plains": "2025-02-03 17:29:06 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/bamboo_white_classic_bed": {
+    "criteria": {
+      "has_bed": "2025-02-03 17:29:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/simple_handle": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_dagger": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2025-02-03 17:20:16 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
+    "criteria": {
+      "has_template": "2025-02-03 17:20:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_halberd": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-02-03 17:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-03 17:23:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:28:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-03 17:23:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-02-03 17:25:41 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 17:21:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2025-02-03 17:23:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-02-03 17:25:55 +0000"
     },
     "done": true
   },

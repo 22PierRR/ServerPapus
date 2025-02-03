@@ -1,24 +1,4 @@
 
-[constantan]
-	#Base Damage for constantan weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 2.25
-	#Durability for constantan weapons
-	#Range: 1 ~ 100000
-	durability = 300
-	#Set to true to disable constantan weapons
-	disable = false
-
-[silver]
-	#Base Damage for silver weapons
-	#Range: 0.1 ~ 100.0
-	base_damage = 1.5
-	#Durability for silver weapons
-	#Range: 1 ~ 100000
-	durability = 48
-	#Set to true to disable silver weapons
-	disable = false
-
 [dagger]
 	#Disables all recipes for all Daggers.
 	disable = false
@@ -391,6 +371,16 @@
 	#Set to true to disable steel weapons
 	disable = false
 
+[silver]
+	#Base Damage for silver weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 1.5
+	#Durability for silver weapons
+	#Range: 1 ~ 100000
+	durability = 48
+	#Set to true to disable silver weapons
+	disable = false
+
 [electrum]
 	#Base Damage for electrum weapons
 	#Range: 0.1 ~ 100.0
@@ -429,6 +419,16 @@
 	#Range: 1 ~ 100000
 	durability = 440
 	#Set to true to disable invar weapons
+	disable = false
+
+[constantan]
+	#Base Damage for constantan weapons
+	#Range: 0.1 ~ 100.0
+	base_damage = 2.25
+	#Durability for constantan weapons
+	#Range: 1 ~ 100000
+	durability = 300
+	#Set to true to disable constantan weapons
 	disable = false
 
 [platinum]
@@ -624,7 +624,7 @@
 		check_armor_value = false
 		#Max armor value allowed for any damage bonus that checks for armor to apply, without any armor equipped
 		#Range: 1.0 ~ 50.0
-		max_armor_value = 1.0
+		max_armor_value = 0.0
 		#Changes the "Undead Damage Bonus" Weapon Trait multiplier value
 		#Range: 1.0 ~ 50.0
 		undead_multiplier = 1.5
