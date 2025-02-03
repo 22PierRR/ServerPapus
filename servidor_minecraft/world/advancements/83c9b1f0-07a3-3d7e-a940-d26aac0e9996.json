@@ -1788,12 +1788,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-02-03 18:18:53 +0000",
+      "minecraft:blaze": "2025-02-03 20:24:42 +0000",
       "minecraft:skeleton": "2025-02-03 19:16:06 +0000",
+      "minecraft:ghast": "2025-02-03 20:23:37 +0000",
       "minecraft:spider": "2025-02-03 18:12:43 +0000",
       "minecraft:creeper": "2025-02-03 18:24:33 +0000",
       "minecraft:phantom": "2025-02-03 19:15:19 +0000",
       "minecraft:wither_skeleton": "2025-02-03 19:40:26 +0000",
       "minecraft:cave_spider": "2025-02-03 20:00:26 +0000",
+      "minecraft:piglin": "2025-02-03 20:22:30 +0000",
       "minecraft:enderman": "2025-02-03 20:04:45 +0000",
       "minecraft:silverfish": "2025-02-03 19:57:44 +0000",
       "minecraft:stray": "2025-02-03 19:57:37 +0000",
@@ -5185,6 +5188,14 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-03 20:26:47 +0000",
+      "minecraft:nether_wastes": "2025-02-03 20:20:02 +0000",
+      "minecraft:soul_sand_valley": "2025-02-03 20:20:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-02-03 20:08:42 +0000"
@@ -5200,6 +5211,18 @@
   "sophisticatedstorage:recipes/misc/acacia_barrel": {
     "criteria": {
       "has_acacia_plank": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_concrete_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-02-03 20:23:43 +0000"
     },
     "done": true
   },
@@ -5221,6 +5244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-02-03 20:45:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-02-03 20:11:50 +0000"
@@ -5233,15 +5262,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/gray_fridge": {
+    "criteria": {
+      "has_gray_concrete": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-03 20:06:09 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-03 20:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-02-03 20:33:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-03 20:08:42 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/matcha_ice_cream_no_neapolitan": {
+    "criteria": {
+      "has_ice": "2025-02-03 20:44:12 +0000"
     },
     "done": true
   },
@@ -5347,6 +5406,18 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-03 20:23:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-03 20:08:42 +0000"
@@ -5380,6 +5451,12 @@
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-03 20:08:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 20:36:15 +0000"
     },
     "done": true
   },
@@ -5431,9 +5508,27 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-03 20:20:01 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_modern_pendant": {
+    "criteria": {
+      "has_gray_concrete": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-02-03 19:52:49 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_freezer": {
+    "criteria": {
+      "has_gray_concrete": "2025-02-03 20:38:48 +0000"
     },
     "done": true
   },
@@ -5455,9 +5550,27 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/root": {
+    "criteria": {
+      "requirement": "2025-02-03 20:33:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 20:36:15 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-02-03 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/kill_sentry": {
+    "criteria": {
+      "requirement": "2025-02-03 20:34:08 +0000"
     },
     "done": true
   },
@@ -5497,6 +5610,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/gray_stove": {
+    "criteria": {
+      "has_gray_concrete": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 20:36:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-02-03 19:54:33 +0000"
@@ -5533,6 +5658,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-03 20:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/recruit_guard": {
     "criteria": {
       "recruit_guard": "2025-02-03 20:15:28 +0000"
@@ -5563,6 +5694,12 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-03 20:23:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-03 20:08:42 +0000"
@@ -5572,6 +5709,24 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-02-03 20:23:37 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-02-03 20:30:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
+    "criteria": {
+      "requirement": "2025-02-03 20:34:06 +0000"
     },
     "done": true
   },
@@ -5605,6 +5760,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 20:36:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-02-03 19:45:34 +0000"
@@ -5635,9 +5796,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_concrete_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_acacia_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-02-03 20:25:30 +0000"
     },
     "done": true
   },
@@ -5650,6 +5829,12 @@
   "pfm:recipes/furniture/andesite_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-02-03 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-02-03 20:20:01 +0000"
     },
     "done": true
   },
@@ -5683,9 +5868,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-03 20:19:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 20:36:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-03 20:08:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_oven_range_hood": {
+    "criteria": {
+      "has_gray_concrete": "2025-02-03 20:38:48 +0000"
     },
     "done": true
   },
@@ -5698,6 +5901,30 @@
   "another_furniture:recipes/acacia_table": {
     "criteria": {
       "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-03 20:26:47 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-02-03 20:21:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 20:36:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 20:36:15 +0000"
     },
     "done": true
   },
@@ -5719,9 +5946,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 20:36:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-03 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-02-03 20:48:58 +0000"
     },
     "done": true
   },
@@ -5743,6 +5982,12 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-03 20:23:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-03 20:06:09 +0000"
@@ -5758,6 +6003,18 @@
   "pfm:recipes/furniture/acacia_table_log": {
     "criteria": {
       "has_log": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-03 20:25:23 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_concrete_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:38:48 +0000"
     },
     "done": true
   },
@@ -5845,9 +6102,21 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-02-03 20:24:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-03 20:08:42 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/salmonberry_ice_cream_no_neapolitan": {
+    "criteria": {
+      "has_ice": "2025-02-03 20:44:12 +0000"
     },
     "done": true
   },
@@ -5869,6 +6138,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 20:36:15 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_table_classic": {
     "criteria": {
       "has_planks": "2025-02-03 20:11:50 +0000"
@@ -5881,15 +6156,39 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-03 20:24:27 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_coffee_table_modern": {
     "criteria": {
       "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-02-03 20:24:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_acacia_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-03 20:26:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/border_of_life": {
+    "criteria": {
+      "requirement": "2025-02-03 20:30:24 +0000"
     },
     "done": true
   },
@@ -5902,6 +6201,12 @@
   "pfm:recipes/furniture/acacia_simple_stool": {
     "criteria": {
       "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-03 20:38:48 +0000"
     },
     "done": true
   },
@@ -5929,6 +6234,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-03 20:24:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/gray_mirror": {
+    "criteria": {
+      "has_gray_concrete": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-03 20:06:09 +0000"
@@ -5953,6 +6270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-02-03 20:44:12 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/acacia_chest": {
     "criteria": {
       "has_acacia_plank": "2025-02-03 20:11:50 +0000"
@@ -5962,6 +6285,12 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-03 19:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-03 20:38:48 +0000"
     },
     "done": true
   },
@@ -5983,6 +6312,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-02-03 20:36:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-03 20:08:42 +0000"
@@ -5998,6 +6333,18 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-03 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-03 20:20:01 +0000"
     },
     "done": true
   },
@@ -6025,6 +6372,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/gray_dark_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-03 20:25:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-02-03 20:06:09 +0000"
@@ -6043,15 +6402,39 @@
     },
     "done": true
   },
+  "friendsandfoes:nether/find_citadel": {
+    "criteria": {
+      "citadel": "2025-02-03 20:20:29 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-03 19:58:59 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_concrete_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:38:48 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/acacia_chair_dinner": {
     "criteria": {
       "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-02-03 20:48:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-03 20:19:36 +0000"
     },
     "done": true
   },

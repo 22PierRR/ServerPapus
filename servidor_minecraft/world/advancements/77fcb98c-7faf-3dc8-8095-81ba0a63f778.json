@@ -320,6 +320,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-02-03 19:47:54 +0000",
+      "minecraft:taiga": "2025-02-03 20:34:00 +0000",
       "minecraft:frozen_river": "2025-02-03 19:38:40 +0000",
       "minecraft:birch_forest": "2025-02-03 18:24:19 +0000",
       "minecraft:beach": "2025-02-03 18:19:53 +0000",
@@ -330,6 +331,7 @@
       "minecraft:snowy_taiga": "2025-02-03 19:50:40 +0000",
       "minecraft:cold_ocean": "2025-02-03 19:43:11 +0000",
       "minecraft:forest": "2025-02-03 18:20:00 +0000",
+      "minecraft:lush_caves": "2025-02-03 20:36:55 +0000",
       "minecraft:frozen_ocean": "2025-02-03 19:38:05 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-03 19:42:40 +0000",
       "minecraft:snowy_beach": "2025-02-03 19:38:45 +0000",
@@ -3068,6 +3070,7 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
+      "taiga": "2025-02-03 20:29:02 +0000",
       "savanna": "2025-02-03 18:29:50 +0000",
       "plains": "2025-02-03 18:47:40 +0000"
     },
@@ -3081,6 +3084,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-03 20:50:57 +0000",
+      "cooked_beef": "2025-02-03 20:36:56 +0000",
       "bread": "2025-02-03 18:30:30 +0000",
       "golden_carrot": "2025-02-03 19:06:13 +0000"
     },
@@ -3877,7 +3882,9 @@
       "minecraft:slime": "2025-02-03 19:16:51 +0000",
       "minecraft:phantom": "2025-02-03 18:55:44 +0000",
       "minecraft:wither_skeleton": "2025-02-03 18:57:42 +0000",
+      "minecraft:cave_spider": "2025-02-03 20:37:03 +0000",
       "minecraft:piglin": "2025-02-03 20:15:24 +0000",
+      "minecraft:enderman": "2025-02-03 20:28:43 +0000",
       "minecraft:stray": "2025-02-03 19:59:13 +0000",
       "minecraft:zombie": "2025-02-03 19:10:40 +0000",
       "minecraft:drowned": "2025-02-03 19:46:09 +0000",
@@ -5031,77 +5038,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "pfm:recipes/furniture/dark_oak_kitchen_drawer": {
     "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:18:54 +0000"
-    },
-    "done": false
+    "done": true
   },
   "pfm:recipes/furniture/dark_oak_white_simple_bed": {
     "criteria": {
@@ -5115,9 +5056,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-03 20:38:10 +0000"
     },
     "done": true
   },
@@ -5133,6 +5092,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-02-03 20:08:12 +0000"
@@ -5145,9 +5110,27 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-02-03 20:28:48 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/mythic_gem": {
     "criteria": {
       "gem": "2025-02-03 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -5163,15 +5146,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-02-03 20:11:20 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-03 20:52:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-02-03 19:47:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/storage_pickup_upgrade_from_backpack_pickup_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-02-03 20:33:32 +0000"
     },
     "done": true
   },
@@ -5187,6 +5200,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 19:40:27 +0000"
@@ -5196,6 +5215,48 @@
   "pfm:recipes/furniture/acacia_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 19:34:51 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -5214,6 +5275,12 @@
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-03 19:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -5244,6 +5311,12 @@
   "pfm:recipes/furniture/obsidian_cataclysm_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-02-03 19:55:36 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/decayed_workbench": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 20:44:45 +0000"
     },
     "done": true
   },
@@ -5295,9 +5368,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/warped_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 19:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 20:44:45 +0000"
     },
     "done": true
   },
@@ -5310,6 +5395,24 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-03 20:03:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-02-03 20:52:24 +0000"
     },
     "done": true
   },
@@ -5336,6 +5439,12 @@
       "incendium:infernal_dunes": "2025-02-03 20:10:47 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-02-03 20:32:59 +0000"
+    },
+    "done": true
   },
   "pfm:recipes/furniture/stripped_spruce_table_basic": {
     "criteria": {
@@ -5379,6 +5488,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/obsidian_cataclysm_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-02-03 19:55:36 +0000"
@@ -5391,6 +5506,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_table_log": {
+    "criteria": {
+      "has_log": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-02-03 20:08:33 +0000"
@@ -5400,6 +5521,12 @@
   "pfm:recipes/furniture/birch_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 19:34:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -5439,9 +5566,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-03 20:43:33 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_spruce_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-02-03 20:02:05 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -5463,9 +5602,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -5487,9 +5638,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 20:44:45 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_fishing_hut": {
     "criteria": {
       "location0": "2025-02-03 19:38:52 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -5505,6 +5668,36 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-02-03 20:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-03 20:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 20:44:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 19:40:27 +0000"
@@ -5517,9 +5710,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_spruce_kitchen_sink": {
     "criteria": {
       "has_planks": "2025-02-03 20:02:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 20:44:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -5529,15 +5740,33 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/altimeter": {
     "criteria": {
       "has_redstone": "2025-02-03 20:14:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-02-03 20:32:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-03 20:03:04 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -5550,6 +5779,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2025-02-03 19:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-03 20:52:47 +0000"
     },
     "done": true
   },
@@ -5574,6 +5809,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-02-03 20:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-03 20:44:14 +0000"
     },
     "done": true
   },
@@ -5631,9 +5872,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 20:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-02-03 20:03:03 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-02-03 20:32:23 +0000"
     },
     "done": true
   },
@@ -5673,6 +5926,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-02-03 20:11:20 +0000"
@@ -5682,6 +5941,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-02-03 20:14:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-03 20:33:32 +0000"
     },
     "done": true
   },
@@ -5793,6 +6058,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-02-03 20:33:32 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
       "has_cod": "2025-02-03 19:38:59 +0000"
@@ -5841,6 +6118,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-03 20:44:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/spruce_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 19:34:51 +0000"
@@ -5856,6 +6139,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -5961,6 +6250,18 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-02-03 20:11:27 +0000"
@@ -5973,6 +6274,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 20:44:45 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 19:40:27 +0000"
@@ -5982,6 +6289,12 @@
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 20:44:45 +0000"
     },
     "done": true
   },
@@ -6015,15 +6328,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-02-03 20:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/obsidian_cataclysm_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-02-03 19:55:36 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-02-03 20:19:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-02-03 20:10:17 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -6063,6 +6400,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-02-03 20:44:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-03 20:00:31 +0000"
@@ -6081,6 +6430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_spruce_coffee_table_basic": {
     "criteria": {
       "has_planks": "2025-02-03 20:02:05 +0000"
@@ -6090,6 +6445,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-03 19:46:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -6108,6 +6469,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2025-02-03 20:15:02 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -6141,9 +6508,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 20:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-02-03 19:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-02-03 20:44:45 +0000"
     },
     "done": true
   },
@@ -6159,6 +6538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_spruce_raw_table_log": {
     "criteria": {
       "has_log": "2025-02-03 20:02:05 +0000"
@@ -6171,6 +6556,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-02-03 20:31:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 19:40:27 +0000"
@@ -6180,6 +6571,12 @@
   "spartanweaponry:recipes/small_bolt_quiver": {
     "criteria": {
       "has_bolt": "2025-02-03 19:52:29 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -6201,15 +6598,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-02-03 20:36:13 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-02-03 19:56:57 +0000"
     },
     "done": true
   },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-02-03 20:28:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -6246,6 +6667,12 @@
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2025-02-03 20:14:40 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:25:03 +0000"
     },
     "done": true
   },
@@ -6294,6 +6721,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-02-03 19:40:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-02-03 20:32:59 +0000"
     },
     "done": true
   },
