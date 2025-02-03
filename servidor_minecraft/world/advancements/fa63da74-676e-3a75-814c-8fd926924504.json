@@ -1676,11 +1676,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-02-03 20:15:14 +0000",
       "minecraft:skeleton": "2025-02-03 18:29:58 +0000",
       "minecraft:hoglin": "2025-02-03 18:57:45 +0000",
       "minecraft:spider": "2025-02-03 18:27:33 +0000",
       "minecraft:phantom": "2025-02-03 18:55:09 +0000",
       "minecraft:wither_skeleton": "2025-02-03 19:01:57 +0000",
+      "minecraft:piglin": "2025-02-03 20:12:24 +0000",
       "minecraft:stray": "2025-02-03 19:59:20 +0000",
       "minecraft:zombie": "2025-02-03 18:27:43 +0000"
     },
@@ -5735,6 +5737,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-03 20:09:57 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-02-03 19:14:37 +0000"
@@ -5873,6 +5881,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-02-03 20:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-02-03 19:36:36 +0000"
@@ -5882,6 +5896,12 @@
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2025-02-03 19:19:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-02-03 20:15:14 +0000"
     },
     "done": true
   },
@@ -5945,6 +5965,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/altimeter": {
+    "criteria": {
+      "has_redstone": "2025-02-03 20:15:14 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_sofa": {
     "criteria": {
       "has_wool": "2025-02-03 19:30:22 +0000"
@@ -5954,6 +5980,12 @@
   "pfm:recipes/furniture/granite_table_dinner": {
     "criteria": {
       "granite_table_dinner": "2025-02-03 19:46:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_lever": {
+    "criteria": {
+      "has_redstone": "2025-02-03 20:15:14 +0000"
     },
     "done": true
   },
@@ -5981,6 +6013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-02-03 20:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-02-03 19:30:22 +0000"
@@ -6005,6 +6043,18 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-03 20:09:57 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-02-03 20:15:56 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/cherry_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 19:29:39 +0000"
@@ -6014,6 +6064,12 @@
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2025-02-03 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-02-03 20:15:14 +0000"
     },
     "done": true
   },
@@ -6044,6 +6100,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-02-03 19:20:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-02-03 20:15:14 +0000"
     },
     "done": true
   },
@@ -6095,6 +6157,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-02-03 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-02-03 20:15:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-02-03 19:46:43 +0000"
@@ -6119,6 +6193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-03 20:12:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-03 19:42:51 +0000"
@@ -6128,6 +6208,12 @@
   "pfm:recipes/furniture/jungle_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 19:29:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-02-03 20:15:14 +0000"
     },
     "done": true
   },
@@ -6170,6 +6256,12 @@
   "morevillagers:recipes/gardening_table": {
     "criteria": {
       "has_flower": "2025-02-03 19:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-02-03 20:15:14 +0000"
     },
     "done": true
   },
@@ -6227,6 +6319,18 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-02-03 20:09:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/redstone_illuminator": {
+    "criteria": {
+      "has_redstone": "2025-02-03 20:15:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/white_shower_towel": {
     "criteria": {
       "has_white_wool": "2025-02-03 19:30:22 +0000"
@@ -6263,6 +6367,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-02-03 20:15:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
     "criteria": {
       "has_vanilla_chest": "2025-02-03 19:19:04 +0000"
@@ -6278,6 +6388,12 @@
   "mcwtrpdoors:recipes/spruce/spruce_ranch_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-03 19:50:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-02-03 20:15:14 +0000"
     },
     "done": true
   },
@@ -6308,6 +6424,12 @@
   "supplementaries:recipes/stone_tile": {
     "criteria": {
       "has_stone_bricks": "2025-02-03 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/dune_blaze": {
+    "criteria": {
+      "requirement": "2025-02-03 20:15:14 +0000"
     },
     "done": true
   },
@@ -6422,6 +6544,18 @@
   "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2025-02-03 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-02-03 20:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-03 20:12:29 +0000"
     },
     "done": true
   },
@@ -6641,6 +6775,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-02-03 20:15:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-02-03 19:18:19 +0000"
@@ -6662,6 +6802,12 @@
   "pfm:recipes/furniture/bamboo_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 19:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-03 20:12:03 +0000"
     },
     "done": true
   },

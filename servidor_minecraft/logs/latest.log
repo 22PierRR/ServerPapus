@@ -4397,3 +4397,139 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Feb2025 20:12:03.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Those Were the Days]
 [03Feb2025 20:12:26.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/54905, l='ServerLevel[world]', x=-417.60, y=73.18, z=25.57] died: Desert Blaze was slain by elrisas741
 [03Feb2025 20:12:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [How'd You Get This?]
+[03Feb2025 20:13:21.058] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[03Feb2025 20:13:28.031] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[03Feb2025 20:13:22.181] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 20:13:28.050] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 20:13:28.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! 8.849638336076225,5.469887473589935,0.33943976063375914
+[03Feb2025 20:13:28.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5889ms or 117 ticks behind
+[03Feb2025 20:13:53.869] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:53.972] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:54.072] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:54.174] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:54.270] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:54.370] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:54.471] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:54.568] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:54.794] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:54.856] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:54.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:54.979] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:55.070] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:55.170] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:55.271] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:55.369] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:55.469] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:55.572] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:55.669] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:55.769] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:55.870] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:55.971] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:56.071] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:56.170] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:56.272] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:56.369] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:56.471] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:56.570] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:56.669] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:56.770] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:56.872] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:56.970] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:57.071] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:57.168] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:57.272] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:57.370] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:57.469] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:57.570] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:13:57.669] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:14:25.283] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[03Feb2025 20:14:31.479] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 20:14:31.481] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 20:14:40.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Light-Sensitive]
+[03Feb2025 20:14:40.193] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/55957, l='ServerLevel[world]', x=-219.02, y=61.15, z=-146.67] died: Desert Blaze was slain by elrisas741
+[03Feb2025 20:15:02.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has completed the challenge [Border of Life]
+[03Feb2025 20:15:02.342] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/55847, l='ServerLevel[world]', x=-247.62, y=67.69, z=-158.56] died: Desert Blaze was slain by elrisas741
+[03Feb2025 20:15:14.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Light-Sensitive]
+[03Feb2025 20:15:14.086] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/57249, l='ServerLevel[world]', x=-208.77, y=60.60, z=-153.36] died: Desert Blaze was slain by Maikol_4988
+[03Feb2025 20:15:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [We Want You, as a New Recruit!]
+[03Feb2025 20:15:30.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Those Were the Days]
+[03Feb2025 20:15:39.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [War Pigs]
+[03Feb2025 20:15:50.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [War Pigs]
+[03Feb2025 20:15:53.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Who is Cutting Onions?]
+[03Feb2025 20:15:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Epic!]
+[03Feb2025 20:16:07.535] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[03Feb2025 20:16:07.540] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[03Feb2025 20:16:19.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 burned to death
+[03Feb2025 20:16:19.390] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[03Feb2025 20:17:43.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Penteconter]
+[03Feb2025 20:17:52.438] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 20:17:52.444] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 20:18:00.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Crimson Mosquito
+[03Feb2025 20:18:56.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 moved too quickly! 5.365245926517321,-5.679542621560245,-6.3108027877698305
+[03Feb2025 20:18:56.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 moved too quickly! 0.0415176849136909,0.03484277677031855,-10.221962888230735
+[03Feb2025 20:19:26.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/61832, l='ServerLevel[world]', x=-226.08, y=63.00, z=-166.61] died: Desert Blaze was slain by elrisas741
+[03Feb2025 20:19:42.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Hunt and Gather]
+[03Feb2025 20:19:48.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Incendium]
+[03Feb2025 20:19:48.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [We Need to Go Deeper]
+[03Feb2025 20:19:50.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 moved too quickly! -3.3906368876798183,4.859156575008498,-8.434264739366881
+[03Feb2025 20:19:50.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved too quickly! -10.057061826884507,0.0,-1.3608957557223675
+[03Feb2025 20:19:51.012] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
+[03Feb2025 20:19:56.133] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:56.226] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:56.328] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:56.430] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:56.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:56.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:56.730] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:56.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:56.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:57.032] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:57.135] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:57.283] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:57.468] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:57.570] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:57.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:57.756] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:57.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:57.941] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.121] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.191] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.430] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.528] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.633] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.730] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.831] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:58.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:59.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:59.128] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:59.236] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:59.332] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:59.436] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:59.526] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:59.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:59.741] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:59.830] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:19:59.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:20:00.026] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:20:00.127] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:20:00.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:20:00.338] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:20:00.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Feb2025 20:20:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Incendium]
+[03Feb2025 20:20:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [We Need to Go Deeper]
+[03Feb2025 20:20:27.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [A fortress? No, a citadel!]
+[03Feb2025 20:20:29.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [A fortress? No, a citadel!]
+[03Feb2025 20:20:39.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Into Fire]
+[03Feb2025 20:20:52.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Let's Get To Work]
+[03Feb2025 20:21:06.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Drop it like it's hot]
+[03Feb2025 20:21:09.819] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Desert Blaze'/64637, l='ServerLevel[world]', x=-215.84, y=60.20, z=-148.46] died: Desert Blaze was scorched to death
+[03Feb2025 20:23:01.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Darude - Firestorm]
+[03Feb2025 20:23:01.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Strange Biomes]
+[03Feb2025 20:23:05.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Darude - Firestorm]
+[03Feb2025 20:23:05.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Strange Biomes]
+[03Feb2025 20:23:37.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Those Were the Days]
+[03Feb2025 20:23:37.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has completed the challenge [Return to Sender]
+[03Feb2025 20:23:43.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Fetch Me Their Souls!]

@@ -319,11 +319,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-02-03 20:11:30 +0000",
       "minecraft:birch_forest": "2025-02-03 18:16:41 +0000",
       "minecraft:beach": "2025-02-03 18:23:19 +0000",
       "minecraft:dark_forest": "2025-02-03 18:21:20 +0000",
       "minecraft:river": "2025-02-03 18:08:39 +0000",
       "minecraft:snowy_plains": "2025-02-03 19:50:47 +0000",
+      "minecraft:snowy_taiga": "2025-02-03 20:11:29 +0000",
       "minecraft:cold_ocean": "2025-02-03 19:49:18 +0000",
       "minecraft:forest": "2025-02-03 18:16:23 +0000",
       "minecraft:frozen_ocean": "2025-02-03 19:49:34 +0000",
@@ -3738,7 +3740,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "pillager_outpost": "2025-02-03 18:32:23 +0000"
+      "pillager_outpost": "2025-02-03 18:32:23 +0000",
+      "illager_camp": "2025-02-03 20:10:12 +0000"
     },
     "done": false
   },
@@ -5158,81 +5161,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 20:08:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-02-03 19:42:09 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5242,15 +5179,51 @@
     },
     "done": true
   },
+  "another_furniture:recipes/acacia_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-02-03 20:08:42 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_barrel": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/diorite_kitchen_wall_small_drawer": {
     "criteria": {
       "has_planks": "2025-02-03 20:08:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5272,9 +5245,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/decayed_workbench": {
     "criteria": {
       "has_nether_bricks": "2025-02-03 20:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/acacia_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5290,9 +5281,39 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_4": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_3": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_2": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/acacia_limited_barrel_1": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-03 20:00:38 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5311,6 +5332,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-03 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5362,6 +5389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-03 20:08:42 +0000"
@@ -5374,9 +5407,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-02-03 20:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5422,9 +5467,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-02-03 20:00:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_acacia": {
+    "criteria": {
+      "has_the_recipe": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5458,6 +5515,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-03 20:08:42 +0000"
@@ -5467,6 +5530,12 @@
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2025-02-03 19:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/recruit_guard": {
+    "criteria": {
+      "recruit_guard": "2025-02-03 20:15:28 +0000"
     },
     "done": true
   },
@@ -5500,6 +5569,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/acacia_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-03 20:08:42 +0000"
@@ -5518,6 +5599,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-02-03 19:45:34 +0000"
@@ -5533,6 +5620,24 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-02-03 20:08:42 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_acacia_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5590,6 +5695,24 @@
     },
     "done": true
   },
+  "another_furniture:recipes/acacia_table": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-03 20:08:42 +0000"
@@ -5605,6 +5728,12 @@
   "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-03 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5626,6 +5755,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_table_log": {
+    "criteria": {
+      "has_log": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2025-02-03 19:45:28 +0000"
@@ -5635,6 +5776,12 @@
   "pfm:recipes/furniture/andesite_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-02-03 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5659,6 +5806,18 @@
   "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-03 20:06:09 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_acacia_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5710,9 +5869,39 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-03 19:58:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_acacia_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5764,9 +5953,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/acacia_chest": {
+    "criteria": {
+      "has_acacia_plank": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-02-03 19:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },
@@ -5806,6 +6007,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/acacia_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-02-03 20:06:09 +0000"
@@ -5839,6 +6046,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-02-03 19:58:59 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/acacia_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 20:11:50 +0000"
     },
     "done": true
   },

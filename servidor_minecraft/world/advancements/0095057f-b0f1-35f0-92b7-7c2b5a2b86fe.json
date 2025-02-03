@@ -324,6 +324,7 @@
       "minecraft:beach": "2025-02-03 18:25:28 +0000",
       "minecraft:river": "2025-02-03 18:11:48 +0000",
       "minecraft:snowy_plains": "2025-02-03 19:50:43 +0000",
+      "minecraft:snowy_taiga": "2025-02-03 20:11:31 +0000",
       "minecraft:cold_ocean": "2025-02-03 19:49:14 +0000",
       "minecraft:forest": "2025-02-03 19:48:44 +0000",
       "minecraft:frozen_ocean": "2025-02-03 19:49:27 +0000",
@@ -2810,6 +2811,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-03 20:10:32 +0000",
       "minecraft:skeleton": "2025-02-03 18:25:01 +0000",
       "minecraft:hoglin": "2025-02-03 19:01:00 +0000",
       "minecraft:spider": "2025-02-03 18:46:12 +0000",
@@ -2821,7 +2823,8 @@
       "minecraft:enderman": "2025-02-03 20:01:50 +0000",
       "minecraft:silverfish": "2025-02-03 19:58:56 +0000",
       "minecraft:stray": "2025-02-03 19:59:45 +0000",
-      "minecraft:zombie": "2025-02-03 18:25:36 +0000"
+      "minecraft:zombie": "2025-02-03 18:25:36 +0000",
+      "savage_and_ravage:iceologer": "2025-02-03 20:12:52 +0000"
     },
     "done": false
   },
@@ -6746,6 +6749,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-03 20:18:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_chair_classic": {
     "criteria": {
       "has_planks": "2025-02-03 19:18:55 +0000"
@@ -6869,6 +6878,12 @@
   "mynethersdelight:recipes/cooking/rock_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-03 19:20:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-02-03 20:17:43 +0000"
     },
     "done": true
   },
@@ -7013,6 +7028,12 @@
   "pfm:recipes/furniture/dark_oak_simple_stool": {
     "criteria": {
       "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-02-03 20:10:35 +0000"
     },
     "done": true
   },
@@ -7310,6 +7331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-03 20:12:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-02-03 19:18:55 +0000"
@@ -7357,6 +7384,12 @@
       "has_planks": "2025-02-03 19:18:55 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-02-03 20:10:07 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
@@ -7454,9 +7487,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/basic_shower_head": {
+    "criteria": {
+      "has_water_bucket": "2025-02-03 20:12:38 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/dark_oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-02-03 20:12:52 +0000"
     },
     "done": true
   },
