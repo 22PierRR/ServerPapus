@@ -2711,9 +2711,12 @@
     "criteria": {
       "huntingpost": "2025-02-03 20:52:03 +0000",
       "fletchingtable": "2025-02-03 20:50:08 +0000",
+      "gardeningtable": "2025-02-03 20:56:22 +0000",
       "smoker": "2025-02-03 18:19:08 +0000",
       "blastfurnace": "2025-02-03 20:07:49 +0000",
-      "lectern": "2025-02-03 20:49:16 +0000"
+      "lectern": "2025-02-03 20:49:16 +0000",
+      "woodworkingtable": "2025-02-03 20:58:27 +0000",
+      "stonecutter": "2025-02-03 20:55:20 +0000"
     },
     "done": false
   },
@@ -7159,6 +7162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-03 21:09:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-02-03 19:16:44 +0000"
@@ -7312,6 +7321,12 @@
   "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
     "criteria": {
       "has_blaze_rod": "2025-02-03 20:20:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-03 21:05:47 +0000"
     },
     "done": true
   },
@@ -7495,6 +7510,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-03 20:54:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2025-02-03 20:47:45 +0000"
@@ -7603,6 +7624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-02-03 21:03:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-02-03 20:43:58 +0000"
@@ -7666,6 +7693,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-02-03 20:20:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-02-03 21:09:45 +0000"
     },
     "done": true
   },
@@ -7969,6 +8002,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-03 21:09:45 +0000"
+    },
+    "done": true
+  },
   "incendium:misc/root": {
     "criteria": {
       "incendium:infernal_dunes": "2025-02-03 20:23:01 +0000"
@@ -7990,6 +8029,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-02-03 20:23:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-02-03 21:05:47 +0000"
     },
     "done": true
   },
@@ -8062,6 +8107,12 @@
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-02-03 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-02-03 21:05:47 +0000"
     },
     "done": true
   },
@@ -8203,6 +8254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-03 21:05:47 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_table": {
     "criteria": {
       "has_planks": "2025-02-03 19:18:55 +0000"
@@ -8242,6 +8299,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-03 21:05:47 +0000"
     },
     "done": true
   },
@@ -8341,6 +8404,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-03 21:05:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-03 20:23:54 +0000"
@@ -8389,6 +8458,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-02-03 21:05:47 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2025-02-03 20:12:52 +0000"
@@ -8404,6 +8479,12 @@
   "spartanweaponry:recipes/copper_parrying_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-02-03 20:47:45 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-02-03 21:05:47 +0000"
     },
     "done": true
   },
@@ -8521,6 +8602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-02-03 21:05:47 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/jar": {
     "criteria": {
       "minecraft:wooden_slabs": "2025-02-03 20:49:07 +0000"
@@ -8530,6 +8617,18 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-02-03 20:23:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-03 21:09:45 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/wall_toilet_paper": {
+    "criteria": {
+      "has_paper": "2025-02-03 21:05:47 +0000"
     },
     "done": true
   },

@@ -319,6 +319,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-02-03 21:12:21 +0000",
       "minecraft:taiga": "2025-02-03 20:30:13 +0000",
       "minecraft:frozen_river": "2025-02-03 19:35:29 +0000",
       "minecraft:beach": "2025-02-03 18:24:41 +0000",
@@ -1684,6 +1685,7 @@
       "minecraft:spider": "2025-02-03 18:27:33 +0000",
       "minecraft:phantom": "2025-02-03 18:55:09 +0000",
       "minecraft:wither_skeleton": "2025-02-03 19:01:57 +0000",
+      "minecraft:cave_spider": "2025-02-03 21:13:34 +0000",
       "minecraft:piglin": "2025-02-03 20:12:24 +0000",
       "minecraft:stray": "2025-02-03 19:59:20 +0000",
       "minecraft:zombie": "2025-02-03 18:27:43 +0000"
@@ -1790,6 +1792,7 @@
     "criteria": {
       "potato": "2025-02-03 18:27:55 +0000",
       "bread": "2025-02-03 18:35:59 +0000",
+      "golden_apple": "2025-02-03 20:56:34 +0000",
       "beetroot": "2025-02-03 18:36:09 +0000",
       "carrot": "2025-02-03 18:28:08 +0000"
     },
@@ -5482,6 +5485,18 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-02-03 21:13:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-03 21:13:59 +0000"
+    },
+    "done": false
+  },
   "pfm:recipes/furniture/dark_oak_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 19:29:39 +0000"
@@ -5491,6 +5506,12 @@
   "pfm:recipes/furniture/bamboo_white_simple_bed": {
     "criteria": {
       "has_bed": "2025-02-03 19:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-03 21:13:22 +0000"
     },
     "done": true
   },
@@ -5908,6 +5929,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-03 21:10:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_latch": {
     "criteria": {
       "has_item": "2025-02-03 20:15:14 +0000"
@@ -5956,6 +5983,12 @@
     },
     "done": true
   },
+  "largemeals:recipes/cooking/tomato_egg_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 21:10:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2025-02-03 19:16:45 +0000"
@@ -5968,6 +6001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-03 21:13:22 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/chorus_cataclysm_white_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-03 19:29:39 +0000"
@@ -5977,6 +6016,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2025-02-03 19:46:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple": {
+    "criteria": {
+      "location0": "2025-02-03 21:13:06 +0000"
     },
     "done": true
   },
@@ -6043,6 +6088,12 @@
   "mcwtrpdoors:recipes/acacia/mangrove_bark_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-03 19:50:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-02-03 21:12:35 +0000"
     },
     "done": true
   },
@@ -6115,6 +6166,12 @@
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2025-02-03 19:17:15 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-02-03 21:00:40 +0000"
     },
     "done": true
   },
@@ -6232,6 +6289,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-02-03 21:10:31 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2025-02-03 19:19:04 +0000"
@@ -6283,6 +6346,12 @@
   "another_furniture:recipes/white_stool": {
     "criteria": {
       "has_wool": "2025-02-03 19:30:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 21:00:40 +0000"
     },
     "done": true
   },
@@ -6367,6 +6436,12 @@
   "pfm:recipes/furniture/granite_coffee_table_classic": {
     "criteria": {
       "granite_coffee_table_classic": "2025-02-03 19:46:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 21:10:31 +0000"
     },
     "done": true
   },
@@ -6538,6 +6613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-03 21:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-02-03 19:37:13 +0000"
@@ -6568,15 +6649,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-02-03 21:13:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-02-03 20:20:37 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 21:10:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-02-03 19:46:43 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/pasta_with_mushroom_sauce": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 21:10:31 +0000"
     },
     "done": true
   },
@@ -6715,6 +6814,12 @@
   "storagedrawers:recipes/storagedrawers/birch_drawers": {
     "criteria": {
       "has_chest": "2025-02-03 19:19:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-02-03 21:04:39 +0000"
     },
     "done": true
   },
@@ -6913,6 +7018,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-03 19:14:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-03 21:10:31 +0000"
     },
     "done": true
   },
