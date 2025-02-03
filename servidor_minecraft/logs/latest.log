@@ -4810,3 +4810,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Feb2025 21:14:32.384] [Netty Epoll Server IO #3/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
 [03Feb2025 21:14:37.408] [Netty Epoll Server IO #3/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
 [03Feb2025 21:14:42.519] [Netty Epoll Server IO #3/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[03Feb2025 21:14:47.531] [Netty Epoll Server IO #3/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[03Feb2025 21:14:52.556] [Netty Epoll Server IO #3/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[03Feb2025 21:14:57.174] [Server thread/INFO] [luckperms/]: Starting shutdown process...
+[03Feb2025 21:14:57.185] [Server thread/INFO] [luckperms/]: Closing storage...
+[03Feb2025 21:14:57.211] [Server thread/INFO] [luckperms/]: Goodbye!
+[03Feb2025 21:14:57.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Feb2025 21:14:57.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Feb2025 21:14:57.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Server closed
+[03Feb2025 21:14:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[03Feb2025 21:14:57.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 lost connection: Server closed
+[03Feb2025 21:14:57.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 left the game
+[03Feb2025 21:14:57.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Feb2025 21:14:58.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Feb2025 21:14:59.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Feb2025 21:14:59.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Feb2025 21:14:59.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Feb2025 21:14:59.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Feb2025 21:14:59.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Feb2025 21:14:59.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Feb2025 21:15:00.302] [Server thread/INFO] [Framework/]: Unloading server configs...
+[03Feb2025 21:15:00.311] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[03Feb2025 21:15:00.314] [Server thread/INFO] [Framework/]: Finished unloading server configs
