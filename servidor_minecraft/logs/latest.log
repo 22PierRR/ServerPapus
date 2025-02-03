@@ -4122,3 +4122,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Feb2025 18:50:36.104] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 83c9b1f0-07a3-3d7e-a940-d26aac0e9996 (Aldhair_16#83c9b1f0) due to claim limits
 [03Feb2025 18:50:36.104] [Server thread/INFO] [FTB Chunks/]: Team 22PieroRR_s_Party#35aabb58 had 0 claimed chunks, now has 0
 [03Feb2025 18:51:00.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [First Village]
+[03Feb2025 18:53:23.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved wrongly!
+[03Feb2025 18:53:28.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [The Imperial March]
+[03Feb2025 18:53:43.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Sweet Dreams]
+[03Feb2025 18:54:03.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maikol_4988> zzzzzzzzzzzzzzzzzzz
+[03Feb2025 18:54:03.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Sweet Dreams]
+[03Feb2025 18:54:05.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZZZZ
+[03Feb2025 18:54:07.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ZZZZZZZZZZZZZZZZZ
+[03Feb2025 18:54:15.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [The Imperial March]
+[03Feb2025 18:54:30.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Suit Up]
+[03Feb2025 18:54:38.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Ambush]
+[03Feb2025 18:54:53.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [A Strange Grave Dust]
+[03Feb2025 18:54:56.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Not Today, Thank You]
+[03Feb2025 18:54:57.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [The Imperial March]
+[03Feb2025 18:55:04.280] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[03Feb2025 18:55:04.282] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[03Feb2025 18:55:09.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Knowledge of Death]
+[03Feb2025 18:55:09.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Ambush]
+[03Feb2025 18:55:44.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Knowledge of Death]
+[03Feb2025 18:55:44.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Ambush]
+[03Feb2025 18:55:44.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Monster Hunter]
+[03Feb2025 18:55:51.083] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[03Feb2025 18:55:51.086] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[03Feb2025 18:55:56.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was shot by Wither Skeleton
+[03Feb2025 18:55:56.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Your First Grave]
+[03Feb2025 18:56:15.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Getting an Upgrade]
+[03Feb2025 18:56:35.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Here They Come]
+[03Feb2025 18:57:13.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Diamonds!]
+[03Feb2025 18:58:56.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Cover Me with Diamonds]
+[03Feb2025 18:58:59.430] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 18:58:59.433] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 18:59:09.930] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[03Feb2025 18:59:09.942] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[03Feb2025 18:59:12.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Hoglin
+[03Feb2025 18:59:12.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Your First Grave]
+[03Feb2025 18:59:15.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was slain by Wither Skeleton
+[03Feb2025 19:00:04.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [A Strange Grave Dust]
+[03Feb2025 19:00:07.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Diamonds!]
+[03Feb2025 19:00:08.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Magic Writing]
+[03Feb2025 19:00:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Ice Bucket Challenge]
+[03Feb2025 19:00:11.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Cover Me with Diamonds]
+[03Feb2025 19:00:22.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Ashes 'n Bones]
+[03Feb2025 19:00:29.039] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[03Feb2025 19:00:29.048] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[03Feb2025 19:00:34.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Hoglin
+[03Feb2025 19:00:47.846] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[03Feb2025 19:00:47.847] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[03Feb2025 19:01:19.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 fell from a high place
+[03Feb2025 19:01:19.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Your First Grave]
+[03Feb2025 19:01:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Ashes 'n Bones]
