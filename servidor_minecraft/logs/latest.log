@@ -4171,3 +4171,73 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Feb2025 19:01:19.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 fell from a high place
 [03Feb2025 19:01:19.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Your First Grave]
 [03Feb2025 19:01:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Ashes 'n Bones]
+[03Feb2025 19:03:26.425] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 19:03:26.440] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 19:03:42.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Hoglin
+[03Feb2025 19:03:48.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Here They Come]
+[03Feb2025 19:03:53.484] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 19:03:53.490] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 19:03:59.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Chain Death]
+[03Feb2025 19:03:59.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Wither Skeleton
+[03Feb2025 19:04:15.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Spooky Scary Skeleton]
+[03Feb2025 19:04:17.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [How'd You Get This?]
+[03Feb2025 19:04:30.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has completed the challenge [Free Willy]
+[03Feb2025 19:05:05.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Diamonds!]
+[03Feb2025 19:05:24.778] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[03Feb2025 19:05:24.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[03Feb2025 19:05:52.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 lost connection: Disconnected
+[03Feb2025 19:05:52.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 left the game
+[03Feb2025 19:05:55.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [The Imperial March]
+[03Feb2025 19:06:46.548] [Server thread/WARN] [tombstone/]: The death event of the player Aldhair_16 was canceled by another mod
+[03Feb2025 19:06:46.550] [Server thread/INFO] [tombstone/]: The player Aldhair_16 has successfully been saved
+[03Feb2025 19:06:53.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 fell from a high place
+[03Feb2025 19:06:58.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 was kicked for floating too long!
+[03Feb2025 19:06:59.026] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Flying is not enabled on this server
+[03Feb2025 19:06:59.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[03Feb2025 19:07:00.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 was kicked for floating too long!
+[03Feb2025 19:07:00.625] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 lost connection: Flying is not enabled on this server
+[03Feb2025 19:07:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 left the game
+[03Feb2025 19:07:07.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aldhair_16[/127.1.134.220:42609] logged in with entity id 12752 at (54.98461395611468, 105.76992785013637, -814.9420276980377)
+[03Feb2025 19:07:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 joined the game
+[03Feb2025 19:07:08.011] [Server thread/INFO] [Jade/]: Syncing config to Aldhair_16 (83c9b1f0-07a3-3d7e-a940-d26aac0e9996)
+[03Feb2025 19:07:14.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elrisas741[/127.194.73.14:56107] logged in with entity id 13096 at (53.939492652614845, 79.46057020950056, -817.5673227564394)
+[03Feb2025 19:07:14.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
+[03Feb2025 19:07:14.842] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
+[03Feb2025 19:07:51.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has reached the goal [Here They Come]
+[03Feb2025 19:08:20.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Simple Farming]
+[03Feb2025 19:11:26.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has reached the goal [The long arm of the law]
+[03Feb2025 19:11:33.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has reached the goal [A little cleaning is necessary]
+[03Feb2025 19:11:54.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 22PieroRR[/127.226.96.215:56343] logged in with entity id 14318 at (131.15160196274604, 217.0, -835.5926229986499)
+[03Feb2025 19:11:54.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR joined the game
+[03Feb2025 19:11:54.130] [Server thread/INFO] [Jade/]: Syncing config to 22PieroRR (0095057f-b0f1-35f0-92b7-7c2b5a2b86fe)
+[03Feb2025 19:12:33.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Diamonds!]
+[03Feb2025 19:12:35.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Cover Me with Diamonds]
+[03Feb2025 19:12:35.639] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.244.236.233:39689] logged in with entity id 14463 at (136.38942172598703, 218.0, -834.6999999880791)
+[03Feb2025 19:12:35.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
+[03Feb2025 19:12:35.737] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
+[03Feb2025 19:12:56.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Bone Crusher]
+[03Feb2025 19:13:14.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [How'd You Get This?]
+[03Feb2025 19:13:38.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Creepie Crawly]
+[03Feb2025 19:13:41.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Bonfire Lit]
+[03Feb2025 19:13:47.726] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[03Feb2025 19:13:47.730] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[03Feb2025 19:14:06.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Wither Skeleton
+[03Feb2025 19:14:16.723] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 19:14:16.725] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 19:14:29.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Wither Skeleton
+[03Feb2025 19:15:00.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Not a Diamond]
+[03Feb2025 19:15:16.074] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[03Feb2025 19:15:16.083] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[03Feb2025 19:15:19.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Spooky Scary Skeleton]
+[03Feb2025 19:15:21.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Wither Skeleton
+[03Feb2025 19:15:35.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Spooky Scary Skeleton]
+[03Feb2025 19:16:02.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
+[03Feb2025 19:16:29.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Disme A Dozen]
+[03Feb2025 19:16:51.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Cover Me with Diamonds]
+[03Feb2025 19:17:00.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 lost connection: Disconnected
+[03Feb2025 19:17:00.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 left the game
+[03Feb2025 19:17:15.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has completed the challenge [Serious Dedication]
+[03Feb2025 19:18:55.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Take Aim, Chaps!]
+[03Feb2025 19:21:37.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
+[03Feb2025 19:21:51.577] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 19:21:51.585] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
