@@ -6685,9 +6685,189 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2025-02-03 19:20:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_barrel": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_coffee_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_modern_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/cherry_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_2": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_1": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_4": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_limited_barrel_3": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2025-02-03 19:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 19:20:58 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_dark_oak_plank": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-02-03 19:17:19 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-03 19:18:55 +0000"
     },
     "done": true
   },
@@ -6703,11 +6883,89 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_log": {
+    "criteria": {
+      "has_log": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:collect_heads": {
     "criteria": {
       "wither_skeleton_skull": "2025-02-03 19:15:19 +0000"
     },
     "done": false
+  },
+  "pfm:recipes/furniture/dark_oak_coffee_table_modern": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2025-02-03 19:20:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_table_basic": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+    "criteria": {
+      "has_magma_cream": "2025-02-03 19:20:58 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_modern": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/explosive_charge": {
     "criteria": {
@@ -6721,9 +6979,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_chair_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 19:30:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-02-03 19:15:19 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-02-03 19:18:55 +0000"
     },
     "done": true
   },
@@ -6745,9 +7045,147 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_simple_bunk_ladder": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/deepslate_dark_oak_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-02-03 19:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/misc/packing_tape": {
     "criteria": {
       "has_slime": "2025-02-03 19:17:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_coffee_table_classic": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/stripped_dark_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/dark_oak_classic_nightstand": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
     },
     "done": true
   },
@@ -6763,9 +7201,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/dark_oak_table_dinner": {
+    "criteria": {
+      "has_planks": "2025-02-03 19:18:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-03 19:12:59 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-03 19:20:58 +0000"
     },
     "done": true
   },

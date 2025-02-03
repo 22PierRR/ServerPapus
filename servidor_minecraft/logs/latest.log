@@ -4241,3 +4241,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Feb2025 19:21:37.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
 [03Feb2025 19:21:51.577] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
 [03Feb2025 19:21:51.585] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 19:22:35.724] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[03Feb2025 19:22:35.727] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[03Feb2025 19:22:41.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by Wither Skeleton
+[03Feb2025 19:23:02.726] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 19:23:02.729] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 19:24:44.776] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 19:24:44.780] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 19:25:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was slain by Hoglin
+[03Feb2025 19:25:34.825] [Server thread/WARN] [tombstone/]: The death event of the player 22PieroRR was canceled by another mod
+[03Feb2025 19:25:34.828] [Server thread/INFO] [tombstone/]: The player 22PieroRR has successfully been saved
+[03Feb2025 19:26:08.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR was slain by Hoglin
+[03Feb2025 19:26:11.677] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[03Feb2025 19:26:11.679] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[03Feb2025 19:26:18.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 was shot by Wither Skeleton
+[03Feb2025 19:30:10.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [A Throwaway Joke]
+[03Feb2025 19:30:14.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Ashes 'n Bones]
+[03Feb2025 19:30:18.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has reached the goal [Bone Crusher]
+[03Feb2025 19:31:49.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Close Quarters]
+[03Feb2025 19:32:34.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 was kicked for floating too long!
+[03Feb2025 19:32:34.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Flying is not enabled on this server
+[03Feb2025 19:32:34.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[03Feb2025 19:32:48.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elrisas741[/127.194.73.14:38257] logged in with entity id 21487 at (47.05506397708624, 90.3545942989013, -822.7907200310683)
+[03Feb2025 19:32:48.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
+[03Feb2025 19:32:48.524] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
+[03Feb2025 19:33:16.951] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[03Feb2025 19:36:27.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Like a bird]
+[03Feb2025 19:36:34.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aldhair_16[/127.1.134.220:40901] logged in with entity id 25215 at (81.30000001192093, 206.5, -815.4640664987071)
+[03Feb2025 19:36:34.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 joined the game
+[03Feb2025 19:36:34.306] [Server thread/INFO] [Jade/]: Syncing config to Aldhair_16 (83c9b1f0-07a3-3d7e-a940-d26aac0e9996)
+[03Feb2025 19:36:39.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Knowledge raises the soul]
+[03Feb2025 19:41:28.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Where Is The Stone Pen?]
+[03Feb2025 19:42:09.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has made the advancement [Ol' Betsy]
+[03Feb2025 19:42:15.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 was kicked for floating too long!
+[03Feb2025 19:42:15.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aldhair_16 lost connection: Flying is not enabled on this server
+[03Feb2025 19:42:15.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 left the game
+[03Feb2025 19:42:21.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aldhair_16[/127.1.134.220:43023] logged in with entity id 29447 at (66.20484575309324, 71.4262686318729, -835.0265928749202)
+[03Feb2025 19:42:21.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 joined the game
+[03Feb2025 19:42:21.754] [Server thread/INFO] [Jade/]: Syncing config to Aldhair_16 (83c9b1f0-07a3-3d7e-a940-d26aac0e9996)
