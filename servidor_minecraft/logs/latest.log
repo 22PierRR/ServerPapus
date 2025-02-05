@@ -4468,3 +4468,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 21:18:38.428] [Netty Epoll Server IO #0/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
 [05Feb2025 21:20:06.833] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
 [05Feb2025 21:21:44.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [The Secrets of Enchanting]
+[05Feb2025 21:28:38.213] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=540, y=37, z=-857}
+[05Feb2025 21:28:38.215] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=539, y=37, z=-857}
+[05Feb2025 21:30:58.021] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/92508, l='ServerLevel[world]', x=2746.00, y=31.50, z=7899.00] as it would cause deadlock
+[05Feb2025 21:30:58.022] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/92510, l='ServerLevel[world]', x=2746.00, y=31.50, z=7899.00] as it would cause deadlock
+[05Feb2025 21:31:07.512] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4564, y=18, z=-2955}
+[05Feb2025 21:31:09.573] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[05Feb2025 21:31:09.574] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[05Feb2025 21:31:11.577] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4434, y=1, z=-3316}
+[05Feb2025 21:31:11.577] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4432, y=1, z=-3316}
+[05Feb2025 21:31:16.229] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4417, y=17, z=-2953}
+[05Feb2025 21:31:16.229] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4418, y=17, z=-2953}
+[05Feb2025 21:31:20.532] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-12717329,-1471723623,-1908530992,507571752],type:"minecraft:entity",y_offset:0.36f}}]
+[05Feb2025 21:31:26.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Justin the Extra-Fishy'/92256, l='ServerLevel[world]', x=2895.49, y=52.00, z=7693.35] died: Justin the Extra-Fishy was slain by 22PieroRR
+[05Feb2025 21:31:29.829] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4258, y=-50, z=-3031}
+[05Feb2025 21:31:29.829] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4258, y=-50, z=-3032}
+[05Feb2025 21:31:30.494] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4247, y=14, z=-2965}
+[05Feb2025 21:31:38.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Oh Shiny]
+[05Feb2025 21:32:00.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aldhair_16 has reached the goal [Flawless Crystals]
+[05Feb2025 21:32:27.423] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4269, y=-45, z=-2874}
+[05Feb2025 21:32:42.402] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[05Feb2025 21:32:42.403] [Server thread/INFO] [tombstone/]: The player Maikol_4988 has successfully been saved
+[05Feb2025 21:32:44.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2942, y=40, z=7688} BlockPos{x=2910, y=36, z=7689}
+[05Feb2025 21:32:45.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2942, y=40, z=7688} BlockPos{x=2910, y=36, z=7689}
+[05Feb2025 21:33:19.489] [Server thread/WARN] [tombstone/]: The death event of the player Maikol_4988 was canceled by another mod
+[05Feb2025 21:33:42.889] [Server thread/INFO] [FTB Chunks/]: attempting to transfer 0 chunks from 22PieroRR_s_Party#35aabb58 to elrisas741#77fcb98c
+[05Feb2025 21:33:42.889] [Server thread/INFO] [FTB Chunks/]: Transferred 0 chunks from 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) to 77fcb98c-7faf-3dc8-8095-81ba0a63f778 (elrisas741#77fcb98c)
+[05Feb2025 21:33:42.889] [Server thread/INFO] [FTB Chunks/]: Unclaimed 0 chunks for 35aabb58-78ee-4e7b-8aa8-9bf7dd504b2f (22PieroRR_s_Party#35aabb58) due to claim limits
+[05Feb2025 21:33:42.889] [Server thread/INFO] [FTB Chunks/]: Team elrisas741#77fcb98c had 0 claimed chunks, now has 0
+[05Feb2025 21:33:46.578] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-4759, y=-54, z=-3298}
+[05Feb2025 21:33:54.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2846, y=37, z=7672} BlockPos{x=2847, y=36, z=7672}

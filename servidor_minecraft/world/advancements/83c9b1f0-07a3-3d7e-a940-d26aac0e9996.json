@@ -9412,5 +9412,11 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-02-05 21:26:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

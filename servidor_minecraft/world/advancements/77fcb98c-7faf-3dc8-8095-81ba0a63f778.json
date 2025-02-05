@@ -3900,6 +3900,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-02-03 20:09:33 +0000",
+      "minecraft:pillager": "2025-02-05 21:25:48 +0000",
       "minecraft:skeleton": "2025-02-03 19:13:14 +0000",
       "minecraft:zoglin": "2025-02-05 15:24:21 +0000",
       "minecraft:ghast": "2025-02-04 02:16:18 +0000",
