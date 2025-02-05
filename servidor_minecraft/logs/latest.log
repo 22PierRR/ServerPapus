@@ -4275,3 +4275,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 17:55:00.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
 [05Feb2025 17:55:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
 [05Feb2025 18:08:49.346] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[05Feb2025 18:18:44.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [The Bender of the 15th Century]
