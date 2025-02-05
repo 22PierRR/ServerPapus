@@ -4075,3 +4075,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 19:31:06.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3219ms or 64 ticks behind
 [05Feb2025 19:32:02.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved wrongly!
 [05Feb2025 19:37:05.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [The Andesite Age]
+[05Feb2025 19:41:23.850] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-223, y=-51, z=-201}
+[05Feb2025 19:41:23.850] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-221, y=-51, z=-198}
+[05Feb2025 19:41:30.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Pic-A-Nic Basket?]
+[05Feb2025 19:41:45.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/580, l='ServerLevel[world]', x=0.38, y=66.00, z=-38.13] died: Undead Knight was slain by 22PieroRR
+[05Feb2025 19:42:27.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Vice-Chancellor Elizabeth the Questionable'/3766, l='ServerLevel[world]', x=-6.72, y=68.00, z=-122.08] died: Vice-Chancellor Elizabeth the Questionable was slain by 22PieroRR
+[05Feb2025 19:42:42.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.244.236.233:42273] logged in with entity id 4431 at (51.52164925753776, 62.5625, -690.4963084300181)
+[05Feb2025 19:42:42.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
+[05Feb2025 19:42:42.829] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
+[05Feb2025 19:44:41.450] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05Feb2025 19:44:41.450] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05Feb2025 19:44:41.451] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05Feb2025 19:44:42.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3937ms or 78 ticks behind
+[05Feb2025 19:45:11.554] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[05Feb2025 19:48:37.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Bonk!]
+[05Feb2025 19:49:44.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: 22PieroRR, Maikol_4988
