@@ -19260,3 +19260,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 18:50:31.357] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 18:50:31.386] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Feb2025 18:51:56.799] [Server thread/DEBUG] [corgitaco.enhancedcelestials.EnhancedCelestials/]: Loaded corgitaco.enhancedcelestials.forge.platform.ForgePlatformHelper@24ec7ca1 for service interface corgitaco.enhancedcelestials.platform.services.IPlatformHelper
+[05Feb2025 18:55:31.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 18:55:31.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 19:00:31.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 19:00:31.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
