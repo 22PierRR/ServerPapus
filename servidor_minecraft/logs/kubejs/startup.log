@@ -1,8 +1,8 @@
-[18:42:19] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[18:42:19] [INIT] Loaded plugins:
-[18:42:19] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[18:42:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[18:42:19] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[18:42:20] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[18:42:20] [INFO] Loaded script startup_scripts:example.js in 0.132 s
-[18:42:20] [INFO] Loaded 1/1 KubeJS startup scripts in 0.744 s with 0 errors and 0 warnings
+[14:23:28] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:23:28] [INIT] Loaded plugins:
+[14:23:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:23:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[14:23:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[14:23:29] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[14:23:29] [INFO] Loaded script startup_scripts:example.js in 0.123 s
+[14:23:29] [INFO] Loaded 1/1 KubeJS startup scripts in 0.7 s with 0 errors and 0 warnings
