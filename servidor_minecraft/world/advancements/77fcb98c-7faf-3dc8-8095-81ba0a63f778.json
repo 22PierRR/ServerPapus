@@ -10303,9 +10303,105 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 17:54:35 +0000"
+    },
+    "done": false
+  },
+  "pfm:recipes/furniture/andesite_kitchen_wall_counter": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_nightstand": {
+    "criteria": {
+      "andesite_classic_nightstand": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_classic": {
+    "criteria": {
+      "andesite_chair_classic": "2025-02-05 17:52:14 +0000"
     },
     "done": true
   },
@@ -10321,15 +10417,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_classic_nightstand": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_modern_dinner": {
+    "criteria": {
+      "andesite_table_modern_dinner": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_oak_kitchen_counter_oven": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_chair_modern": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_classic": {
+    "criteria": {
+      "andesite_coffee_table_classic": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_classic_stool": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
     },
     "done": true
   },
@@ -10345,6 +10471,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_classic": {
+    "criteria": {
+      "andesite_table_classic": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_table_dinner": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
@@ -10354,6 +10492,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-02-05 17:38:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_sink": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
     },
     "done": true
   },
@@ -10375,15 +10519,45 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_oak_kitchen_wall_small_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_chair_dinner": {
+    "criteria": {
+      "andesite_chair_dinner": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_basic": {
+    "criteria": {
+      "andesite_table_basic": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_table_modern_dinner": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_simple_stool": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair": {
+    "criteria": {
+      "andesite_chair": "2025-02-05 17:52:14 +0000"
     },
     "done": true
   },
@@ -10399,6 +10573,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_kitchen_drawer": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/andesite_oak_kitchen_wall_counter": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
@@ -10408,6 +10588,18 @@
   "pfm:recipes/furniture/stripped_oak_table_classic": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-02-05 17:52:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-05 17:52:14 +0000"
     },
     "done": true
   },
@@ -10423,9 +10615,33 @@
     },
     "done": true
   },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-02-05 17:49:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_table_dinner": {
+    "criteria": {
+      "andesite_table_dinner": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_chair_modern": {
+    "criteria": {
+      "andesite_chair_modern": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_chair_classic": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 17:52:06 +0000"
     },
     "done": true
   },
@@ -10447,6 +10663,12 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_oak_kitchen_cabinet": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_kitchen_counter_oven": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
@@ -10459,9 +10681,21 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_table_natural": {
+    "criteria": {
+      "andesite_table_natural": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/light_wood_kitchen_wall_drawer": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
     },
     "done": true
   },
@@ -10501,6 +10735,18 @@
     },
     "done": true
   },
+  "pfm:recipes/furniture/andesite_coffee_table_basic": {
+    "criteria": {
+      "andesite_coffee_table_basic": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/stripped_oak_chair_dinner": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
@@ -10510,6 +10756,18 @@
   "pfm:recipes/furniture/stripped_oak_simple_stool": {
     "criteria": {
       "has_planks": "2025-02-05 17:38:36 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_coffee_table_modern": {
+    "criteria": {
+      "andesite_coffee_table_modern": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/andesite_modern_stool": {
+    "criteria": {
+      "has_planks": "2025-02-05 17:52:14 +0000"
     },
     "done": true
   },
