@@ -4121,3 +4121,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 19:56:05.097] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
 [05Feb2025 19:56:58.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has reached the goal [Workout Session]
 [05Feb2025 20:00:12.407] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombifiedPiglin['Mister Jacob the Shimmering'/14600, l='ServerLevel[world]', x=-5971.70, y=60.00, z=-6200.68] died: Mister Jacob the Shimmering was scorched to death
+[05Feb2025 20:02:23.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Oh Shiny]
+[05Feb2025 20:04:16.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.244.236.233:40079] logged in with entity id 16837 at (52.23012993792928, 62.79659999847412, -691.4522431622702)
+[05Feb2025 20:04:16.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
+[05Feb2025 20:04:16.225] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
+[05Feb2025 20:05:15.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 was kicked for floating too long!
+[05Feb2025 20:05:15.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maikol_4988 lost connection: Flying is not enabled on this server
+[05Feb2025 20:05:15.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 left the game
+[05Feb2025 20:05:45.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maikol_4988[/127.244.236.233:38457] logged in with entity id 17460 at (52.23012993792928, 62.79659999847412, -691.4522431622702)
+[05Feb2025 20:05:45.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 joined the game
+[05Feb2025 20:05:45.271] [Server thread/INFO] [Jade/]: Syncing config to Maikol_4988 (fa63da74-676e-3a75-814c-8fd926924504)
+[05Feb2025 20:08:31.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/3755, l='ServerLevel[world]', x=61.49, y=61.85, z=-84.35] died: Honeyed Archer suffocated in a wall
+[05Feb2025 20:09:44.244] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: 22PieroRR/granja.nbt
+[05Feb2025 20:10:45.751] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19610, l='ServerLevel[world]', x=-12232.50, y=142.88, z=-10063.45] died: Restless Spirit starved to death
