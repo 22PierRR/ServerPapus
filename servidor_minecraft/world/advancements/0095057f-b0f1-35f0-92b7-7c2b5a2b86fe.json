@@ -2838,6 +2838,7 @@
       "minecraft:creeper": "2025-02-03 19:13:56 +0000",
       "minecraft:slime": "2025-02-03 19:15:42 +0000",
       "minecraft:phantom": "2025-02-03 18:54:38 +0000",
+      "minecraft:zombified_piglin": "2025-02-05 19:52:25 +0000",
       "minecraft:witch": "2025-02-04 01:51:04 +0000",
       "minecraft:wither_skeleton": "2025-02-03 18:54:53 +0000",
       "minecraft:cave_spider": "2025-02-03 18:31:05 +0000",
@@ -11515,6 +11516,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-02-05 19:48:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/wooden_bracket": {
     "criteria": {
       "has_item": "2025-02-05 19:36:00 +0000"
@@ -11524,6 +11531,12 @@
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2025-02-05 19:37:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2025-02-05 19:47:23 +0000"
     },
     "done": true
   },
@@ -11557,6 +11570,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-02-05 19:48:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-02-05 19:48:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-05 19:52:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
     "criteria": {
       "has_item": "2025-02-05 19:37:37 +0000"
@@ -11569,9 +11600,21 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-02-05 19:49:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_piston": {
     "criteria": {
       "has_item": "2025-02-05 19:37:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-02-05 19:48:41 +0000"
     },
     "done": true
   },
@@ -11596,6 +11639,12 @@
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-02-05 19:36:00 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-02-05 19:47:33 +0000"
     },
     "done": true
   },
@@ -11647,6 +11696,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-02-05 19:52:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-02-05 19:52:36 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed_by": "2025-02-05 19:41:30 +0000"
@@ -11662,6 +11723,12 @@
   "create:recipes/misc/crafting/kinetics/wrench": {
     "criteria": {
       "has_item": "2025-02-05 19:36:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-02-05 19:48:41 +0000"
     },
     "done": true
   },
@@ -11707,6 +11774,12 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-02-05 19:48:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2025-02-05 19:36:00 +0000"
@@ -11722,6 +11795,12 @@
   "create:recipes/misc/crafting/kinetics/sticker": {
     "criteria": {
       "has_item": "2025-02-05 19:36:00 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-02-05 19:52:36 +0000"
     },
     "done": true
   },
@@ -11746,6 +11825,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
     "criteria": {
       "has_item": "2025-02-05 19:36:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-02-05 19:48:41 +0000"
     },
     "done": true
   },
@@ -11785,6 +11870,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-02-05 19:52:38 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/logistics/andesite_tunnel": {
     "criteria": {
       "has_item": "2025-02-05 19:36:00 +0000"
@@ -11815,6 +11906,12 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_basalt": "2025-02-05 19:52:38 +0000"
+    },
+    "done": false
+  },
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-02-05 19:36:00 +0000"
@@ -11827,9 +11924,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-02-05 19:52:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/contraption_controls": {
     "criteria": {
       "has_item": "2025-02-05 19:36:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-02-05 19:48:03 +0000"
     },
     "done": true
   },
