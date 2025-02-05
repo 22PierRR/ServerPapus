@@ -21576,3 +21576,420 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 20:10:49.942] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_kitchen
 [05Feb2025 20:10:50.079] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
 [05Feb2025 20:10:50.086] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/road2
+[05Feb2025 20:11:03.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 20:11:03.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 20:11:14.835] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 2 in "main" inventory handler
+[05Feb2025 20:11:30.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:11:52.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20089, l='ServerLevel[world]', x=-12233.72, y=135.54, z=-10055.26] died: Restless Spirit starved to death
+[05Feb2025 20:12:23.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20464, l='ServerLevel[world]', x=-12265.67, y=86.82, z=-10010.60] died: Restless Spirit starved to death
+[05Feb2025 20:12:35.246] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[05Feb2025 20:12:35.247] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 27.1096 Armor value: 29.0 Damage ignoring armor (50.0% damage): 13.5548 Damage not ignoring armor: 13.5548 Reduced Damage: 3.47559 Result Damage: 17.03039
+[05Feb2025 20:12:42.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:12:45.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:12:46.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:12:47.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:12:48.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:12:48.923] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:12:48.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:12:51.850] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:12:55.306] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:12:56.152] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:12:57.026] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:02.769] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:03.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:06.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:06.553] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:08.652] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:08.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:09.497] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:10.397] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:12.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:13.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:14.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:15.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20742, l='ServerLevel[world]', x=-12240.91, y=145.45, z=-10052.14] died: Restless Spirit starved to death
+[05Feb2025 20:13:27.006] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:29.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:34.652] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:37.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:43.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:44.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:49.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:13:56.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:14:00.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:14:01.776] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:14:02.754] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:14:04.198] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:14:08.519] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:14:13.627] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:14:16.403] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:14:27.247] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:14:28.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:14:36.416] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[05Feb2025 20:14:36.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_lower_no_chest
+[05Feb2025 20:14:36.683] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/town_centers/snowy_taiga_meeting_point_1
+[05Feb2025 20:14:36.686] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_04
+[05Feb2025 20:14:36.688] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_02
+[05Feb2025 20:14:36.689] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/turn_01
+[05Feb2025 20:14:36.691] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[05Feb2025 20:14:36.692] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_02
+[05Feb2025 20:14:36.693] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_04
+[05Feb2025 20:14:36.694] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_mason_1
+[05Feb2025 20:14:36.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_06
+[05Feb2025 20:14:36.695] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_03
+[05Feb2025 20:14:36.696] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_06
+[05Feb2025 20:14:36.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_farm_1
+[05Feb2025 20:14:36.697] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_02
+[05Feb2025 20:14:36.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fletcher_1
+[05Feb2025 20:14:36.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/straight_01
+[05Feb2025 20:14:36.700] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_fisher_1
+[05Feb2025 20:14:36.701] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_01
+[05Feb2025 20:14:36.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/corner_03
+[05Feb2025 20:14:36.702] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_02
+[05Feb2025 20:14:36.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/snowy_taiga_drakkar_1
+[05Feb2025 20:14:36.704] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/snowy_taiga_wood_pile_1
+[05Feb2025 20:14:36.705] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/streets/crossroad_05
+[05Feb2025 20:14:36.706] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_5
+[05Feb2025 20:14:36.707] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_shepherd_1
+[05Feb2025 20:14:36.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_2
+[05Feb2025 20:14:36.708] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_01
+[05Feb2025 20:14:36.709] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_leatherworker_1
+[05Feb2025 20:14:36.711] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_1
+[05Feb2025 20:14:36.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/houses/snowy_taiga_small_house_3
+[05Feb2025 20:14:36.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/snowy_taiga_viking/terminators/terminator_04
+[05Feb2025 20:14:36.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock2
+[05Feb2025 20:14:54.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_6
+[05Feb2025 20:14:54.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_4
+[05Feb2025 20:14:54.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_3
+[05Feb2025 20:14:54.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:the_lab
+[05Feb2025 20:14:55.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[05Feb2025 20:15:00.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:15:00.968] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_3_crimson
+[05Feb2025 20:15:00.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_plate_1_crimson
+[05Feb2025 20:15:00.972] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_11_crimson
+[05Feb2025 20:15:00.973] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_8_crimson
+[05Feb2025 20:15:00.974] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_9_crimson
+[05Feb2025 20:15:00.975] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_10_crimson
+[05Feb2025 20:15:00.976] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_6_crimson
+[05Feb2025 20:15:00.977] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_2_crimson
+[05Feb2025 20:15:00.978] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_7_crimson
+[05Feb2025 20:15:00.979] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_12_crimson
+[05Feb2025 20:15:00.980] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_feature_5_crimson
+[05Feb2025 20:15:00.981] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:hamlet/hamlet_piglin_fail
+[05Feb2025 20:15:01.406] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:15:07.414] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:sealedruinedghaststatue1
+[05Feb2025 20:15:20.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23193, l='ServerLevel[world]', x=-621.95, y=73.74, z=-91.67] died: Restless Spirit starved to death
+[05Feb2025 20:15:29.581] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:arena
+[05Feb2025 20:15:35.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:15:36.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:15:36.753] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/23115, l='ServerLevel[world]', x=-584.51, y=37.00, z=-106.73] died: Headless Warrior was slain by Maikol_4988
+[05Feb2025 20:15:47.849] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:15:49.352] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:15:50.976] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:15:50.977] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/23542, l='ServerLevel[world]', x=-582.92, y=37.00, z=-137.89] died: Headless Warrior was slain by Maikol_4988
+[05Feb2025 20:15:52.953] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[05Feb2025 20:15:52.953] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 18.54 Armor value: 8.0 Damage ignoring armor (50.0% damage): 9.27 Damage not ignoring armor: 9.27 Reduced Damage: 5.1500006 Result Damage: 14.420001
+[05Feb2025 20:15:52.953] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/23543, l='ServerLevel[world]', x=-583.49, y=36.00, z=-135.77] died: Headless Warrior was shot by Maikol_4988
+[05Feb2025 20:15:55.249] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23646, l='ServerLevel[world]', x=-609.92, y=35.33, z=-223.44] died: Restless Spirit starved to death
+[05Feb2025 20:15:55.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23648, l='ServerLevel[world]', x=-609.56, y=42.08, z=-210.43] died: Restless Spirit starved to death
+[05Feb2025 20:16:06.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 20:16:06.327] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 20:16:10.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:16:14.440] [Server thread/DEBUG] [mixin/]: Mixing create.BlockMovementChecksMixin from another_furniture.mixins.json into com.simibubi.create.content.contraptions.BlockMovementChecks
+[05Feb2025 20:16:14.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23829, l='ServerLevel[world]', x=-661.27, y=55.93, z=-216.59] died: Restless Spirit starved to death
+[05Feb2025 20:16:32.250] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24267, l='ServerLevel[world]', x=-699.43, y=52.31, z=-147.73] died: Restless Spirit starved to death
+[05Feb2025 20:16:32.251] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24269, l='ServerLevel[world]', x=-677.00, y=48.25, z=-147.41] died: Restless Spirit starved to death
+[05Feb2025 20:16:33.446] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24281, l='ServerLevel[world]', x=-580.38, y=71.01, z=-130.76] died: Restless Spirit starved to death
+[05Feb2025 20:16:51.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=45, y=56, z=-43} BlockPos{x=35, y=55, z=-40}
+[05Feb2025 20:16:54.349] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24489, l='ServerLevel[world]', x=-624.42, y=81.48, z=-86.43] died: Restless Spirit starved to death
+[05Feb2025 20:16:56.908] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24587, l='ServerLevel[world]', x=-659.53, y=56.58, z=-181.96] died: Restless Spirit starved to death
+[05Feb2025 20:17:03.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:17:05.104] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:17:05.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/24235, l='ServerLevel[world]', x=-603.93, y=45.00, z=-153.03] died: Headless Warrior was slain by Maikol_4988
+[05Feb2025 20:17:05.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 20:17:09.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24677, l='ServerLevel[world]', x=-634.45, y=76.96, z=-200.44] died: Restless Spirit starved to death
+[05Feb2025 20:17:12.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24701, l='ServerLevel[world]', x=-624.97, y=59.90, z=-177.40] died: Restless Spirit starved to death
+[05Feb2025 20:17:15.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24731, l='ServerLevel[world]', x=-612.19, y=145.07, z=-151.77] died: Restless Spirit starved to death
+[05Feb2025 20:17:15.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24733, l='ServerLevel[world]', x=-620.23, y=146.35, z=-146.76] died: Restless Spirit starved to death
+[05Feb2025 20:17:17.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24757, l='ServerLevel[world]', x=-621.33, y=53.28, z=-165.00] died: Restless Spirit starved to death
+[05Feb2025 20:17:21.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24802, l='ServerLevel[world]', x=-674.29, y=93.12, z=-109.59] died: Restless Spirit starved to death
+[05Feb2025 20:17:22.319] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter1
+[05Feb2025 20:17:22.320] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[05Feb2025 20:17:29.223] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_hooglin_fail
+[05Feb2025 20:17:29.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has reached the goal [Alchemical Experiments]
+[05Feb2025 20:17:30.338] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:17:35.203] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24937, l='ServerLevel[world]', x=-717.84, y=49.41, z=-162.52] died: Restless Spirit starved to death
+[05Feb2025 20:17:36.381] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:17:37.303] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24978, l='ServerLevel[world]', x=-604.58, y=74.06, z=-221.57] died: Restless Spirit starved to death
+[05Feb2025 20:17:37.304] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24980, l='ServerLevel[world]', x=-611.92, y=57.22, z=-186.27] died: Restless Spirit starved to death
+[05Feb2025 20:17:37.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24994, l='ServerLevel[world]', x=-648.52, y=55.36, z=-221.08] died: Restless Spirit starved to death
+[05Feb2025 20:17:41.397] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:17:41.451] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25077, l='ServerLevel[world]', x=-643.29, y=57.06, z=-164.67] died: Restless Spirit starved to death
+[05Feb2025 20:17:46.397] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:17:51.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25181, l='ServerLevel[world]', x=-648.85, y=50.95, z=-273.93] died: Restless Spirit starved to death
+[05Feb2025 20:17:51.412] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:17:54.453] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25211, l='ServerLevel[world]', x=-625.92, y=36.53, z=-223.54] died: Restless Spirit starved to death
+[05Feb2025 20:17:56.997] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:17:59.414] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25272, l='ServerLevel[world]', x=-666.30, y=58.03, z=-273.14] died: Restless Spirit starved to death
+[05Feb2025 20:18:02.001] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:18:06.109] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:18:06.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maikol_4988 has made the advancement [Straddle My Ol' Saddle]
+[05Feb2025 20:18:06.806] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:18:07.034] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:18:07.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:18:09.213] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[05Feb2025 20:18:09.213] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[05Feb2025 20:18:12.078] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:18:17.101] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/25460, l='ServerLevel[world]', x=-579.65, y=46.00, z=-183.28] died: Headless Warrior was shot by Piglin
+[05Feb2025 20:18:23.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25479, l='ServerLevel[world]', x=-635.58, y=64.71, z=-118.96] died: Restless Spirit starved to death
+[05Feb2025 20:18:26.061] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:18:31.095] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:18:36.099] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:18:39.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25605, l='ServerLevel[world]', x=-588.31, y=41.34, z=-154.52] died: Restless Spirit starved to death
+[05Feb2025 20:18:41.100] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:18:42.150] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25622, l='ServerLevel[world]', x=-619.02, y=34.68, z=-219.41] died: Restless Spirit starved to death
+[05Feb2025 20:18:42.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25624, l='ServerLevel[world]', x=-610.16, y=35.43, z=-204.33] died: Restless Spirit starved to death
+[05Feb2025 20:18:44.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:18:46.553] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:18:47.361] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:18:48.801] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:18:53.832] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:18:58.834] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:18:59.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25716, l='ServerLevel[world]', x=-584.37, y=76.75, z=-205.48] died: Restless Spirit starved to death
+[05Feb2025 20:19:03.848] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:19:05.597] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25843, l='ServerLevel[world]', x=-690.16, y=52.54, z=-326.11] died: Restless Spirit blew up
+[05Feb2025 20:19:07.492] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25755, l='ServerLevel[world]', x=-556.49, y=57.09, z=-152.29] died: Restless Spirit starved to death
+[05Feb2025 20:19:07.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:19:08.864] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:19:09.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:19:09.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/24409, l='ServerLevel[world]', x=-602.60, y=33.00, z=-232.85] died: Headless Warrior was slain by Maikol_4988
+[05Feb2025 20:19:10.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:19:10.614] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/24787, l='ServerLevel[world]', x=-602.51, y=34.18, z=-231.08] died: Headless Warrior was slain by Maikol_4988
+[05Feb2025 20:19:10.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 20:19:14.198] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:19:14.751] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:19:15.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:19:15.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25978, l='ServerLevel[world]', x=-12236.08, y=147.72, z=-10067.25] died: Restless Spirit starved to death
+[05Feb2025 20:19:16.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25815, l='ServerLevel[world]', x=-669.54, y=115.09, z=-312.97] died: Restless Spirit starved to death
+[05Feb2025 20:19:18.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:19:18.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 20:19:19.156] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:19:19.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/25164, l='ServerLevel[world]', x=-604.90, y=33.00, z=-238.56] died: Headless Warrior was slain by Maikol_4988
+[05Feb2025 20:19:19.266] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:19:20.707] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:19:20.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25851, l='ServerLevel[world]', x=-698.72, y=62.26, z=-203.63] died: Restless Spirit starved to death
+[05Feb2025 20:19:22.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:19:22.154] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/23350, l='ServerLevel[world]', x=-606.05, y=33.00, z=-231.19] died: Withered Scientist was slain by Maikol_4988
+[05Feb2025 20:19:24.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/26026, l='ServerLevel[world]', x=-12215.56, y=140.43, z=-10043.40] died: Restless Spirit starved to death
+[05Feb2025 20:19:27.898] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:19:28.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/26027, l='ServerLevel[world]', x=-12235.68, y=139.64, z=-10052.65] died: Restless Spirit starved to death
+[05Feb2025 20:19:28.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/26347, l='ServerLevel[world]', x=-653.53, y=51.00, z=-137.48] died: Headless Warrior was slain by Young the Super
+[05Feb2025 20:19:32.449] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/26349, l='ServerLevel[world]', x=-657.06, y=51.00, z=-139.71] died: Headless Warrior was slain by Young the Super
+[05Feb2025 20:19:32.907] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:19:36.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/25285, l='ServerLevel[world]', x=-647.77, y=49.00, z=-150.83] died: Headless Warrior was slain by Young the Super
+[05Feb2025 20:19:37.930] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:19:39.600] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/26392, l='ServerLevel[world]', x=-648.71, y=45.00, z=-158.12] died: Headless Warrior was slain by Young the Super
+[05Feb2025 20:19:50.009] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:19:50.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/26366, l='ServerLevel[world]', x=-636.73, y=59.65, z=-139.61] died: Restless Spirit starved to death
+[05Feb2025 20:19:51.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/26393, l='ServerLevel[world]', x=-648.60, y=46.00, z=-161.09] died: Headless Warrior was slain by Young the Super
+[05Feb2025 20:19:55.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/26563, l='ServerLevel[world]', x=-641.62, y=49.00, z=-167.38] died: Headless Warrior was slain by Young the Super
+[05Feb2025 20:19:56.966] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:20:02.160] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:20:08.661] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:20:13.743] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:20:21.222] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_main is being run through DFU (hash 5732e26fb8226e16e15cf8dd8e79d0bfbb0e09943a037b648d64aec30d5d054e), this will cause launch time delays
+[05Feb2025 20:20:22.043] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/courtyards/courtyard_2x1 is being run through DFU (hash 481b91e1450d0bccec91a7d5d98d2b7ab7b4ab9e7412ef89ed7beab5587977d8), this will cause launch time delays
+[05Feb2025 20:20:22.253] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l2 is being run through DFU (hash 5c362b041a58640733daedc05b77666b6ac36d25183b7e2929abd612bb780a4b), this will cause launch time delays
+[05Feb2025 20:20:22.450] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x1_l2 is being run through DFU (hash fd294cb71258dfff27099c60aa142a63c39ca90f106cb771877f8f287d1f6442), this will cause launch time delays
+[05Feb2025 20:20:22.565] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/shock_troop is being run through DFU (hash a8a55635cbbb85f86b1658e5401e889aa0d6c468041ebff0fcd56d660b29437c), this will cause launch time delays
+[05Feb2025 20:20:22.580] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l3 is being run through DFU (hash 81b8007f23aaf5cc78ff3961f1217f663549ef7945baf5505a43cc4b0c209dad), this will cause launch time delays
+[05Feb2025 20:20:22.691] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/courtyards/courtyard_1x1 is being run through DFU (hash 3247bcac13485f0b49c125b907e9ca4f2d8eb7d44893019fa013b7b53a629098), this will cause launch time delays
+[05Feb2025 20:20:22.729] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/archer is being run through DFU (hash 6d0cc24a884d6e855f4631741955b7488628df73c9894bd6abeae0a7b384ddeb), this will cause launch time delays
+[05Feb2025 20:20:22.757] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l3_alt is being run through DFU (hash d8b4ceaa3939a3d7ab19fb1c421bbd5847fd932e9a4cfaceb185f6b5f0e4eb6b), this will cause launch time delays
+[05Feb2025 20:20:22.909] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/corridors is being run through DFU (hash b06a625724574d309308623059d68b33bd4911370535f576b8eae7927f5e9a66), this will cause launch time delays
+[05Feb2025 20:20:22.933] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x1_l3 is being run through DFU (hash 192c3adcba94605f8ad4e1b47293e53e1960c493b78af1d45819bd9318536cd4), this will cause launch time delays
+[05Feb2025 20:20:23.045] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/crossroads1 is being run through DFU (hash aaf3c0996d3f5ae6287902c51a3a9d3caf493f107709bb94f659b69dda5fe83a), this will cause launch time delays
+[05Feb2025 20:20:23.056] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/strider_pen is being run through DFU (hash c50717c3bee264bd51a2086ed2d85c64fc418d915f689ceb065e010a13aba0b2), this will cause launch time delays
+[05Feb2025 20:20:23.082] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/floors/2x2_l3 is being run through DFU (hash f153841a40656b021235c6cbb1297424973d8a428c18e1fa20c5601f6c9f7723), this will cause launch time delays
+[05Feb2025 20:20:23.227] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/kitchen is being run through DFU (hash 15021c9d6882d24471a7715da9b1af075b32f6e811183b17357cd8905455639f), this will cause launch time delays
+[05Feb2025 20:20:23.262] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/coolant_room is being run through DFU (hash 229442f8abab9ca8e2484d4178c354285a7d15c832ccadf9af5bd8da02093c92), this will cause launch time delays
+[05Feb2025 20:20:23.278] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/stable is being run through DFU (hash 3c3eaf713e4f12e7226b3ce123a43def33d9ca7651c23e4528f9d1552c7cfcd0), this will cause launch time delays
+[05Feb2025 20:20:23.375] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/dining is being run through DFU (hash 7ab3014f33ca41720940744024532fb68aa210e64abc8290f8764b6219376f90), this will cause launch time delays
+[05Feb2025 20:20:23.408] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_corner is being run through DFU (hash 920f27d007c214ea46ee0edf93f8a62622b16638c6f3719b1864c7781c1e2c2d), this will cause launch time delays
+[05Feb2025 20:20:23.427] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_gate is being run through DFU (hash 1532467e9ee42e1ccd626e3cfec29e742e76e800ee49c4de650aa129844ac761), this will cause launch time delays
+[05Feb2025 20:20:23.441] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15_compat is being run through DFU (hash 7e5dc38539a504a294004469361a0453274f59a92d8bcd4c7069ce5d7be6d7c7), this will cause launch time delays
+[05Feb2025 20:20:23.467] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/statues/statue_2x2 is being run through DFU (hash a82f713589a469e67f3c5c6378e1ea68987b561b7b5a2b4892443d9dbf587c43), this will cause launch time delays
+[05Feb2025 20:20:23.583] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_10 is being run through DFU (hash 87b0a593989cb1fdf6a64c467439fa2205209df4b4c31eefbf863c0983122e16), this will cause launch time delays
+[05Feb2025 20:20:23.595] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove1 is being run through DFU (hash 1b12e88f3c5a33353f4c3b9cb5207984dbae19664a5b7abd37d1df238584a143), this will cause launch time delays
+[05Feb2025 20:20:23.597] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/corridor2 is being run through DFU (hash 795c7a39bd3b6b1f60856bbcb1517664fae8171687ec28931834a6e3be6b5f45), this will cause launch time delays
+[05Feb2025 20:20:23.601] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_6 is being run through DFU (hash 1ab5b01d1aaf3bb29620ffa845c70a741e050429a22a228351f44f132462def2), this will cause launch time delays
+[05Feb2025 20:20:23.609] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove8 is being run through DFU (hash 82f1d0d947952f4819bb2ae61efae730d5a87fa014408cc334538c12c37bc31e), this will cause launch time delays
+[05Feb2025 20:20:23.611] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove3 is being run through DFU (hash 73bf66f6d4b0da7c059df40d1f15f1b2f851d1b1c955c2ac324d124836fc9939), this will cause launch time delays
+[05Feb2025 20:20:23.612] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove9 is being run through DFU (hash f42e42f64622f5df9978c36b6556a9531a2ff6da96a3748979e97ff1245a256e), this will cause launch time delays
+[05Feb2025 20:20:23.613] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove5 is being run through DFU (hash 4fcb8a77583640003c7e75224dd6468abb96e1372c6000e355dfc5531dce3feb), this will cause launch time delays
+[05Feb2025 20:20:23.621] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove10 is being run through DFU (hash b53615fd2e41f15bd4f0171b01d1d8a578ec500b14b680b1955da0c3186cf569), this will cause launch time delays
+[05Feb2025 20:20:23.623] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/corridor1 is being run through DFU (hash 25ad478c9bb6f0fa8525872067524350c44a82db0f81d49c71d0419c94ab866f), this will cause launch time delays
+[05Feb2025 20:20:23.629] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/lumber_w is being run through DFU (hash ebbcfa16309343b109b286e1810b1d5649ff2a19dbd130ca672fa4c3340900b8), this will cause launch time delays
+[05Feb2025 20:20:23.652] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15w is being run through DFU (hash c7577f08da449dbff07262cc26a1da05798b38a406b1527543a93961f1cc44de), this will cause launch time delays
+[05Feb2025 20:20:23.669] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/cell is being run through DFU (hash c97528a624199d6ce6f9a666a2ea98015156e484b63d8d5ccecef2a978b80154), this will cause launch time delays
+[05Feb2025 20:20:23.675] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short1_hoglin is being run through DFU (hash 127513bb46e7cea9b392f0a53a1b1cad6ba9b80c419c1ff0bad8c7e6544486e3), this will cause launch time delays
+[05Feb2025 20:20:23.686] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove14 is being run through DFU (hash 06ecf85a335deae65637fcf5ce35239e7ac389b4ddc2505e867e97fbc6b55576), this will cause launch time delays
+[05Feb2025 20:20:23.687] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove7 is being run through DFU (hash 449d30e7a22e016482a630ad0554d1037c2f29c545a7e2a82b1f92a43fad1853), this will cause launch time delays
+[05Feb2025 20:20:23.688] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove13 is being run through DFU (hash aaf4d2430bd1889894f9634bffd3c6a1b2fb71ffe55a22bf791ae4e4f1256b2f), this will cause launch time delays
+[05Feb2025 20:20:23.689] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove12 is being run through DFU (hash a59c6f3d371d9131858216da63b81b60f580b4883bd729b1164f49a6ba351155), this will cause launch time delays
+[05Feb2025 20:20:23.690] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove2 is being run through DFU (hash dbc1d8ce41fe99c00c74b961b34ae70991369feeb49f859edd3b5850eaece11c), this will cause launch time delays
+[05Feb2025 20:20:23.692] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/crossroads/decor2 is being run through DFU (hash cc32df30fd366380855a817f094d86fae78543cc16350b4ce6e9b25205bccd22), this will cause launch time delays
+[05Feb2025 20:20:23.694] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool1 is being run through DFU (hash 703ed201bdbcfb8f5bb09429d105dddbfc72a8f062fae72b85db006e3246998d), this will cause launch time delays
+[05Feb2025 20:20:23.708] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/cryostasis_chamber is being run through DFU (hash f3f7d063082f8fabf919f1295981338a962018d4a36dd877bb98b9b61b8a1e92), this will cause launch time delays
+[05Feb2025 20:20:23.722] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight is being run through DFU (hash 4107d7897b8634939926aabe8cf3fa0c6a18adba25d56f0f57449d0e065a386b), this will cause launch time delays
+[05Feb2025 20:20:23.727] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/odd_treasure is being run through DFU (hash 6c25b5187eac6373c48db213bc10e6a452cf10498e576f89ad7ae2288334c7e8), this will cause launch time delays
+[05Feb2025 20:20:23.746] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/storage is being run through DFU (hash acff26d1be40bf88d3f0b80c86f9bb5cbcb9ade055008d96d153ed605c0ea7cd), this will cause launch time delays
+[05Feb2025 20:20:23.765] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_15 is being run through DFU (hash d3915e9fb1c16b0139533fe9641347f85b273b9cc3fc36d3fc0a7ce46f13603b), this will cause launch time delays
+[05Feb2025 20:20:23.782] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_5 is being run through DFU (hash 1c18099ee402dc8f1edf0bc89117772a80baad8c5a5781dad51f0dd29732b7a4), this will cause launch time delays
+[05Feb2025 20:20:23.788] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_diamond is being run through DFU (hash 20b7fbd3dfcbe7eb57715d56ecb8336022fcec8113a41c010b67144b2cdd1f64), this will cause launch time delays
+[05Feb2025 20:20:23.794] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/pigstep is being run through DFU (hash 2c3c9f51ce1fc6f07424b0cb4c21f879b5615a1e5636a4f252e586060269ce50), this will cause launch time delays
+[05Feb2025 20:20:23.802] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short1 is being run through DFU (hash 704f686a67931a13efb2a1386796360fb996c11d1a745b0059b275c9065025a5), this will cause launch time delays
+[05Feb2025 20:20:23.808] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_2x1_2 is being run through DFU (hash 27082ec0ae65bc920d67ca30886cdf6685ed3479e2b2e1d8e0a32c3aa578021a), this will cause launch time delays
+[05Feb2025 20:20:23.825] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small2 is being run through DFU (hash 88d55e517f8aae14402dce491cc6d72e6916736f8c96d2363ea3655daaa88999), this will cause launch time delays
+[05Feb2025 20:20:23.826] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table1 is being run through DFU (hash 409092f96f258af8c7f811852d856258f1bd0c79a51bd9b11858489ce3e91ed8), this will cause launch time delays
+[05Feb2025 20:20:23.830] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small3 is being run through DFU (hash 5c59dca773286a2a88f668c7a9bdf90810ff19b65003b8eb1a0eb26e4c1e2628), this will cause launch time delays
+[05Feb2025 20:20:23.832] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/ocean_portal is being run through DFU (hash 91c51fcb53aa42b9843a863bc4ad69a117290edb388c0f7cbe795d95b1e81cde), this will cause launch time delays
+[05Feb2025 20:20:23.843] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table_small1 is being run through DFU (hash ee0415a08738ceb00ae5ccd38a1876b352ee22106dd8f9e969e28b79a2ed8773), this will cause launch time delays
+[05Feb2025 20:20:23.846] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_d1 is being run through DFU (hash 0a71166328e02fb94c61a1f34752c281bf73223bf82a1ada215a00921a9c6165), this will cause launch time delays
+[05Feb2025 20:20:23.871] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_gold is being run through DFU (hash 997183b71a923ddc251a357bfb47c310d25d117e7dd1ca4cec6b847b5d6cdc99), this will cause launch time delays
+[05Feb2025 20:20:23.876] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/crossroads/decor1 is being run through DFU (hash 38b6f84706a798d66ed09a4165ba139eec7c062b8064f09bdaf90fce9c805caa), this will cause launch time delays
+[05Feb2025 20:20:23.877] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor3 is being run through DFU (hash 1f5ae44df04752073c033471fccb557ffdde2084f92774ac8f9abbe6737856b7), this will cause launch time delays
+[05Feb2025 20:20:23.880] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_d2 is being run through DFU (hash 9aab6eb4871dd41fce66cdd767283341eff96b9f7ec1cc7a0ff759c77bd23eb7), this will cause launch time delays
+[05Feb2025 20:20:23.896] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor6 is being run through DFU (hash 79ed125ea232bfc95c06144ae9d02ef23ec21d02fe5f616ad96202808922bc78), this will cause launch time delays
+[05Feb2025 20:20:23.897] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor1 is being run through DFU (hash de48a3ea0d6bdc4d1151cc6b10458574cf0ed0b9665de9ccabb0a1856dec56eb), this will cause launch time delays
+[05Feb2025 20:20:23.899] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/tables/table2 is being run through DFU (hash f14de7f70526efdb042f418f81334b38043bd725659b7e1fa144407b9a7c3f2b), this will cause launch time delays
+[05Feb2025 20:20:23.901] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/brewing is being run through DFU (hash 38208be29806ecd7bef79f33520ca6205e0f13bfcb20a174de486289fc5d3e44), this will cause launch time delays
+[05Feb2025 20:20:23.915] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/brewing_w is being run through DFU (hash 6b227cde7f7be104c34326d5a1319a090002d65183e78b5cb5ededcf25aaafdf), this will cause launch time delays
+[05Feb2025 20:20:23.928] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor2 is being run through DFU (hash 325c0aadd9873daeef187fb7103d1cb67b66029b9fe75f2fdb499233e4ed4d7e), this will cause launch time delays
+[05Feb2025 20:20:23.930] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w1 is being run through DFU (hash 66f4986b727d24ce23748ffa755c21128836e1dcf59f1668bc03cb4103bd34bc), this will cause launch time delays
+[05Feb2025 20:20:23.931] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/barrel_big3 is being run through DFU (hash 4ebef00f0f94ae0a2b13919a719152d072e96afa4650947d4e3cab75e318955e), this will cause launch time delays
+[05Feb2025 20:20:23.932] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/barrel_big1 is being run through DFU (hash 36b588994dba78dddddd4c4689f0e60ed82084c92263675d97dcf5a3571757f0), this will cause launch time delays
+[05Feb2025 20:20:23.934] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_2x1_special_farm_warped is being run through DFU (hash 575a116f17ebaa4b8d6a1bfb149b5cfe782abe1f1468881615ade4a8c4b98379), this will cause launch time delays
+[05Feb2025 20:20:23.943] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/wall_decor/decor4 is being run through DFU (hash 7b5fb082ab5176729187cd68a9b09726b58ab87e883249fa70e858a78755d7b9), this will cause launch time delays
+[05Feb2025 20:20:23.944] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_netherite is being run through DFU (hash 1f29f3ba4ff0a764f45e841875abfd92f6fd338e60422c9444ae59ce9ab904e9), this will cause launch time delays
+[05Feb2025 20:20:23.950] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/c2 is being run through DFU (hash b107ec42c66dece2440096f6297902ca719a5c09e91b7dc6d0572372a55d337b), this will cause launch time delays
+[05Feb2025 20:20:23.951] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs3 is being run through DFU (hash fa66a3b8e3a6a91927a2ec56e72294b1f846210b30500b51cde7d28eee6d81a0), this will cause launch time delays
+[05Feb2025 20:20:23.952] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/c3 is being run through DFU (hash 26b2cfd974a4820739a885bc38fbeb62c89923465bbd3dcd5b276cb7da8f5cb0), this will cause launch time delays
+[05Feb2025 20:20:23.953] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs2 is being run through DFU (hash 4f0b1e3fcf4fde6fd70e0a4b37ee1347c279cd45a4b01b9e11ba3ea6299572c7), this will cause launch time delays
+[05Feb2025 20:20:23.954] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/light1 is being run through DFU (hash 14cdf883bd4c3b81e1aafe9f1841a71c3a362f41e890a6b8db10cbf6dc6888a6), this will cause launch time delays
+[05Feb2025 20:20:23.957] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_2x1_1 is being run through DFU (hash 20725f57ff6dccbe4a64d3de9da236cf71d8dfb9cf1aec423173feeb02795f88), this will cause launch time delays
+[05Feb2025 20:20:23.974] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs4 is being run through DFU (hash 38881470a8cfa32f653a80e13c24c8a1171285e9ab7c1f4b9a2fd042b42ccdb1), this will cause launch time delays
+[05Feb2025 20:20:23.975] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/barrel2 is being run through DFU (hash 6231b305a8bd2bc07639cd15e7eae9fc639b4952c1eb5cd82d732c8bac5f7385), this will cause launch time delays
+[05Feb2025 20:20:23.976] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/light2 is being run through DFU (hash e47784b770d519e75b0d3230445b47157ab698537f5f12bfddfe3eae05370127), this will cause launch time delays
+[05Feb2025 20:20:23.978] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_backup is being run through DFU (hash 0530d2e3a62ab493253713f2bcf99f0697d89c2134819a241eac9927b0c4a108), this will cause launch time delays
+[05Feb2025 20:20:23.985] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_4 is being run through DFU (hash e2bc29fe93203dc41b594eaf448290d42700b061b0e4d0ce37f2abc2a4041fd8), this will cause launch time delays
+[05Feb2025 20:20:23.999] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/alchemist is being run through DFU (hash 7b59154803c0fd581e6d94457f855943cdad6d72b39127dd9bcfc32a74334243), this will cause launch time delays
+[05Feb2025 20:20:24.005] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/scout is being run through DFU (hash 8f01827d88eb8b2d27b117cdfe85e76e60256360acab401ab8408900be1cf30e), this will cause launch time delays
+[05Feb2025 20:20:24.010] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove11 is being run through DFU (hash b5fa057942b1e46255422542abd134b7ee70b5fd75b1c191794bb543f9aa2b2d), this will cause launch time delays
+[05Feb2025 20:20:24.012] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove6 is being run through DFU (hash 9e2dc7d3dda776dc443966bbdefcf5cff6aa094ce44aebc53704432d200b58ef), this will cause launch time delays
+[05Feb2025 20:20:24.017] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_base is being run through DFU (hash ac404f7915bd641821149a2f1b09c1398d445825856f09d3b06e511da2f0f1a1), this will cause launch time delays
+[05Feb2025 20:20:24.021] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand5 is being run through DFU (hash 7b62a5fdc721d9f7fa7688b120c55aba9bb2856dff4314f17629b03f6b61121f), this will cause launch time delays
+[05Feb2025 20:20:24.022] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand4 is being run through DFU (hash 3d4dc78799f286bcdabe75fc711acc843c3da6d358f4648b716062ead63417a6), this will cause launch time delays
+[05Feb2025 20:20:24.024] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand3 is being run through DFU (hash a32c399882395657f26b6766a1830109a6f05395fd992f7a537ba336b9a1ab97), this will cause launch time delays
+[05Feb2025 20:20:24.027] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm1 is being run through DFU (hash a591b31fc9becf533efc6d556150c2cf6ba988647f7ae6574253e6a064a254bf), this will cause launch time delays
+[05Feb2025 20:20:24.029] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand6 is being run through DFU (hash 4ec31af4d4deb327b324ae3fe3560277c00ab3da133be2b1ef9731c8539f5e8a), this will cause launch time delays
+[05Feb2025 20:20:24.030] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/table1 is being run through DFU (hash 29abebbbf2330dce22ec2bd5b5a2aea9864855099ad64c0ce30e198a03b840f7), this will cause launch time delays
+[05Feb2025 20:20:24.033] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm3_w is being run through DFU (hash d395572e21f77eed1ff64a2a3092395a2afae28e17adaecaaf438cc08d44abd3), this will cause launch time delays
+[05Feb2025 20:20:24.034] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/table2_w is being run through DFU (hash 33336284493df03de35f1b6f539d70e0ceb846901d0163cc6576a32bb1795730), this will cause launch time delays
+[05Feb2025 20:20:24.038] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/livq1 is being run through DFU (hash df369eb9c1e515ef6f6b908ecb55b545864d1abc4c417ad2ae8d48ac4d3cfb5b), this will cause launch time delays
+[05Feb2025 20:20:24.048] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_3 is being run through DFU (hash 66efcbe05f2ac29af828764826874af1715387eb37b28938afa3bb40205888ce), this will cause launch time delays
+[05Feb2025 20:20:24.057] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/livq2 is being run through DFU (hash 27b003d52f5b2286596b1a3b486f5b0ba7507db29f2fc4a275961fbc42b391f8), this will cause launch time delays
+[05Feb2025 20:20:24.069] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_short2 is being run through DFU (hash cf5e59c84d9292709e0b11b96df3329f37917ee4906d7bea4235c843e6c6c950), this will cause launch time delays
+[05Feb2025 20:20:24.073] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/treasure_netherite is being run through DFU (hash b3cd8088634bcfbf2a963d440440dc09f1934c1107f39fcb928d96f0baf84a25), this will cause launch time delays
+[05Feb2025 20:20:24.083] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand2 is being run through DFU (hash c21ae4ba40ecae7f99bfb35491926c2c284454e4c4daf84f2f8ad2a9f47f1316), this will cause launch time delays
+[05Feb2025 20:20:24.087] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_2 is being run through DFU (hash 85fd3ed0ea8cff4f3a79530b3c73bc28968d6ef5f3b8c6e5facfb61a66a9ab71), this will cause launch time delays
+[05Feb2025 20:20:24.113] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/saplings_small is being run through DFU (hash a8a880e0fea90cac3e1e82f4809809d421ec10234d0119a2042a307af67dfe74), this will cause launch time delays
+[05Feb2025 20:20:24.114] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/saplings_big is being run through DFU (hash 6fc71266613d99be7a797725fabacdd44f0a5bf8c774727b4851cdf11b61bc07), this will cause launch time delays
+[05Feb2025 20:20:24.116] [Server thread/DEBUG] [ModernFix/]: Structure incendium:castle/decor/saplings_b is being run through DFU (hash e0d03cffed5237d3ba16c9f8c18b9fd30c14e9519c7ffeeb0a0d8300268fabd0), this will cause launch time delays
+[05Feb2025 20:20:24.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2972ms or 59 ticks behind
+[05Feb2025 20:20:24.407] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:20:24.888] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_3_soul
+[05Feb2025 20:20:24.890] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:nether_skeleton_tower/nether_skeleton_tower_3_warped
+[05Feb2025 20:20:26.860] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/floors/1x1_l2 is being run through DFU (hash 35f57725feadaa0a957aaaa4e79c990d5545fb471e8ffb3d5480a3af39d0dbb4), this will cause launch time delays
+[05Feb2025 20:20:26.930] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/walls/wall_gate3 is being run through DFU (hash 486c4e3ede277965a67ad50569949ed5f8674eb2f4c0fc1dfee0181e79954a92), this will cause launch time delays
+[05Feb2025 20:20:26.956] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/trap_room is being run through DFU (hash 515d07bf7066d536759f06692750f17eb7e9b606afd44e9d1a052c2c0ce38ba8), this will cause launch time delays
+[05Feb2025 20:20:26.981] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/library is being run through DFU (hash 8d7efcf8b73a0ae2ac46a8905ffd69e37f72762c2ff6ca136c56cd42b134f584), this will cause launch time delays
+[05Feb2025 20:20:27.003] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/crypt is being run through DFU (hash 1f3c7f938073c4471728c94cc885c0a62bf79d6578a79c202fefccfa3941b228), this will cause launch time delays
+[05Feb2025 20:20:27.050] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/blacksmith is being run through DFU (hash a37ff30e340fa862095e92544b6557a5e3b23ebe17f7d87c5d2a771e0ffd8a2d), this will cause launch time delays
+[05Feb2025 20:20:27.106] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/round_table is being run through DFU (hash 2fc2b5b6b3c17c8535b218d66ebb61d3141be7573d51b7a26baf53c9a6fad2f7), this will cause launch time delays
+[05Feb2025 20:20:27.236] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/magma_room is being run through DFU (hash fe038dbe2947e331140de5ba21902eaee56f12c01fb19f707cdbd49f45f63a5c), this will cause launch time delays
+[05Feb2025 20:20:27.486] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/sentry_lab is being run through DFU (hash 6fef6612982980fbe2d9d6fb14de4956f7f7d0340f2ab16fa10fd3b03a72c6b2), this will cause launch time delays
+[05Feb2025 20:20:27.715] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/throne_room is being run through DFU (hash 9de6a69e964d0e9b71ef5eb5bccdf26a69bc660bf0c752bce67a476db55bbcee), this will cause launch time delays
+[05Feb2025 20:20:27.930] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/crimson_greenhouse is being run through DFU (hash 85ed23286fef6bb7d738d3e3db8329e8397272e92bd37ef44f99a8f7f26da6d4), this will cause launch time delays
+[05Feb2025 20:20:27.973] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/house_1x1 is being run through DFU (hash 16ee77a4d5d51867ddad884f87610785e60fe667aaef6007afdcdc0afe63ad9b), this will cause launch time delays
+[05Feb2025 20:20:27.981] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool4 is being run through DFU (hash 13437ca3f2a07ca102d5f073b12b2c7a41ed6ce319f77ee7170789af8eb2c1e5), this will cause launch time delays
+[05Feb2025 20:20:27.990] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool2 is being run through DFU (hash fd360ee4d586d4a71fcaf3654d3fa3e15a1be84e93a904c8398a242135ac1242), this will cause launch time delays
+[05Feb2025 20:20:28.001] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/strider/pool3 is being run through DFU (hash 4b6c302bd8e6baa2858a3f7f761771bc9177d1d5d6f9236f23ad227763b1048a), this will cause launch time delays
+[05Feb2025 20:20:28.015] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/armory_1 is being run through DFU (hash ee1713b38f1454cfbe0e0aa7b6aa3fa92110daad6d1fb12e33e7606afca11ae6), this will cause launch time delays
+[05Feb2025 20:20:28.052] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_8 is being run through DFU (hash 7f8289537156aa830c6cc5b273938cfd329495fe2e82f3da24b04be79a868c19), this will cause launch time delays
+[05Feb2025 20:20:28.067] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_1x1_1 is being run through DFU (hash 0c061032cc41ffac892476ffa8603198e627de4db55548e94e6cf0e867de035b), this will cause launch time delays
+[05Feb2025 20:20:28.081] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/pig_ben is being run through DFU (hash f50d99e478053f6778ebf88a6d60b786029db89bcb3b227dd3bd6f5c77d7d581), this will cause launch time delays
+[05Feb2025 20:20:28.140] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/1x1/archery_tower is being run through DFU (hash 3cdac9b175b1745001631ee79b383f6855f8b3549564a40bc0d2ff199387a5a2), this will cause launch time delays
+[05Feb2025 20:20:28.163] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/corridor/alcove4 is being run through DFU (hash 39c0c67e3a9673cbd2c97a158622c20104e44519fbc4c76e40ac3454ae3e91c5), this will cause launch time delays
+[05Feb2025 20:20:28.172] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/bridges/bridge1 is being run through DFU (hash e64e8ae8df4ef0520c9624f099b5ce5e062a966ff83c013895a894c74401ad5b), this will cause launch time delays
+[05Feb2025 20:20:28.177] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/boom_room is being run through DFU (hash ae8b9f12fd154f80b1d7743f7c3890bd76d155fab0f5a2eaee296485692ecd7e), this will cause launch time delays
+[05Feb2025 20:20:28.212] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/barrel_small2 is being run through DFU (hash 73282d3955392af9a6ea2d55504aa91833f0b1fdd073abb20dfdec82a7f5157c), this will cause launch time delays
+[05Feb2025 20:20:28.214] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/barrel_small3 is being run through DFU (hash 8e7816cf6a85ed45004d11c190cb296fed32bb8b4b63b28fdc748d6e6d1d0425), this will cause launch time delays
+[05Feb2025 20:20:28.215] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w2 is being run through DFU (hash fac036faabddaab41f3fa0dce921d46ec7498c88cddf74ec33db42758814964d), this will cause launch time delays
+[05Feb2025 20:20:28.217] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/w3 is being run through DFU (hash dbdefe508b7912c03ccd373bc196490c328d485864bbf852242f4b5a98344416), this will cause launch time delays
+[05Feb2025 20:20:28.218] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/c1 is being run through DFU (hash 18bacc9eb783896439c81aa642af5ce5fdb1a30693704eda35d54d207272e76a), this will cause launch time delays
+[05Feb2025 20:20:28.229] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/knight_guard is being run through DFU (hash b4f0888d665fc61862e3ede764fa215fdfdfa8b5a93e2179acb159e4e573726e), this will cause launch time delays
+[05Feb2025 20:20:28.235] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/blacksmith is being run through DFU (hash 3b782db9eca85451f3ee97e0f9e2cd2f529d602f0286988d084761ba2f535c97), this will cause launch time delays
+[05Feb2025 20:20:28.264] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/stand1 is being run through DFU (hash be0dba5391e352bef6c8f459a08d5f03888f0169020ee98a641346f95c0561d2), this will cause launch time delays
+[05Feb2025 20:20:28.267] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm3 is being run through DFU (hash 3d6fac05ccf1c462a84095b5f36bc9ca27efd94e8e652ecf490f0a120c745fe3), this will cause launch time delays
+[05Feb2025 20:20:28.269] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm2 is being run through DFU (hash f653d9b45eac4c828c5e246c3e4f1864a6030f6370d3f428da7e80c4b2e38d07), this will cause launch time delays
+[05Feb2025 20:20:28.273] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/table2 is being run through DFU (hash 61f5a12b8c2bcc5e7e94b867718753453b42408b1c64bf1076605bf3c5e9e685), this will cause launch time delays
+[05Feb2025 20:20:28.287] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/barrel1 is being run through DFU (hash 2fde4ac5dd46c086d149fa2b989e34f54bf6668a7f896d77d8e3f2b7969008de), this will cause launch time delays
+[05Feb2025 20:20:28.289] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/barrel3 is being run through DFU (hash 1a686f59649334d34b2a8b4a7d1e7b3d3de334e2e8d93e1400df03b603c59145), this will cause launch time delays
+[05Feb2025 20:20:28.291] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/storage/logs1 is being run through DFU (hash 573d4031bfa8b1efdebb1744cf2a84997ca75965bd2ff89984f3d111185cb1f8), this will cause launch time delays
+[05Feb2025 20:20:28.295] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/farms/farm4 is being run through DFU (hash b4354c821cbdf6153069c5cfb6f04ab19692bbc0c312ff7aaa3b8726b1f53d40), this will cause launch time delays
+[05Feb2025 20:20:28.313] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/farms/farm3 is being run through DFU (hash 4c841407026b7bb18d21fa9f9018d9439aa82970431ae6da59592657433a512a), this will cause launch time delays
+[05Feb2025 20:20:28.338] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm2_w is being run through DFU (hash ce705a108e4566b424458d624c8205238e7f939b5bf0ea48e67b33573d5dec39), this will cause launch time delays
+[05Feb2025 20:20:28.341] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/farm1_w is being run through DFU (hash d015463916324afba2105e16015bfc3fb73411f4394ced54b802bd1e794358e1), this will cause launch time delays
+[05Feb2025 20:20:28.345] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/brewing/table1_w is being run through DFU (hash 36d3ed106913a366eb454edf900b1a2c77271e25f335e14965f103083541ff41), this will cause launch time delays
+[05Feb2025 20:20:29.509] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[05Feb2025 20:20:30.393] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_jungle/jungle_village_center3
+[05Feb2025 20:20:30.397] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_center3
+[05Feb2025 20:20:30.681] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[05Feb2025 20:20:30.697] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[05Feb2025 20:20:30.714] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[05Feb2025 20:20:30.725] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[05Feb2025 20:20:30.734] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[05Feb2025 20:20:30.743] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[05Feb2025 20:20:30.789] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:20:30.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_start
+[05Feb2025 20:20:30.971] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_part2
+[05Feb2025 20:20:30.987] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_part4
+[05Feb2025 20:20:31.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_part1
+[05Feb2025 20:20:31.032] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:lost_soul_city_part3
+[05Feb2025 20:20:31.408] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_florist
+[05Feb2025 20:20:31.430] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_hunter
+[05Feb2025 20:20:31.487] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_oceanographer
+[05Feb2025 20:20:31.521] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_woodworker
+[05Feb2025 20:20:31.583] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/savanna/savanna_engineer
+[05Feb2025 20:20:35.504] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[05Feb2025 20:20:35.519] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/nether_devil
+[05Feb2025 20:20:37.228] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:20:40.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/desert/desert_woodworker
+[05Feb2025 20:20:40.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/desert/desert_hunter
+[05Feb2025 20:20:40.326] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/desert/desert_florist
+[05Feb2025 20:20:40.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of morevillagers:village/desert/desert_oceanographer
+[05Feb2025 20:20:40.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/desert/waystone
+[05Feb2025 20:20:40.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/26737, l='ServerLevel[world]', x=-649.61, y=53.52, z=-277.18] died: Restless Spirit starved to death
+[05Feb2025 20:20:42.256] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:20:43.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4457ms or 89 ticks behind
+[05Feb2025 20:20:47.453] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:20:49.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/26885, l='ServerLevel[world]', x=-671.17, y=106.02, z=-251.62] died: Restless Spirit starved to death
+[05Feb2025 20:20:50.808] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:20:55.832] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:20:57.070] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:desert_pyramid
+[05Feb2025 20:21:00.872] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:21:05.868] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:21:05.910] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/27865, l='ServerLevel[world]', x=-626.37, y=58.99, z=-182.99] died: Restless Spirit starved to death
+[05Feb2025 20:21:10.903] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:21:13.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 20:21:13.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

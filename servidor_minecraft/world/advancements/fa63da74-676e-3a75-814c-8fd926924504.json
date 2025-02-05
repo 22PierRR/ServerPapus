@@ -6918,6 +6918,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "fletchingtable": "2025-02-04 01:26:32 +0000",
+      "grindstone": "2025-02-05 20:20:35 +0000",
       "smoker": "2025-02-03 20:20:52 +0000"
     },
     "done": false
@@ -10120,6 +10121,18 @@
   "spartanweaponry:recipes/small_bolt_quiver": {
     "criteria": {
       "has_bolt": "2025-02-05 19:50:08 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/ruined_lab": {
+    "criteria": {
+      "requirement": "2025-02-05 20:17:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-05 20:18:06 +0000"
     },
     "done": true
   },
