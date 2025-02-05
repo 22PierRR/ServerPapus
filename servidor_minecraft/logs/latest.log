@@ -4211,3 +4211,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 16:39:37.722] [Server thread/INFO] [Jade/]: Syncing config to elrisas741 (77fcb98c-7faf-3dc8-8095-81ba0a63f778)
 [05Feb2025 16:41:18.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2228ms or 44 ticks behind
 [05Feb2025 16:43:28.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/48409, l='ServerLevel[world]', x=-12220.97, y=154.22, z=-10063.24] died: Restless Spirit starved to death
+[05Feb2025 16:47:40.957] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/48814, l='ServerLevel[world]', x=-12255.09, y=94.51, z=-10037.70] died: Restless Spirit starved to death
+[05Feb2025 16:48:21.408] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/48865, l='ServerLevel[world]', x=-12226.26, y=155.26, z=-10078.39] died: Restless Spirit starved to death
+[05Feb2025 16:51:43.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Ostohell the Angry'/49613, l='ServerLevel[world]', x=-5935.83, y=51.00, z=-6108.59] died: Ostohell the Angry was scorched to death
