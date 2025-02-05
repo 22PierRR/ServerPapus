@@ -20746,3 +20746,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 15:35:22.036] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=908, y=14, z=-7998}
 [05Feb2025 15:35:22.694] [Worker-Main-43/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:conduit_ruin/main/conduit_ruin_ring_1
 [05Feb2025 15:35:27.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2489ms or 49 ticks behind
+[05Feb2025 15:39:33.148] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 15:39:33.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 15:41:28.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [The Lapidary]
+[05Feb2025 15:41:38.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25869, l='ServerLevel[world]', x=-12232.38, y=143.99, z=-10066.29] died: Restless Spirit starved to death
+[05Feb2025 15:41:48.357] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25893, l='ServerLevel[world]', x=-12239.20, y=132.44, z=-10067.55] died: Restless Spirit starved to death
+[05Feb2025 15:42:27.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [The Jeweler]
+[05Feb2025 15:43:58.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/26125, l='ServerLevel[world]', x=-12219.58, y=140.46, z=-10040.84] died: Restless Spirit starved to death
+[05Feb2025 15:44:09.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/26141, l='ServerLevel[world]', x=-12248.61, y=127.03, z=-10063.03] died: Restless Spirit starved to death
+[05Feb2025 15:44:33.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 15:44:33.177] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
