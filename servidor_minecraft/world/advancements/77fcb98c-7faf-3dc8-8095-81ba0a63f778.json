@@ -8169,7 +8169,9 @@
   "morevillagers:all_professions_traded": {
     "criteria": {
       "cleric": "2025-02-04 01:20:37 +0000",
-      "butcher": "2025-02-04 03:08:57 +0000"
+      "fletcher": "2025-02-05 14:55:51 +0000",
+      "butcher": "2025-02-04 03:08:57 +0000",
+      "librarian": "2025-02-05 14:58:06 +0000"
     },
     "done": false
   },
