@@ -2954,6 +2954,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "brewingstand": "2025-02-03 19:20:12 +0000",
+      "grindstone": "2025-02-05 20:55:42 +0000",
       "smoker": "2025-02-04 03:08:34 +0000",
       "smithingtable": "2025-02-05 02:57:29 +0000",
       "stonecutter": "2025-02-04 01:17:43 +0000",
@@ -8175,7 +8176,8 @@
       "cleric": "2025-02-04 01:20:37 +0000",
       "fletcher": "2025-02-05 14:55:51 +0000",
       "butcher": "2025-02-04 03:08:57 +0000",
-      "librarian": "2025-02-05 14:58:06 +0000"
+      "librarian": "2025-02-05 14:58:06 +0000",
+      "hunter": "2025-02-05 21:12:44 +0000"
     },
     "done": false
   },
@@ -10696,6 +10698,12 @@
   "pfm:recipes/furniture/andesite_modern_stool": {
     "criteria": {
       "has_planks": "2025-02-05 17:52:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-02-05 20:55:36 +0000"
     },
     "done": true
   },
