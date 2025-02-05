@@ -4164,3 +4164,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 14:50:27.044] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-475, y=-11, z=-489}
 [05Feb2025 14:52:01.338] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-285, y=-54, z=-424}
 [05Feb2025 14:54:17.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/13799, l='ServerLevel[world]', x=-307.78, y=92.10, z=-723.65] died: Honeyed Archer burned to death
+[05Feb2025 15:12:21.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Annie the Honest'/19429, l='ServerLevel[world]', x=-6036.70, y=66.20, z=-6059.30] died: Annie the Honest was frozen to death by elrisas741
+[05Feb2025 15:14:25.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Nina the Not Very Nice'/19950, l='ServerLevel[world]', x=-5992.57, y=64.00, z=-6118.86] died: Nina the Not Very Nice was slain by elrisas741

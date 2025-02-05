@@ -9867,6 +9867,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-05 15:04:45 +0000"
+    },
+    "done": true
+  },
   "pfm:recipes/furniture/bamboo_light_blue_classic_bed": {
     "criteria": {
       "has_bed": "2025-02-05 14:31:49 +0000"

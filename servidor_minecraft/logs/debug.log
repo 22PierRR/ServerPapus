@@ -20394,3 +20394,107 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 15:03:35.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [05Feb2025 15:04:30.712] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 15:04:30.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 15:05:47.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road7
+[05Feb2025 15:05:47.991] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road9
+[05Feb2025 15:05:47.993] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road10
+[05Feb2025 15:05:47.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road2
+[05Feb2025 15:05:47.994] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_alchemist1
+[05Feb2025 15:05:47.996] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large1
+[05Feb2025 15:05:47.997] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/stilt1
+[05Feb2025 15:05:47.998] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small4
+[05Feb2025 15:05:47.999] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large2
+[05Feb2025 15:05:48.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small6
+[05Feb2025 15:05:48.000] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road8
+[05Feb2025 15:05:48.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack2
+[05Feb2025 15:05:48.001] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter3
+[05Feb2025 15:05:48.002] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter1
+[05Feb2025 15:05:48.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_miner1
+[05Feb2025 15:05:48.003] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_armored
+[05Feb2025 15:05:48.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small5
+[05Feb2025 15:05:48.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large3
+[05Feb2025 15:05:48.006] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/garden1
+[05Feb2025 15:05:48.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road1
+[05Feb2025 15:05:48.007] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter5
+[05Feb2025 15:05:48.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road4
+[05Feb2025 15:05:48.008] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_lumberjack1
+[05Feb2025 15:05:48.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road11
+[05Feb2025 15:05:48.009] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/road6
+[05Feb2025 15:05:48.010] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large4
+[05Feb2025 15:05:48.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/inter6
+[05Feb2025 15:05:48.013] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/large5
+[05Feb2025 15:05:48.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/houses/small1
+[05Feb2025 15:05:48.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:cvill/mobs/piglin_worker1
+[05Feb2025 15:06:37.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:06:37.314] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:06:38.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:06:38.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:06:40.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:06:40.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:06:41.510] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:06:42.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:06:42.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:06:43.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:06:44.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:06:44.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:06:46.306] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:08:15.970] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[05Feb2025 15:09:09.632] [Worker-Main-9/DEBUG] [ModernFix/]: Structure nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_warped is being run through DFU (hash 9963b5117de06df66f4bf7591fbc795e0cfc6f63d1dbd82123e4f3dbb138e8a8), this will cause launch time delays
+[05Feb2025 15:09:09.634] [Worker-Main-9/DEBUG] [ModernFix/]: Structure nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_basalt is being run through DFU (hash bcdffcd24420e748316a1974a3312a7e73d13c64fa948e53b1c0e8623174d15d), this will cause launch time delays
+[05Feb2025 15:09:09.636] [Worker-Main-9/DEBUG] [ModernFix/]: Structure nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_soul is being run through DFU (hash 6ea360315654d38436c5213ff24313c186fe5cfdd86b0efe69d7d558183adaa5), this will cause launch time delays
+[05Feb2025 15:09:09.637] [Worker-Main-9/DEBUG] [ModernFix/]: Structure nova_structures:nether_skeleton_tower/nether_skeleton_tower_2_crimson is being run through DFU (hash e00884be6e84c580481d05b8b2475e59a5b40ee444ac0d948877e81a344527bb), this will cause launch time delays
+[05Feb2025 15:09:15.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:09:15.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:09:30.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 15:09:30.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 15:10:45.608] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:45.612] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:10:45.612] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:45.614] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:45.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:47.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:47.463] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:10:47.463] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:47.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:49.560] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:50.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:50.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:10:52.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:52.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:53.409] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:54.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:54.664] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:10:55.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:11:04.411] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:12:07.793] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:12:08.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:12:09.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:12:09.812] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:12:15.858] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:12:15.861] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:12:16.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:12:16.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:12:21.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Annie the Honest'/19429, l='ServerLevel[world]', x=-6036.70, y=66.20, z=-6059.30] died: Annie the Honest was frozen to death by elrisas741
+[05Feb2025 15:13:26.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:13:26.948] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:13:32.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:13:32.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:13:38.358] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:13:38.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:13:39.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:13:39.862] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:13:41.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:13:41.262] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:13:54.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:14:12.796] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:14:17.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:14:24.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:14:24.965] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:14:25.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:14:25.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Nina the Not Very Nice'/19950, l='ServerLevel[world]', x=-5992.57, y=64.00, z=-6118.86] died: Nina the Not Very Nice was slain by elrisas741
+[05Feb2025 15:14:25.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[05Feb2025 15:14:30.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 15:14:30.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 15:15:26.710] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:15:27.111] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:15:29.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 15:15:29.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
