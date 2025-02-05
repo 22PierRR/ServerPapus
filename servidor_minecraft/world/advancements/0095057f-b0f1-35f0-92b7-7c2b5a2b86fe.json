@@ -11618,6 +11618,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "nether_wart": "2025-02-05 20:42:13 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_plough": {
     "criteria": {
       "has_item": "2025-02-05 19:37:37 +0000"
@@ -12356,6 +12362,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2025-02-05 20:49:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-02-05 19:57:18 +0000"
@@ -12431,6 +12443,12 @@
   "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2025-02-05 19:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-02-05 20:42:13 +0000"
     },
     "done": true
   },

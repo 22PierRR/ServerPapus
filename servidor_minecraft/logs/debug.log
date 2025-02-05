@@ -23115,3 +23115,177 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 20:39:27.932] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:crypt_start
 [05Feb2025 20:41:23.548] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Feb2025 20:41:23.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 20:42:13.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [A Seedy Place]
+[05Feb2025 20:42:25.467] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/46280, l='ServerLevel[world]', x=-12234.18, y=113.59, z=-10037.68] died: Restless Spirit starved to death
+[05Feb2025 20:43:07.440] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:43:07.605] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:43:15.728] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:43:29.839] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:43:34.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/47098, l='ServerLevel[world]', x=-12236.58, y=130.08, z=-10062.95] died: Restless Spirit starved to death
+[05Feb2025 20:43:34.786] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:43:34.848] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:43:39.389] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:level_one_ruins9
+[05Feb2025 20:43:39.977] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:43:45.743] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:43:56.079] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:43:56.233] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:44:01.084] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:44:01.378] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:44:06.114] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[05Feb2025 20:44:12.236] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_fire
+[05Feb2025 20:44:12.239] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_1
+[05Feb2025 20:44:12.241] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_4
+[05Feb2025 20:44:12.242] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_waste_event_5
+[05Feb2025 20:44:12.245] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:skeleton_camp/skeleton_camp_soul_event_5
+[05Feb2025 20:44:27.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:44:28.021] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:44:29.649] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/47604, l='ServerLevel[world]', x=-578.80, y=73.73, z=-153.75] died: Restless Spirit starved to death
+[05Feb2025 20:44:30.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:44:45.050] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/48006, l='ServerLevel[world]', x=-12219.43, y=160.41, z=-10074.58] died: Restless Spirit starved to death
+[05Feb2025 20:44:57.006] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:45:16.060] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[05Feb2025 20:45:16.061] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 18.54 Armor value: 6.0 Damage ignoring armor (50.0% damage): 9.27 Damage not ignoring armor: 9.27 Reduced Damage: 5.7937503 Result Damage: 15.063751
+[05Feb2025 20:45:18.502] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[05Feb2025 20:45:18.502] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 26.78 Armor value: 6.0 Damage ignoring armor (50.0% damage): 13.39 Damage not ignoring armor: 13.39 Reduced Damage: 8.368751 Result Damage: 21.75875
+[05Feb2025 20:46:06.984] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:field_stone_ruins_rock3
+[05Feb2025 20:46:09.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2612ms or 52 ticks behind
+[05Feb2025 20:46:10.621] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3720, y=-44, z=-468}
+[05Feb2025 20:46:12.523] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3785, y=-44, z=-405}
+[05Feb2025 20:46:20.170] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_oak
+[05Feb2025 20:46:20.171] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_villager
+[05Feb2025 20:46:20.173] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_desert
+[05Feb2025 20:46:20.173] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_jungle
+[05Feb2025 20:46:20.174] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_dark_oak
+[05Feb2025 20:46:20.175] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_desert
+[05Feb2025 20:46:20.175] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_spruce
+[05Feb2025 20:46:20.176] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_cherry
+[05Feb2025 20:46:20.177] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_butcher
+[05Feb2025 20:46:20.177] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_trader
+[05Feb2025 20:46:20.178] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_spruce
+[05Feb2025 20:46:20.179] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_spruce
+[05Feb2025 20:46:20.179] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_spruce
+[05Feb2025 20:46:20.180] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_acacia
+[05Feb2025 20:46:20.180] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_acacia
+[05Feb2025 20:46:20.181] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_acacia
+[05Feb2025 20:46:20.182] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_acacia
+[05Feb2025 20:46:20.183] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_birch
+[05Feb2025 20:46:20.183] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_birch
+[05Feb2025 20:46:20.184] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_birch
+[05Feb2025 20:46:20.185] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_birch
+[05Feb2025 20:46:20.186] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_birch
+[05Feb2025 20:46:20.186] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_birch
+[05Feb2025 20:46:20.187] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_birch
+[05Feb2025 20:46:20.187] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_birch
+[05Feb2025 20:46:20.188] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_birch
+[05Feb2025 20:46:20.188] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_desert
+[05Feb2025 20:46:20.189] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_desert
+[05Feb2025 20:46:20.191] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_desert
+[05Feb2025 20:46:20.191] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_desert
+[05Feb2025 20:46:20.192] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_desert
+[05Feb2025 20:46:20.192] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_desert
+[05Feb2025 20:46:20.193] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_desert
+[05Feb2025 20:46:20.193] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_mangrove
+[05Feb2025 20:46:20.194] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_mangrove
+[05Feb2025 20:46:20.194] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_mangrove
+[05Feb2025 20:46:20.199] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_mangrove
+[05Feb2025 20:46:20.200] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_mangrove
+[05Feb2025 20:46:20.200] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_mangrove
+[05Feb2025 20:46:20.201] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_mangrove
+[05Feb2025 20:46:20.201] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_mangrove
+[05Feb2025 20:46:20.202] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_mangrove
+[05Feb2025 20:46:20.203] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_dark_oak
+[05Feb2025 20:46:20.203] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_dark_oak
+[05Feb2025 20:46:20.204] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_dark_oak
+[05Feb2025 20:46:20.205] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_dark_oak
+[05Feb2025 20:46:20.205] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_dark_oak
+[05Feb2025 20:46:20.206] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_dark_oak
+[05Feb2025 20:46:20.206] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_wandering_farmer_dark_oak
+[05Feb2025 20:46:20.206] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_dark_oak
+[05Feb2025 20:46:20.207] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_dark_oak
+[05Feb2025 20:46:20.208] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_oak
+[05Feb2025 20:46:20.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_oak
+[05Feb2025 20:46:20.209] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_oak
+[05Feb2025 20:46:20.210] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_oak
+[05Feb2025 20:46:20.211] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_oak
+[05Feb2025 20:46:20.214] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_oak
+[05Feb2025 20:46:20.215] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_oak
+[05Feb2025 20:46:20.218] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_oak
+[05Feb2025 20:46:20.218] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_cherry
+[05Feb2025 20:46:20.219] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_cherry
+[05Feb2025 20:46:20.219] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_cherry
+[05Feb2025 20:46:20.220] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_cherry
+[05Feb2025 20:46:20.220] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_cherry
+[05Feb2025 20:46:20.221] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_cherry
+[05Feb2025 20:46:20.221] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_cherry
+[05Feb2025 20:46:20.222] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_cherry
+[05Feb2025 20:46:20.222] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_swamp
+[05Feb2025 20:46:20.223] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_swamp
+[05Feb2025 20:46:20.223] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_swamp
+[05Feb2025 20:46:20.224] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_swamp
+[05Feb2025 20:46:20.224] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_swamp
+[05Feb2025 20:46:20.224] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_swamp
+[05Feb2025 20:46:20.225] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_swamp
+[05Feb2025 20:46:20.225] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_enterance_jungle
+[05Feb2025 20:46:20.226] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_middle_jungle
+[05Feb2025 20:46:20.227] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_fence_jungle
+[05Feb2025 20:46:20.227] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_animal_food_jungle
+[05Feb2025 20:46:20.228] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_hay_storage_jungle
+[05Feb2025 20:46:20.228] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_jungle
+[05Feb2025 20:46:20.229] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_jungle
+[05Feb2025 20:46:20.229] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_jungle
+[05Feb2025 20:46:20.230] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_log_snowy
+[05Feb2025 20:46:20.230] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trash_trader_snowy
+[05Feb2025 20:46:20.230] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_well_snowy
+[05Feb2025 20:46:20.231] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_food_supply_snowy
+[05Feb2025 20:46:20.232] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cartographer
+[05Feb2025 20:46:20.232] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_cleric
+[05Feb2025 20:46:20.233] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_farmer
+[05Feb2025 20:46:20.233] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fisher
+[05Feb2025 20:46:20.234] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_fletcher
+[05Feb2025 20:46:20.234] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_grindstone
+[05Feb2025 20:46:20.235] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_leather_worker
+[05Feb2025 20:46:20.235] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_librarian
+[05Feb2025 20:46:20.236] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_loom
+[05Feb2025 20:46:20.236] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_smithing_table
+[05Feb2025 20:46:20.237] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_stonecutter
+[05Feb2025 20:46:20.237] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:tavern/tavern_event_trader_car_armorer
+[05Feb2025 20:46:22.419] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:mod_structures/desert_ruin4
+[05Feb2025 20:46:22.426] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:badlands_ruin1
+[05Feb2025 20:46:26.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 20:46:26.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 20:46:27.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_tower_5
+[05Feb2025 20:46:29.141] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of philipsruins:ancient_ruin_20
+[05Feb2025 20:46:29.408] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[05Feb2025 20:46:29.441] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[05Feb2025 20:47:22.029] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/lumber_c is being run through DFU (hash d753a3903840545ce58075f0ac1e65ceaf12ba1027c5f0c669ec19b6def42ed5), this will cause launch time delays
+[05Feb2025 20:47:22.135] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_small_w is being run through DFU (hash 99f2538c790b8ea5d56f619fea79c614150c08617ee40e7a530a7bbf51142a47), this will cause launch time delays
+[05Feb2025 20:47:22.202] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/tower/tower_small is being run through DFU (hash 40b1fd3ef8248b68e77e3e2c1ef8df61294147556524570047d597271e0362e7), this will cause launch time delays
+[05Feb2025 20:47:22.260] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/war_table is being run through DFU (hash 184965157ff5ce8ceb78e30f6944b385c1b9bf486a0cbab9b34b6b1431aafb0f), this will cause launch time delays
+[05Feb2025 20:47:22.299] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/pyro is being run through DFU (hash a1e6d792b40e5731a4e50c70b442fb9c3e937f5eb7b99257287e639b766b624b), this will cause launch time delays
+[05Feb2025 20:47:22.375] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/staircase is being run through DFU (hash d257893cc7e5cade612be213c883e391cbce65a624cf638a34798340bbfb875c), this will cause launch time delays
+[05Feb2025 20:47:22.408] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x2/warped_greenhouse is being run through DFU (hash a43b846181f0ae5bd756de4589b30b14a7946aa5c4900f8b88b31064d4d6c26d), this will cause launch time delays
+[05Feb2025 20:47:22.464] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_2x1_special_farm is being run through DFU (hash 6afe839871197db5b897a8c86d3df0c7729757441b3a6640cdc799754dd7fa5a), this will cause launch time delays
+[05Feb2025 20:47:22.476] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/mobs/pyromancer is being run through DFU (hash ecb7c536b6e8981da5bd444b507af082b37c51769b29dd270bc4f5a96a9c01d2), this will cause launch time delays
+[05Feb2025 20:47:22.520] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/roofs/roof_2x1_3 is being run through DFU (hash 294e6cb2b4ea1d54c8cd779fa1bad5fe7cad59cbc86ffcd54bf1de3f60b0a226), this will cause launch time delays
+[05Feb2025 20:47:22.563] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/statues/king_ruined1 is being run through DFU (hash d20500e6a0a0fcad89727b68c6124859c1241463629e4f1216d175867283e4d9), this will cause launch time delays
+[05Feb2025 20:47:22.667] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/statues/king_intact1 is being run through DFU (hash 051f8c59252b079d1983cf2cd1c8aac2db40efecfd082e27cd043ff226eb1185), this will cause launch time delays
+[05Feb2025 20:47:22.760] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/rooms/2x1/treasure_quartz is being run through DFU (hash 2e66e6ce35ba538a4af33a6cd61e64d6846985990799cccf5157401a250e6b5e), this will cause launch time delays
+[05Feb2025 20:47:22.775] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/barrel_small1 is being run through DFU (hash 0884491162ccedbcdd69adf1ce5c1fb0435b3b2fe58c999856b15c0ed818235d), this will cause launch time delays
+[05Feb2025 20:47:22.777] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/lumber/barrel_big2 is being run through DFU (hash a0c70f0141beaaffb0cc89505279b77445571da650ba22da4f046804be22726a), this will cause launch time delays
+[05Feb2025 20:47:22.780] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/farms/farm1 is being run through DFU (hash 5c428260ee5771613cf81700e597cce7a6a01be0e02d6d655d462d28a034a2ac), this will cause launch time delays
+[05Feb2025 20:47:22.797] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/farms/farm2 is being run through DFU (hash 9cb5430fe6297b8b4c80bd53420fc243d75e4e0b84bb395f9ce276680a43197e), this will cause launch time delays
+[05Feb2025 20:47:22.814] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/treasure/quartz/statue2 is being run through DFU (hash 7f01d6b192b20648dd6f89c31da6749f8d2b8ca9b04b01511a1a332ed2cea2ce), this will cause launch time delays
+[05Feb2025 20:47:22.817] [Worker-Main-2/DEBUG] [ModernFix/]: Structure incendium:castle/decor/treasure/quartz/statue3 is being run through DFU (hash a32c8f42cef1365a6a8c53bb41c7114a6b8cceabc2baad959fe4138b6e46d682), this will cause launch time delays
+[05Feb2025 20:47:23.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:donjon/mob/donjon_mob_hooglin
+[05Feb2025 20:47:44.802] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/49935, l='ServerLevel[world]', x=-12243.59, y=92.52, z=-10025.24] died: Restless Spirit withered away
+[05Feb2025 20:48:08.846] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[05Feb2025 20:48:08.846] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 20.3322 Armor value: 29.0 Damage ignoring armor (50.0% damage): 10.1661 Damage not ignoring armor: 10.1661 Reduced Damage: 2.6066923 Result Damage: 12.772792
+[05Feb2025 20:48:16.395] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/49988, l='ServerLevel[world]', x=-12212.65, y=159.19, z=-10047.96] died: Restless Spirit starved to death
+[05Feb2025 20:49:47.698] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Ricky the Doominator'/50972, l='ServerLevel[world]', x=-99133.61, y=65.38, z=-80333.70] died: Ricky the Doominator was slain by Guard
+[05Feb2025 20:49:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [The Bender of the 15th Century]
+[05Feb2025 20:50:01.818] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[05Feb2025 20:51:26.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Feb2025 20:51:26.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Feb2025 20:51:40.740] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_0
+[05Feb2025 20:51:40.741] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_1
+[05Feb2025 20:51:40.742] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise_seven_seas:small_yacht/small_yacht_spawner_0
