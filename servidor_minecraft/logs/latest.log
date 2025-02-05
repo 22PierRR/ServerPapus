@@ -4136,3 +4136,31 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Feb2025 14:28:49.613] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [05Feb2025 14:28:49.614] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [05Feb2025 14:29:18.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Town Tourist]
+[05Feb2025 14:34:24.488] [Server thread/WARN] [tombstone/]: The death event of the player elrisas741 was canceled by another mod
+[05Feb2025 14:34:24.562] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[05Feb2025 14:34:24.682] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.261377f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[05Feb2025 14:34:31.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 tried to swim in lava
+[05Feb2025 14:37:40.318] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=396, y=39, z=-296}
+[05Feb2025 14:37:57.836] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=376, y=36, z=-73}
+[05Feb2025 14:38:23.556] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=416, y=-6, z=20}
+[05Feb2025 14:38:23.570] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=415, y=-6, z=20}
+[05Feb2025 14:38:27.475] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=542, y=23, z=-330}
+[05Feb2025 14:39:11.234] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=694, y=2, z=41}
+[05Feb2025 14:39:50.728] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=683, y=-39, z=199}
+[05Feb2025 14:40:55.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set elrisas741's game mode to Creative Mode
+[05Feb2025 14:41:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set elrisas741's game mode to Survival Mode
+[05Feb2025 14:41:31.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3309ms or 66 ticks behind
+[05Feb2025 14:41:33.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has reached the goal [Easy Opening]
+[05Feb2025 14:42:04.129] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[05Feb2025 14:42:06.385] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[05Feb2025 14:42:06.385] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[05Feb2025 14:42:06.385] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[05Feb2025 14:42:06.385] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[05Feb2025 14:42:06.385] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[05Feb2025 14:42:06.551] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[05Feb2025 14:42:08.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4133ms or 82 ticks behind
+[05Feb2025 14:44:01.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Mine? Mine? Mine?]
+[05Feb2025 14:50:27.043] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-475, y=-11, z=-488}
+[05Feb2025 14:50:27.044] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-475, y=-11, z=-489}
+[05Feb2025 14:52:01.338] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-285, y=-54, z=-424}
+[05Feb2025 14:54:17.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/13799, l='ServerLevel[world]', x=-307.78, y=92.10, z=-723.65] died: Honeyed Archer burned to death
