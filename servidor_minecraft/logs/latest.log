@@ -8,3 +8,4 @@
 [06Feb2025 00:34:12.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR moved too quickly! -10.393591501550997,0.0,0.09954761911139798
 [06Feb2025 00:36:31.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/58779, l='ServerLevel[world]', x=109.62, y=98.27, z=8.53] died: Honeyed Archer burned to death
 [06Feb2025 00:40:09.007] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 3 in "main" inventory handler
+[06Feb2025 00:56:38.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: 22PieroRR
