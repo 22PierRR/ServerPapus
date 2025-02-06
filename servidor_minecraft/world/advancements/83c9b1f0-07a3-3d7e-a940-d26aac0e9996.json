@@ -1808,6 +1808,7 @@
       "minecraft:vindicator": "2025-02-04 00:22:47 +0000",
       "minecraft:spider": "2025-02-03 18:12:43 +0000",
       "minecraft:creeper": "2025-02-03 18:24:33 +0000",
+      "minecraft:evoker": "2025-02-05 23:51:03 +0000",
       "minecraft:phantom": "2025-02-03 19:15:19 +0000",
       "minecraft:witch": "2025-02-04 00:03:47 +0000",
       "minecraft:wither_skeleton": "2025-02-03 19:40:26 +0000",
@@ -8327,6 +8328,7 @@
   },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
+      "killed_evoker": "2025-02-05 23:51:03 +0000",
       "killed_illusioner": "2025-02-04 01:33:22 +0000"
     },
     "done": false
@@ -9498,6 +9500,90 @@
   "dungeons_arise:find_illager_fort": {
     "criteria": {
       "location0": "2025-02-05 22:46:28 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/oak_chair_classic_brown": {
+    "criteria": {
+      "oak_chair_classic_brown": "2025-02-05 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 23:46:21 +0000"
+    },
+    "done": true
+  },
+  "pfm:recipes/furniture/brown_shower_towel": {
+    "criteria": {
+      "has_brown_wool": "2025-02-05 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 23:46:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-02-05 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_stool": {
+    "criteria": {
+      "has_wool": "2025-02-05 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-02-05 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-02-05 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-02-05 23:42:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-05 23:46:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-02-05 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_curtain": {
+    "criteria": {
+      "has_wool": "2025-02-05 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-02-05 23:39:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/brown_lamp": {
+    "criteria": {
+      "has_wool": "2025-02-05 23:39:04 +0000"
     },
     "done": true
   },
