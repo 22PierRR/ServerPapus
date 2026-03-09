@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "apricorn_cobblemon_raw_table_log",
+      "entries": [
+        {
+          "name": "pfm:apricorn_cobblemon_raw_table_log",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

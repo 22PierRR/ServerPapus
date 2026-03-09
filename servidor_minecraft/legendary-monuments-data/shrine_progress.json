@@ -1,0 +1,15 @@
+{
+  "world_1867173482": {
+    "0095057f-b0f1-35f0-92b7-7c2b5a2b86fe": {
+      "GROUNDBLIGHT": 1,
+      "GRASSWITHER": 1
+    },
+    "950901ea-be01-3998-a99d-f1b00edb8d7e": {
+      "GRASSWITHER": 2,
+      "FIRESCOURGE": 2,
+      "GROUNDBLIGHT": 1
+    },
+    "77fcb98c-7faf-3dc8-8095-81ba0a63f778": {},
+    "83c9b1f0-07a3-3d7e-a940-d26aac0e9996": {}
+  }
+}

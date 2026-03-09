@@ -1,0 +1,113 @@
+{
+  "uuid": "83c9b1f0-07a3-3d7e-a940-d26aac0e9996",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "09e3c725-3873-4a87-bbc4-6fc42ef97aa4",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 9,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 11,
+    "totalBattleVictoryCount": 95,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 28,
+    "totalPvNBattleVictoryCount": 67,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 2,
+    "totalTypeCaptureCounts": {
+      "flying": 3,
+      "fire": 2,
+      "grass": 2,
+      "poison": 1,
+      "water": 1,
+      "normal": 1,
+      "electric": 1,
+      "dragon": 1,
+      "ground": 1
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:fletchling": 1,
+      "cobblemon:timburr": 1,
+      "cobblemon:hoppip": 1,
+      "cobblemon:fidough": 1,
+      "cobblemon:lillipup": 1,
+      "cobblemon:qwilfish": 1,
+      "cobblemon:basculin": 2,
+      "cobblemon:bibarel": 1,
+      "cobblemon:torkoal": 2,
+      "cobblemon:maschiff": 1,
+      "cobblemon:skitty": 1,
+      "cobblemon:grumpig": 1,
+      "cobblemon:gurdurr": 1,
+      "cobblemon:pidgeotto": 1,
+      "cobblemon:bouffalant": 1,
+      "cobblemon:sigilyph": 1,
+      "cobblemon:gimmighoul": 1,
+      "cobblemon:purugly": 1,
+      "cobblemon:meloetta": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:rookidee": [
+        "female"
+      ],
+      "cobblemon:corvisquire": [
+        "female"
+      ],
+      "cobblemon:marshtomp": [
+        "male"
+      ],
+      "cobblemon:chimchar": [
+        "male"
+      ],
+      "cobblemon:foongus": [
+        "male"
+      ],
+      "cobblemon:froakie": [
+        "male"
+      ],
+      "cobblemon:monferno": [
+        "male"
+      ],
+      "cobblemon:ditto": [
+        "genderless"
+      ],
+      "cobblemon:frogadier": [
+        "male"
+      ],
+      "cobblemon:kilowattrel": [
+        "female"
+      ],
+      "cobblemon:gible": [
+        "female"
+      ],
+      "cobblemon:swampert": [
+        "male"
+      ],
+      "cobblemon:gabite": [
+        "female"
+      ],
+      "cobblemon:amoonguss": [
+        "male"
+      ],
+      "cobblemon:corviknight": [
+        "female"
+      ],
+      "cobblemon:rowlet": [
+        "male"
+      ],
+      "cobblemon:infernape": [
+        "male"
+      ],
+      "cobblemon:charmeleon": [
+        "male"
+      ],
+      "cobblemon:garchomp": [
+        "female"
+      ]
+    }
+  }
+}

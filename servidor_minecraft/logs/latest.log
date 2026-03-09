@@ -1,0 +1,315 @@
+[09Mar2026 00:00:14.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by 22PieroRR
+[09Mar2026 00:00:14.220] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[09Mar2026 00:00:35.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XDDXD
+[09Mar2026 00:00:40.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> perdon
+[09Mar2026 00:01:04.831] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Gyarados'/66520, l='ServerLevel[world]', x=-7169.50, y=59.91, z=-2997.50, removed=DISCARDED] wasn't found in section SectionPos{x=-449, y=3, z=-188} (destroying due to DISCARDED)
+[09Mar2026 00:01:51.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was shot by 22PieroRR
+[09Mar2026 00:01:51.840] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[09Mar2026 00:02:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 froze to death
+[09Mar2026 00:02:56.139] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[09Mar2026 00:03:17.261] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/67092, l='ServerLevel[world]', x=-7148.16, y=60.07, z=-2954.23, removed=DISCARDED] wasn't found in section SectionPos{x=-447, y=3, z=-185} (destroying due to DISCARDED)
+[09Mar2026 00:04:21.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR has made the advancement [Hot Stuff]
+[09Mar2026 00:04:26.482] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[09Mar2026 00:04:26.482] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 6
+[09Mar2026 00:04:26.483] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 2
+[09Mar2026 00:04:26.483] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[09Mar2026 00:04:26.483] [Server thread/INFO] [AllTheLeaks/]: B: 1980MB / C: 2236MB / Diff: +256MB
+[09Mar2026 00:04:26.483] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[09Mar2026 00:04:26.483] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[09Mar2026 00:04:26.483] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 544
+[09Mar2026 00:04:26.483] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[09Mar2026 00:04:26.483] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 6
+[09Mar2026 00:09:39.913] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 00:13:03.298] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 00:14:20.893] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 00:14:26.539] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[09Mar2026 00:14:26.539] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 6
+[09Mar2026 00:14:26.539] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 2
+[09Mar2026 00:14:26.539] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[09Mar2026 00:14:26.539] [Server thread/INFO] [AllTheLeaks/]: B: 1980MB / C: 2286MB / Diff: +306MB
+[09Mar2026 00:14:26.539] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[09Mar2026 00:14:26.539] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[09Mar2026 00:14:26.540] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[09Mar2026 00:16:21.821] [Server thread/INFO] [playerxp/]: It is now day: 145. The XP cap has been reset!
+[09Mar2026 00:16:39.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ya se largó
+[09Mar2026 00:16:42.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XDDDDDDDDDXDDDDXXDDXD
+[09Mar2026 00:17:25.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> yo tengo
+[09Mar2026 00:17:46.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> si
+[09Mar2026 00:18:48.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> si
+[09Mar2026 00:19:26.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aerodactyl (vehicle of 22PieroRR) moved too quickly! -9.073628273743452,-0.5250761089650808,-4.772434823210119
+[09Mar2026 00:19:26.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aerodactyl (vehicle of 22PieroRR) moved too quickly! -10.12759092774013,-0.5713111512387883,-5.214118462158808
+[09Mar2026 00:19:26.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aerodactyl (vehicle of 22PieroRR) moved too quickly! -11.188133558376649,-0.6170090212750097,-5.642595086248491
+[09Mar2026 00:19:31.246] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[376f0f78-6626-40d4-855b-1c64dddc747f]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 00:19:38.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> disco?
+[09Mar2026 00:20:04.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> que nubs pa no saber craftear
+[09Mar2026 00:20:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> ya lo hice
+[09Mar2026 00:20:59.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> mira ven donde esta la erika
+[09Mar2026 00:21:05.605] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: 22PieroRR
+[09Mar2026 00:21:23.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of 22PieroRR) moved too quickly! 4086.185184950981,0.5,2469.4338511594033
+[09Mar2026 00:21:23.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of 22PieroRR) moved too quickly! 4086.185184950981,0.5,2469.4338511594033
+[09Mar2026 00:21:23.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of 22PieroRR) moved too quickly! 4086.185184950981,0.5,2469.4338511594033
+[09Mar2026 00:21:23.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of 22PieroRR) moved too quickly! 4086.185184950981,0.5,2469.4338511594033
+[09Mar2026 00:22:59.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> REPARACION MIO
+[09Mar2026 00:23:11.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XDDD
+[09Mar2026 00:24:26.594] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[09Mar2026 00:24:26.595] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 6
+[09Mar2026 00:24:26.595] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 2
+[09Mar2026 00:24:26.595] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[09Mar2026 00:24:26.595] [Server thread/INFO] [AllTheLeaks/]: B: 1980MB / C: 2344MB / Diff: +364MB
+[09Mar2026 00:24:26.595] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[09Mar2026 00:24:26.595] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[09Mar2026 00:24:26.596] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 1341
+[09Mar2026 00:24:26.596] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[09Mar2026 00:24:26.596] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[09Mar2026 00:25:08.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> O Q ME MIRAS
+[09Mar2026 00:25:39.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 froze to death
+[09Mar2026 00:25:39.157] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[09Mar2026 00:25:46.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[09Mar2026 00:27:26.632] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Gyarados'/78441, l='ServerLevel[world]', x=-7179.38, y=63.00, z=-2955.17, removed=DISCARDED] wasn't found in section SectionPos{x=-449, y=3, z=-185} (destroying due to DISCARDED)
+[09Mar2026 00:27:32.169] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/78469, l='ServerLevel[world]', x=-7187.74, y=74.60, z=-2916.43, removed=DISCARDED] wasn't found in section SectionPos{x=-450, y=4, z=-183} (destroying due to DISCARDED)
+[09Mar2026 00:27:33.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved wrongly!
+[09Mar2026 00:27:42.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 moved wrongly!
+[09Mar2026 00:27:45.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XDD
+[09Mar2026 00:27:51.097] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Gyarados'/78725, l='ServerLevel[world]', x=-7197.50, y=73.10, z=-2916.50, removed=DISCARDED] wasn't found in section SectionPos{x=-450, y=4, z=-183} (destroying due to DISCARDED)
+[09Mar2026 00:27:52.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> como se cayo como kk de su gyarados
+[09Mar2026 00:28:00.883] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Gyarados'/78766, l='ServerLevel[world]', x=-7188.00, y=79.00, z=-2906.81, removed=DISCARDED] wasn't found in section SectionPos{x=-450, y=4, z=-182} (destroying due to DISCARDED)
+[09Mar2026 00:28:02.722] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/78722, l='ServerLevel[world]', x=-7210.38, y=63.00, z=-2919.35, removed=DISCARDED] wasn't found in section SectionPos{x=-451, y=3, z=-183} (destroying due to DISCARDED)
+[09Mar2026 00:28:10.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaulMBM moved wrongly!
+[09Mar2026 00:28:57.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RaulMBM> pasalo p
+[09Mar2026 00:28:59.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RaulMBM> XDD
+[09Mar2026 00:30:06.731] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Marshadow'/78859, l='ServerLevel[world]', x=-7178.22, y=64.00, z=-2909.30, removed=KILLED] wasn't found in section SectionPos{x=-449, y=4, z=-182} (destroying due to DISCARDED)
+[09Mar2026 00:30:38.933] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/79257, l='ServerLevel[world]', x=-7177.28, y=64.00, z=-2909.37, removed=DISCARDED] wasn't found in section SectionPos{x=-449, y=4, z=-182} (destroying due to DISCARDED)
+[09Mar2026 00:30:41.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> jijija
+[09Mar2026 00:30:57.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> me robe tu gastly shiny
+[09Mar2026 00:31:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[09Mar2026 00:32:13.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> esos son de
+[09Mar2026 00:32:17.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> raul
+[09Mar2026 00:33:44.286] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/78812, l='ServerLevel[world]', x=-7171.77, y=63.00, z=-2990.04, removed=DISCARDED] wasn't found in section SectionPos{x=-449, y=3, z=-187} (destroying due to DISCARDED)
+[09Mar2026 00:33:48.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaulMBM froze to death
+[09Mar2026 00:33:48.161] [Server thread/INFO] [tombstone/]: The player RaulMBM has successfully been saved
+[09Mar2026 00:34:26.632] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[09Mar2026 00:34:26.632] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 8
+[09Mar2026 00:34:26.632] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 2
+[09Mar2026 00:34:26.632] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[09Mar2026 00:34:26.633] [Server thread/INFO] [AllTheLeaks/]: B: 1980MB / C: 2113MB / Diff: +133MB
+[09Mar2026 00:34:26.633] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[09Mar2026 00:34:26.633] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[09Mar2026 00:34:26.633] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 37
+[09Mar2026 00:34:26.633] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[09Mar2026 00:34:26.633] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 6
+[09Mar2026 00:34:55.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> yo no tengo
+[09Mar2026 00:35:09.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> esq el water
+[09Mar2026 00:35:11.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> es sagrado
+[09Mar2026 00:36:21.474] [Server thread/INFO] [playerxp/]: It is now day: 146. The XP cap has been reset!
+[09Mar2026 00:36:54.678] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/319, l='ServerLevel[world]', x=-7216.70, y=61.05, z=-2891.30] died, message: 'Nitwit drowned'
+[09Mar2026 00:37:00.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> en la mesa
+[09Mar2026 00:37:02.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> de crafteo
+[09Mar2026 00:37:06.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> en receta
+[09Mar2026 00:39:48.167] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: 22PieroRR
+[09Mar2026 00:40:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> uwu
+[09Mar2026 00:40:24.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 was slain by RaulMBM
+[09Mar2026 00:40:24.553] [Server thread/INFO] [tombstone/]: The player elrisas741 has successfully been saved
+[09Mar2026 00:40:58.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RaulMBM> si p
+[09Mar2026 00:41:00.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RaulMBM> XD
+[09Mar2026 00:41:13.733] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/83016, l='ServerLevel[world]', x=-7165.34, y=63.00, z=-2968.50, removed=DISCARDED] wasn't found in section SectionPos{x=-448, y=3, z=-186} (destroying due to DISCARDED)
+[09Mar2026 00:42:20.534] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/83208, l='ServerLevel[world]', x=-7166.02, y=63.00, z=-2969.59, removed=DISCARDED] wasn't found in section SectionPos{x=-448, y=3, z=-186} (destroying due to DISCARDED)
+[09Mar2026 00:43:15.914] [Netty Epoll Server IO #6/INFO] [legendarymonuments/]: Player RaulMBM disconnected, saving their progress data
+[09Mar2026 00:43:15.915] [Netty Epoll Server IO #6/INFO] [legendarymonuments/]: Saved shrine progress for player RaulMBM in world world_1867173482
+[09Mar2026 00:43:15.933] [Server thread/INFO] [legendarymonuments/]: Player RaulMBM disconnected, saving their progress data
+[09Mar2026 00:43:15.934] [Server thread/INFO] [legendarymonuments/]: Saved shrine progress for player RaulMBM in world world_1867173482
+[09Mar2026 00:43:15.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaulMBM lost connection: Disconnected
+[09Mar2026 00:43:15.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaulMBM left the game
+[09Mar2026 00:43:15.936] [Server thread/INFO] [Radical Cobblemon Trainers/]: Unregistered trainer player: RaulMBM
+[09Mar2026 00:43:15.939] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 950901ea-be01-3998-a99d-f1b00edb8d7e
+[09Mar2026 00:43:21.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[09Mar2026 00:43:27.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RaulMBM[/127.47.185.203:59987] logged in with entity id 83518 at (-7157.456808170839, 64.0, -2956.4064910454385)
+[09Mar2026 00:43:27.749] [Server thread/INFO] [legendarymonuments/]: Player RaulMBM joined, loading progress data
+[09Mar2026 00:43:27.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaulMBM joined the game
+[09Mar2026 00:43:27.774] [Server thread/INFO] [Radical Cobblemon Trainers/]: Registered trainer player: RaulMBM
+[09Mar2026 00:43:27.794] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 950901ea-be01-3998-a99d-f1b00edb8d7e
+[09Mar2026 00:43:37.783] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Aerodactyl'/80644, l='ServerLevel[world]', x=-7159.81, y=63.00, z=-2964.73, removed=DISCARDED] wasn't found in section SectionPos{x=-448, y=3, z=-186} (destroying due to DISCARDED)
+[09Mar2026 00:44:26.682] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[09Mar2026 00:44:26.682] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 9
+[09Mar2026 00:44:26.682] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[09Mar2026 00:44:26.683] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[09Mar2026 00:44:26.683] [Server thread/INFO] [AllTheLeaks/]: B: 1980MB / C: 2205MB / Diff: +225MB
+[09Mar2026 00:44:26.683] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[09Mar2026 00:44:26.683] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[09Mar2026 00:44:26.683] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 769
+[09Mar2026 00:44:26.683] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[09Mar2026 00:44:26.683] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 7
+[09Mar2026 00:45:34.886] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 00:45:36.140] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 00:45:47.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> XD
+[09Mar2026 00:46:45.041] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 00:47:02.166] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 00:47:02.290] [Server thread/ERROR] [com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface/]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+[09Mar2026 00:47:02.296] [Server thread/ERROR] [com.ishland.c2me.rewrites.chunksystem.common.NewChunkHolderVanillaInterface/]: Block/Light update reentrance detected, use -Dc2me.debugBlockLightUpdateReentrance=true to debug
+[09Mar2026 00:47:04.718] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[78c8a4ef-26fd-4994-a41c-7c18a89b267c]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 00:47:38.841] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[0b6d44b4-b1fc-401e-99fc-5f5625b978d7]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 00:47:45.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> llevame
+[09Mar2026 00:47:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> a la ciudad
+[09Mar2026 00:47:49.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> p
+[09Mar2026 00:48:03.505] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Garchomp'/84455, l='ServerLevel[world]', x=-3094.39, y=64.50, z=704.84, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:48:04.838] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 00:49:39.833] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Golem'/84820, l='ServerLevel[world]', x=-3088.32, y=64.00, z=712.01, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:50:01.685] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[78c8a4ef-26fd-4994-a41c-7c18a89b267c]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 00:50:13.047] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Garchomp'/85430, l='ServerLevel[world]', x=-3093.28, y=64.00, z=706.72, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:50:19.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <22PieroRR> o no se queden tanto porque le queda solo 10% al server
+[09Mar2026 00:50:24.034] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 00:50:34.006] [Netty Epoll Server IO #6/INFO] [legendarymonuments/]: Player 22PieroRR disconnected, saving their progress data
+[09Mar2026 00:50:34.006] [Netty Epoll Server IO #6/INFO] [legendarymonuments/]: Saved shrine progress for player 22PieroRR in world world_1867173482
+[09Mar2026 00:50:34.035] [Server thread/INFO] [legendarymonuments/]: Player 22PieroRR disconnected, saving their progress data
+[09Mar2026 00:50:34.035] [Server thread/INFO] [legendarymonuments/]: Saved shrine progress for player 22PieroRR in world world_1867173482
+[09Mar2026 00:50:34.035] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 22PieroRR lost connection: Disconnected
+[09Mar2026 00:50:34.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 22PieroRR left the game
+[09Mar2026 00:50:34.036] [Server thread/INFO] [Radical Cobblemon Trainers/]: Unregistered trainer player: 22PieroRR
+[09Mar2026 00:50:34.037] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 0095057f-b0f1-35f0-92b7-7c2b5a2b86fe
+[09Mar2026 00:50:43.290] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[0b6d44b4-b1fc-401e-99fc-5f5625b978d7]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 00:51:13.289] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Golem'/85710, l='ServerLevel[world]', x=-3090.54, y=64.00, z=705.75, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:52:00.886] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Garchomp'/85647, l='ServerLevel[world]', x=-3088.76, y=64.00, z=711.11, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:52:30.234] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Golem'/86096, l='ServerLevel[world]', x=-3090.33, y=63.88, z=710.73, removed=KILLED] wasn't found in section SectionPos{x=-194, y=3, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:52:51.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Garchomp'/86240, l='ServerLevel[world]', x=-3090.39, y=63.85, z=710.35, removed=KILLED] wasn't found in section SectionPos{x=-194, y=3, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:53:06.185] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[78c8a4ef-26fd-4994-a41c-7c18a89b267c]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 00:53:43.591] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[0b6d44b4-b1fc-401e-99fc-5f5625b978d7]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 00:53:50.542] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 00:53:59.937] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/86351, l='ServerLevel[world]', x=-3091.32, y=64.00, z=707.86, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:54:06.991] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 00:54:25.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TrainerMob['Koga'/84158, l='ServerLevel[world]', x=-3094.49, y=65.00, z=717.21] died: Koga was slain by RaulMBM
+[09Mar2026 00:54:26.735] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[09Mar2026 00:54:26.735] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 9
+[09Mar2026 00:54:26.735] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[09Mar2026 00:54:26.735] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[09Mar2026 00:54:26.735] [Server thread/INFO] [AllTheLeaks/]: B: 1980MB / C: 2358MB / Diff: +378MB
+[09Mar2026 00:54:26.735] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[09Mar2026 00:54:26.735] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[09Mar2026 00:54:26.736] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 493
+[09Mar2026 00:54:26.736] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[09Mar2026 00:54:26.736] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 6
+[09Mar2026 00:55:10.394] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Golem'/87102, l='ServerLevel[world]', x=-3087.71, y=64.00, z=711.67, removed=DISCARDED] wasn't found in section SectionPos{x=-193, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:55:39.347] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Greninja'/87220, l='ServerLevel[world]', x=-3088.18, y=64.00, z=711.42, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:56:06.288] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[78c8a4ef-26fd-4994-a41c-7c18a89b267c]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 00:56:13.537] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Garchomp'/87363, l='ServerLevel[world]', x=-3087.72, y=64.00, z=711.69, removed=DISCARDED] wasn't found in section SectionPos{x=-193, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:56:16.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Brace Yourself for Mega!]
+[09Mar2026 00:56:21.474] [Server thread/INFO] [playerxp/]: It is now day: 147. The XP cap has been reset!
+[09Mar2026 00:56:49.138] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[0b6d44b4-b1fc-401e-99fc-5f5625b978d7]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 00:57:04.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Mega Mode: Activated!]
+[09Mar2026 00:57:04.996] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[6fc8d2cb-1dc5-4163-b05e-17d622a79fe5]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 00:57:07.886] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Golem'/87509, l='ServerLevel[world]', x=-3088.43, y=64.00, z=709.51, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:57:21.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity TrainerMob['Koga'/87016, l='ServerLevel[world]', x=-3096.57, y=64.00, z=716.07] died: Koga was slain by RaulMBM
+[09Mar2026 00:58:08.735] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Golem'/87967, l='ServerLevel[world]', x=-3089.08, y=64.00, z=711.36, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 00:58:24.334] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Jhons Nicols'/87707, l='ServerLevel[world]', x=-7164.73, y=63.00, z=-2966.78, removed=DISCARDED] wasn't found in section SectionPos{x=-448, y=3, z=-186} (destroying due to DISCARDED)
+[09Mar2026 00:58:28.335] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Jhons Nicols'/88110, l='ServerLevel[world]', x=-7164.29, y=63.00, z=-2966.05, removed=DISCARDED] wasn't found in section SectionPos{x=-448, y=3, z=-186} (destroying due to DISCARDED)
+[09Mar2026 00:59:36.729] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Greninja'/88059, l='ServerLevel[world]', x=-3089.60, y=64.00, z=711.24, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:00:25.983] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Golem'/88304, l='ServerLevel[world]', x=-3089.06, y=64.00, z=711.10, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:00:44.144] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 01:01:00.243] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:01:08.541] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 01:01:57.087] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Marshadow'/88656, l='ServerLevel[world]', x=-3093.11, y=63.50, z=711.90, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=3, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:02:00.038] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:02:01.695] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 01:02:46.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Sweet Tooth]
+[09Mar2026 01:02:48.591] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 01:02:49.133] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Golem'/88771, l='ServerLevel[world]', x=-3087.57, y=64.00, z=708.66, removed=DISCARDED] wasn't found in section SectionPos{x=-193, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:02:54.039] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:03:00.539] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:03:09.784] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Jhons Nicols'/88153, l='ServerLevel[world]', x=-3093.09, y=64.00, z=707.14, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:03:12.733] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Jhons Nicols'/88838, l='ServerLevel[world]', x=-3096.07, y=64.00, z=702.88, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:03:22.943] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 01:03:31.791] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:03:53.187] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 01:03:55.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Garchomp'/88903, l='ServerLevel[world]', x=-3087.27, y=64.00, z=707.63, removed=DISCARDED] wasn't found in section SectionPos{x=-193, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:04:26.782] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[09Mar2026 01:04:26.782] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 9
+[09Mar2026 01:04:26.782] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 4
+[09Mar2026 01:04:26.782] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[09Mar2026 01:04:26.782] [Server thread/INFO] [AllTheLeaks/]: B: 1980MB / C: 2161MB / Diff: +181MB
+[09Mar2026 01:04:26.783] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[09Mar2026 01:04:26.783] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[09Mar2026 01:04:26.783] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 369
+[09Mar2026 01:04:26.783] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[09Mar2026 01:04:26.783] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 6
+[09Mar2026 01:04:48.431] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:06:44.834] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:06:53.641] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:06:57.285] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[78c8a4ef-26fd-4994-a41c-7c18a89b267c]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 01:06:59.132] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[0b6d44b4-b1fc-401e-99fc-5f5625b978d7]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 01:08:04.880] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Volcarona'/89748, l='ServerLevel[world]', x=-3089.50, y=64.00, z=698.88, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:08:31.181] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/89742, l='ServerLevel[world]', x=-3093.38, y=64.00, z=704.37, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:08:37.285] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Greninja'/89863, l='ServerLevel[world]', x=-3092.74, y=63.50, z=704.05, removed=KILLED] wasn't found in section SectionPos{x=-194, y=3, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:09:05.380] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Iron Thorns'/89804, l='ServerLevel[world]', x=-3090.01, y=64.00, z=698.89, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:09:32.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Golem'/89897, l='ServerLevel[world]', x=-3093.29, y=64.00, z=704.17, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:10:00.430] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Minun'/89997, l='ServerLevel[world]', x=-3092.15, y=63.89, z=704.02, removed=KILLED] wasn't found in section SectionPos{x=-194, y=3, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:10:02.036] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[78c8a4ef-26fd-4994-a41c-7c18a89b267c]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 01:10:03.631] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[0b6d44b4-b1fc-401e-99fc-5f5625b978d7]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 01:10:31.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/90073, l='ServerLevel[world]', x=-3093.38, y=64.00, z=704.31, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:10:55.832] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Bibarel'/90090, l='ServerLevel[world]', x=-3092.77, y=63.50, z=704.16, removed=KILLED] wasn't found in section SectionPos{x=-194, y=3, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:12:30.268] [Netty Epoll Server IO #4/INFO] [legendarymonuments/]: Player elrisas741 disconnected, saving their progress data
+[09Mar2026 01:12:30.269] [Netty Epoll Server IO #4/INFO] [legendarymonuments/]: Saved shrine progress for player elrisas741 in world world_1867173482
+[09Mar2026 01:12:30.284] [Server thread/INFO] [legendarymonuments/]: Player elrisas741 disconnected, saving their progress data
+[09Mar2026 01:12:30.284] [Server thread/INFO] [legendarymonuments/]: Saved shrine progress for player elrisas741 in world world_1867173482
+[09Mar2026 01:12:30.284] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[09Mar2026 01:12:30.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[09Mar2026 01:12:30.285] [Server thread/INFO] [Radical Cobblemon Trainers/]: Unregistered trainer player: elrisas741
+[09Mar2026 01:12:30.289] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 77fcb98c-7faf-3dc8-8095-81ba0a63f778
+[09Mar2026 01:12:40.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elrisas741[/127.138.184.233:38605] logged in with entity id 90370 at (-3091.945830028868, 63.5, 703.9318236681963)
+[09Mar2026 01:12:40.506] [Server thread/INFO] [legendarymonuments/]: Player elrisas741 joined, loading progress data
+[09Mar2026 01:12:40.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 joined the game
+[09Mar2026 01:12:40.543] [Server thread/INFO] [Radical Cobblemon Trainers/]: Registered trainer player: elrisas741
+[09Mar2026 01:12:40.576] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 77fcb98c-7faf-3dc8-8095-81ba0a63f778
+[09Mar2026 01:12:45.034] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/90140, l='ServerLevel[world]', x=-3093.56, y=64.00, z=704.48, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:13:00.834] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[78c8a4ef-26fd-4994-a41c-7c18a89b267c]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 01:13:09.432] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[0b6d44b4-b1fc-401e-99fc-5f5625b978d7]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 01:13:23.194] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 01:13:29.737] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:14:26.831] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[09Mar2026 01:14:26.832] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 9
+[09Mar2026 01:14:26.832] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 5
+[09Mar2026 01:14:26.832] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[09Mar2026 01:14:26.832] [Server thread/INFO] [AllTheLeaks/]: B: 1980MB / C: 2176MB / Diff: +196MB
+[09Mar2026 01:14:26.832] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[09Mar2026 01:14:26.832] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[09Mar2026 01:14:26.832] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 29
+[09Mar2026 01:14:26.832] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[09Mar2026 01:14:26.832] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 7
+[09Mar2026 01:14:52.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Jhons Nicols'/90680, l='ServerLevel[world]', x=-3095.26, y=64.00, z=701.17, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:15:05.830] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Jhons Nicols'/90711, l='ServerLevel[world]', x=-3096.37, y=64.00, z=701.22, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:15:07.634] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:15:23.497] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 01:15:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaulMBM has made the advancement [Where's my Victory Music?]
+[09Mar2026 01:15:52.185] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Hydrapple'/90804, l='ServerLevel[world]', x=-3092.49, y=64.00, z=699.24, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:15:54.800] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: RaulMBM
+[09Mar2026 01:15:55.284] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Hydrapple'/90847, l='ServerLevel[world]', x=-3092.83, y=64.00, z=701.73, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:15:58.242] [Server thread/INFO] [lumymon/]: Opened Remote PC for player: elrisas741
+[09Mar2026 01:16:05.286] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[78c8a4ef-26fd-4994-a41c-7c18a89b267c]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 01:16:08.033] [Server thread/INFO] [tim_core/]: Could not determine spawn bucket of Combee[0b6d44b4-b1fc-401e-99fc-5f5625b978d7]. Common reasons: unnatural spawn, pre-TimCore spawn, or data erased by another mod.
+[09Mar2026 01:16:21.474] [Server thread/INFO] [playerxp/]: It is now day: 148. The XP cap has been reset!
+[09Mar2026 01:17:22.281] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Medicham'/90929, l='ServerLevel[world]', x=-3094.51, y=64.00, z=702.00, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:17:36.229] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Hydrapple'/90928, l='ServerLevel[world]', x=-3091.18, y=64.00, z=700.31, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:18:35.731] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Altaria'/91015, l='ServerLevel[world]', x=-3095.76, y=64.00, z=701.82, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:19:16.929] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Minun'/91169, l='ServerLevel[world]', x=-3094.40, y=64.00, z=702.81, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:19:38.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Medicham'/91273, l='ServerLevel[world]', x=-3094.89, y=64.00, z=702.76, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:19:51.431] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Altaria'/91295, l='ServerLevel[world]', x=-3095.83, y=64.00, z=702.32, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:20:12.781] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Jhons Nicols'/91104, l='ServerLevel[world]', x=-3091.04, y=64.00, z=700.02, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:20:52.681] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/91370, l='ServerLevel[world]', x=-3090.44, y=64.00, z=700.16, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:21:07.481] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Charizard'/91321, l='ServerLevel[world]', x=-3095.65, y=64.00, z=702.67, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:21:19.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Ditto'/91484, l='ServerLevel[world]', x=-3094.49, y=64.00, z=702.57, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:22:06.081] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Golem'/90807, l='ServerLevel[world]', x=-3096.03, y=64.00, z=704.37, removed=KILLED] wasn't found in section SectionPos{x=-194, y=4, z=44} (destroying due to DISCARDED)
+[09Mar2026 01:22:08.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 has made the advancement [Where's my Victory Music?]
+[09Mar2026 01:22:13.835] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: Entity PokemonEntity['Marshadow'/91444, l='ServerLevel[world]', x=-3091.29, y=64.00, z=700.07, removed=DISCARDED] wasn't found in section SectionPos{x=-194, y=4, z=43} (destroying due to DISCARDED)
+[09Mar2026 01:22:19.652] [Netty Epoll Server IO #3/INFO] [legendarymonuments/]: Player elrisas741 disconnected, saving their progress data
+[09Mar2026 01:22:19.652] [Netty Epoll Server IO #3/INFO] [legendarymonuments/]: Saved shrine progress for player elrisas741 in world world_1867173482
+[09Mar2026 01:22:19.693] [Server thread/INFO] [legendarymonuments/]: Player elrisas741 disconnected, saving their progress data
+[09Mar2026 01:22:19.694] [Server thread/INFO] [legendarymonuments/]: Saved shrine progress for player elrisas741 in world world_1867173482
+[09Mar2026 01:22:19.694] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elrisas741 lost connection: Disconnected
+[09Mar2026 01:22:19.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elrisas741 left the game
+[09Mar2026 01:22:19.694] [Server thread/INFO] [Radical Cobblemon Trainers/]: Unregistered trainer player: elrisas741
+[09Mar2026 01:22:19.698] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 77fcb98c-7faf-3dc8-8095-81ba0a63f778
+[09Mar2026 01:22:21.387] [Netty Epoll Server IO #0/INFO] [legendarymonuments/]: Player RaulMBM disconnected, saving their progress data
+[09Mar2026 01:22:21.389] [Netty Epoll Server IO #0/INFO] [legendarymonuments/]: Saved shrine progress for player RaulMBM in world world_1867173482
+[09Mar2026 01:22:21.395] [Server thread/INFO] [legendarymonuments/]: Player RaulMBM disconnected, saving their progress data
+[09Mar2026 01:22:21.395] [Server thread/INFO] [legendarymonuments/]: Saved shrine progress for player RaulMBM in world world_1867173482
+[09Mar2026 01:22:21.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RaulMBM lost connection: Disconnected
+[09Mar2026 01:22:21.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RaulMBM left the game
+[09Mar2026 01:22:21.396] [Server thread/INFO] [Radical Cobblemon Trainers/]: Unregistered trainer player: RaulMBM
+[09Mar2026 01:22:21.398] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 950901ea-be01-3998-a99d-f1b00edb8d7e

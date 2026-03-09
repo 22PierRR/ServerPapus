@@ -1,0 +1,24 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "distortion_legendarymonuments_orange_classic_bed",
+      "entries": [
+        {
+          "conditions": [
+            {
+              "block": "pfm:distortion_legendarymonuments_orange_classic_bed",
+              "properties": {
+                "part": "head"
+              },
+              "condition": "minecraft:block_state_property"
+            }
+          ],
+          "name": "pfm:distortion_legendarymonuments_orange_classic_bed",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1.0,
+      "bonus_rolls": 0.0,
+      "name": "mega_meteorid_block_mega_showdown_kitchen_drawer",
+      "entries": [
+        {
+          "name": "pfm:mega_meteorid_block_mega_showdown_kitchen_drawer",
+          "type": "minecraft:item"
+        }
+      ]
+    }
+  ]
+}

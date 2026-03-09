@@ -1,0 +1,184 @@
+{
+  "uuid": "950901ea-be01-3998-a99d-f1b00edb8d7e",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "7788e181-0456-4887-8d34-6931a1b69c24",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 21,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 6,
+    "totalEvolvedCount": 13,
+    "totalBattleVictoryCount": 152,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 72,
+    "totalPvNBattleVictoryCount": 79,
+    "totalShinyCaptureCount": 3,
+    "totalTradedCount": 7,
+    "totalTypeCaptureCounts": {
+      "rock": 4,
+      "electric": 4,
+      "ground": 2,
+      "water": 2,
+      "dragon": 2,
+      "flying": 2,
+      "fighting": 2,
+      "normal": 3,
+      "fire": 4,
+      "psychic": 3
+    },
+    "totalDefeatedCounts": {
+      "cobblemon:trubbish": 1,
+      "cobblemon:yamper": 5,
+      "cobblemon:fidough": 1,
+      "cobblemon:rolycoly": 1,
+      "cobblemon:glameow": 1,
+      "cobblemon:carkol": 1,
+      "cobblemon:tornadus": 1,
+      "cobblemon:gimmighoul": 3,
+      "cobblemon:voltorb": 3,
+      "cobblemon:ditto": 1,
+      "cobblemon:rhyhorn": 1,
+      "cobblemon:maractus": 1,
+      "cobblemon:wormadam": 2,
+      "cobblemon:charjabug": 1,
+      "cobblemon:pyroar": 1,
+      "cobblemon:falinks": 1,
+      "cobblemon:spiritomb": 1,
+      "cobblemon:skitty": 2,
+      "cobblemon:donphan": 1,
+      "cobblemon:rattata": 2,
+      "cobblemon:snubbull": 1,
+      "cobblemon:munna": 2,
+      "cobblemon:nidoranm": 2,
+      "cobblemon:meowth": 1,
+      "cobblemon:fearow": 2,
+      "cobblemon:girafarig": 2,
+      "cobblemon:toedscool": 1,
+      "cobblemon:nidorino": 1,
+      "cobblemon:eevee": 1,
+      "cobblemon:litleo": 1,
+      "cobblemon:electrike": 1,
+      "cobblemon:blitzle": 1,
+      "cobblemon:raticate": 1,
+      "cobblemon:spinda": 1,
+      "cobblemon:heatmor": 1,
+      "cobblemon:wiglett": 1,
+      "cobblemon:pidgey": 2,
+      "cobblemon:cleffa": 1,
+      "cobblemon:togedemaru": 1
+    },
+    "aspectsCollected": {
+      "cobblemon:lycanroc": [
+        "female",
+        "midnight-form",
+        "midday-form"
+      ],
+      "cobblemon:minun": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:frogadier": [
+        "male"
+      ],
+      "cobblemon:geodude": [
+        "male"
+      ],
+      "cobblemon:graveler": [
+        "male"
+      ],
+      "cobblemon:golem": [
+        "male"
+      ],
+      "cobblemon:gyarados": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:magikarp": [
+        "female",
+        "magikarp-jump-standard",
+        "gyarados-eye-color-red"
+      ],
+      "cobblemon:altaria": [
+        "male"
+      ],
+      "cobblemon:cramorant": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:riolu": [
+        "male"
+      ],
+      "cobblemon:ditto": [
+        "genderless"
+      ],
+      "cobblemon:shinx": [
+        "female"
+      ],
+      "cobblemon:pikachu": [
+        "female",
+        "libre"
+      ],
+      "cobblemon:luxio": [
+        "female"
+      ],
+      "cobblemon:bidoof": [
+        "shiny",
+        "male"
+      ],
+      "cobblemon:raboot": [
+        "male"
+      ],
+      "cobblemon:medicham": [
+        "male"
+      ],
+      "cobblemon:gengar": [
+        "female"
+      ],
+      "cobblemon:gible": [
+        "female"
+      ],
+      "cobblemon:charmander": [
+        "male"
+      ],
+      "cobblemon:charmeleon": [
+        "male"
+      ],
+      "cobblemon:infernape": [
+        "male"
+      ],
+      "cobblemon:charizard": [
+        "male"
+      ],
+      "cobblemon:gabite": [
+        "female"
+      ],
+      "cobblemon:garchomp": [
+        "female"
+      ],
+      "cobblemon:greninja": [
+        "male"
+      ],
+      "cobblemon:ironthorns": [
+        "genderless"
+      ],
+      "cobblemon:victini": [
+        "genderless"
+      ],
+      "cobblemon:charcadet": [
+        "male"
+      ],
+      "cobblemon:hypno": [
+        "female"
+      ],
+      "cobblemon:bibarel": [
+        "shiny",
+        "male"
+      ]
+    }
+  }
+}
